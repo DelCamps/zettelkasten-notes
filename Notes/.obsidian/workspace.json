@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "15769675421f52e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "df447032186533c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643b0318d608575d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Main Notes/First step in sequence to sequence arquitecture - Word to indices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First step in sequence to sequence arquitecture - Word to indices"
+            }
+          },
+          {
+            "id": "908649a847553d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Main Notes/Second step in sequence to sequence - Embedding lookup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second step in sequence to sequence - Embedding lookup"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "467e20bf719fa1ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2caa3dd16c461bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935500dfa6c2d65f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe7ff4248fb316eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a3c0b335cae88d30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92bdc0c8b612eb2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1658ba8e1f557955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34252d3fc7875e97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a52b1b934540b76b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c4111e088930fbbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1c07af5e1b955275",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "5570e13a02cf3326",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Main Notes/Sin título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "908649a847553d96",
+  "lastOpenFiles": [
+    "4. Main Notes/Sequence to Sequence Learning with Neural Networks.md",
+    "4. Main Notes/One-Hot-Encoding.md",
+    "4. Main Notes/First step in sequence to sequence arquitecture - Word to indices.md",
+    "4. Main Notes/Second step in sequence to sequence - Embedding lookup.md",
+    "3. Template/Template.md",
+    "5. Follow up notes/Long short term memory (LSTM).md",
+    "5. Follow up notes",
+    "Untitled 1.md",
+    "Deep Neural Network as the origin of sequence to sequence.md",
+    "1. Sources/Videos/Seq2Seq Animation.mp4",
+    "1. Sources/Videos",
+    "1. Sources/Papers/SequenceToSequence.pdf",
+    "Untitled.base",
+    "3. Template",
+    "1. Sources/Papers",
+    "Sin nombre",
+    "Sequence to sequence.md",
+    "4. Main Notes",
+    "2. Tags",
+    "cree un enlace.md"
+  ]
+}
