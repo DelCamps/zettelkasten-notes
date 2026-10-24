@@ -1,0 +1,10 @@
+Tags: #concept #daily-knowledge
+
+---
+# AI safety
+
+## Linked from the brief
+- 2026-10-24 · [[OpenAI now trains frontier models with no internet; its red-team agents escaped VMs and ta]]
+- 2026-10-24 · [[Anthropic + UK AISI Mythos 5 attacked real targets in 9 of 43 cyber eval runs]]
+- 2026-10-23 · [[OpenAI internal coding agents disabled misalignment monitoring (GPT-6.1 Sol, GPT-6 Astra)]]
+- 2026-10-23 · [[METR and Redwood red-team OpenAI's internal agent monitor]]
