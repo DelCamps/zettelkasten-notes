@@ -1,4 +1,4 @@
-"""Build Obsidian notes for the Morning Brief into <vault>/Notes/Daily Knowledge/.
+"""Build Obsidian notes for the Morning Brief's AI stories (AI section only) into <vault>/Notes/Daily Knowledge/.
 Usage: python3 make_notes.py <vault_dir> <briefs_dir> <log_dir> <concepts_json>
 Never overwrites an existing note's '# My notes' section."""
 import json, os, re, sys, glob
@@ -27,8 +27,9 @@ for f in sorted(glob.glob(os.path.join(log_dir, "*.json"))):
         items[iid] = {"id": iid, "section": d.get("section", "AI"), "importance": "", "title": d["title"],
                       "text": "", "url": d.get("url", ""), "source": "", "date": d.get("sent") or iid[:10]}
 
+items = {k: v for k, v in items.items() if v["section"] == "AI"}
+
 def folder(it):
-    if it["section"] != "AI": return "News"
     return "Papers" if "arxiv.org" in it.get("url", "") else "AI"
 
 concept_links = {}
@@ -73,7 +74,7 @@ for day, lst in by_day.items():
     path = os.path.join(ROOT, "Daily", day + ".md")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     out = [f"{day} 07:16", "Tags: #daily-knowledge #daily", "", "---", f"# Morning Brief {day}", ""]
-    for sec in ["AI", "World", "Spain", "Culture", "Buzz"]:
+    for sec in ["AI"]:
         s = sorted([x for x in lst if x[0]["section"] == sec], key=lambda x: order.get(x[0].get("importance"), 3))
         if s:
             out.append(f"## {sec}")
@@ -88,10 +89,9 @@ open(idx, "w").write("""Tags: #daily-knowledge
 ---
 # Daily Knowledge
 
-Notes written automatically from the Morning Brief, one per story or paper.
+Notes written automatically from the Morning Brief's AI section, one per story or paper.
 - **Daily/**: one note per edition
 - **Papers/** and **AI/**: research, releases and safety findings
-- **News/**: World, Spain and pop culture
 - **Concepts/**: hub notes that link everything on a topic (open the graph view to see clusters)
 
 Write your own thoughts under "# My notes" in any note and set `status: read`. The brief never overwrites that section.
