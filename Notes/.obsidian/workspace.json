@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Notes/.obsidian/plugins/obsidian-git/main.js",
-                "bFile": "Notes/.obsidian/plugins/obsidian-git/main.js",
+                "aFile": "Notes/Daily Knowledge/Daily/2026-10-23.md",
+                "bFile": "Notes/Daily Knowledge/Daily/2026-10-23.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: main.js  (Working Tree)"
+              "title": "Diff: 2026-10-23  (Working Tree)"
             }
           }
         ]
@@ -197,8 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cefbec7b538520f",
+  "active": "643b0318d608575d",
   "lastOpenFiles": [
+    "Daily Knowledge/Papers/A minItems in your extraction schema makes models invent list entries.md",
+    "Daily Knowledge/Papers/Agent S4 Evolving Agent Interfaces (OSWorld V2 21.3%).md",
+    "Daily Knowledge/Papers/AgentPhishing four of nine email agents comply with over 45% of adaptive phishing.md",
+    "Daily Knowledge/Daily/2026-10-25.md",
+    "Daily Knowledge/Daily/2026-10-24.md",
+    "Daily Knowledge/Daily/2026-10-23.md",
     "Daily Knowledge/Papers/SWE-Verifier a 4B gate that verifies under 4% of coding-agent steps for +1.7 points.md",
     "Daily Knowledge/Papers/The Fusion Tax hybrid BM25+dense retrieval hurts 13-48% of individual queries.md",
     "Daily Knowledge/Papers/Simulated control evals an LLM fakes the environment and predicts monitor safety within 3.md",
@@ -213,13 +219,7 @@
     "Daily Knowledge/Papers/Human-AI loop pushes Lehmer's problem constructions to degree 2000.md",
     "Daily Knowledge/Papers/FrontierCS 2 agents rebuild real CS research inside its repo.md",
     "Daily Knowledge/Papers/ALPS one ViT-B encoder for world models.md",
-    "Daily Knowledge/Papers/Agent S4 Evolving Agent Interfaces (OSWorld V2 21.3%).md",
-    "Daily Knowledge/Papers/AgentPhishing four of nine email agents comply with over 45% of adaptive phishing.md",
-    "Daily Knowledge/Papers/A minItems in your extraction schema makes models invent list entries.md",
     "Daily Knowledge/Papers",
-    "Daily Knowledge/Daily/2026-10-25.md",
-    "Daily Knowledge/Daily/2026-10-24.md",
-    "Daily Knowledge/Daily/2026-10-23.md",
     "Daily Knowledge/Daily",
     "Daily Knowledge/Concepts/Red teaming.md",
     "Daily Knowledge/Concepts/RAG.md",
