@@ -11,32 +11,17 @@
             "id": "643b0318d608575d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "4. Main Notes/First step in sequence to sequence arquitecture - Word to indices.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Notes/.obsidian/plugins/obsidian-git/main.js",
+                "bFile": "Notes/.obsidian/plugins/obsidian-git/main.js",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "First step in sequence to sequence arquitecture - Word to indices"
-            }
-          },
-          {
-            "id": "908649a847553d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Main Notes/Second step in sequence to sequence - Embedding lookup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Second step in sequence to sequence - Embedding lookup"
+              "icon": "diff",
+              "title": "Diff: main.js  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,14 +167,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "1cefbec7b538520f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,30 +193,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "908649a847553d96",
+  "active": "1cefbec7b538520f",
   "lastOpenFiles": [
-    "4. Main Notes/Sequence to Sequence Learning with Neural Networks.md",
-    "4. Main Notes/One-Hot-Encoding.md",
-    "4. Main Notes/First step in sequence to sequence arquitecture - Word to indices.md",
-    "4. Main Notes/Second step in sequence to sequence - Embedding lookup.md",
-    "3. Template/Template.md",
-    "5. Follow up notes/Long short term memory (LSTM).md",
-    "5. Follow up notes",
-    "Untitled 1.md",
-    "Deep Neural Network as the origin of sequence to sequence.md",
-    "1. Sources/Videos/Seq2Seq Animation.mp4",
-    "1. Sources/Videos",
-    "1. Sources/Papers/SequenceToSequence.pdf",
+    "Daily Knowledge/Papers/SWE-Verifier a 4B gate that verifies under 4% of coding-agent steps for +1.7 points.md",
+    "Daily Knowledge/Papers/The Fusion Tax hybrid BM25+dense retrieval hurts 13-48% of individual queries.md",
+    "Daily Knowledge/Papers/Simulated control evals an LLM fakes the environment and predicts monitor safety within 3.md",
+    "Daily Knowledge/Papers/MCP vs CLI for agents CLI for local speed, MCP for governance, hybrid for production.md",
+    "Daily Knowledge/Papers/Reasoning models' 'wait' is inherited from training data, not invented by RL.md",
+    "Daily Knowledge/Papers/Natural-language autoencoders can read out what a finetune changed.md",
+    "Daily Knowledge/Papers/Naive RAG over raw chat history beats complex agentic memory systems.md",
+    "Daily Knowledge/Papers/Looped uniform diffusion LMs.md",
+    "Daily Knowledge/Papers/Coding-agent benchmarks secretly grade on names the task never states.md",
+    "Daily Knowledge/Papers/LLM agent populations herd far more than humans and cannot self-correct.md",
+    "Daily Knowledge/Papers/IQuest-Q1 open 320B-A15B MoE built for agentic CLI work.md",
+    "Daily Knowledge/Papers/Human-AI loop pushes Lehmer's problem constructions to degree 2000.md",
+    "Daily Knowledge/Papers/FrontierCS 2 agents rebuild real CS research inside its repo.md",
+    "Daily Knowledge/Papers/ALPS one ViT-B encoder for world models.md",
+    "Daily Knowledge/Papers/Agent S4 Evolving Agent Interfaces (OSWorld V2 21.3%).md",
+    "Daily Knowledge/Papers/AgentPhishing four of nine email agents comply with over 45% of adaptive phishing.md",
+    "Daily Knowledge/Papers/A minItems in your extraction schema makes models invent list entries.md",
+    "Daily Knowledge/Papers",
+    "Daily Knowledge/Daily/2026-10-25.md",
+    "Daily Knowledge/Daily/2026-10-24.md",
+    "Daily Knowledge/Daily/2026-10-23.md",
+    "Daily Knowledge/Daily",
+    "Daily Knowledge/Concepts/Red teaming.md",
+    "Daily Knowledge/Concepts/RAG.md",
+    "Daily Knowledge/Concepts/Post-training.md",
+    "Daily Knowledge/Concepts/Open-weight models.md",
+    "Daily Knowledge/Concepts/Multi-agent systems.md",
+    "Daily Knowledge/Concepts/Mixture of Experts.md",
+    "Daily Knowledge/Concepts",
+    "Daily Knowledge/AI News",
+    "Daily Knowledge",
+    "Untitled 1.base",
     "Untitled.base",
-    "3. Template",
-    "1. Sources/Papers",
-    "Sin nombre",
-    "Sequence to sequence.md",
-    "4. Main Notes",
-    "2. Tags",
-    "cree un enlace.md"
+    "5. Follow up notes",
+    "1. Sources/Videos/Seq2Seq Animation.mp4",
+    "1. Sources/Videos"
   ]
 }
