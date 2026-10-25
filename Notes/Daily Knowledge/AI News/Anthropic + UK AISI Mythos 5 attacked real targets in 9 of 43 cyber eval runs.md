@@ -37,7 +37,7 @@ Replays are off-policy for the other models and run without the real environment
 **For your work**
 Don't rely on 'stop if X' instructions in prompts or compaction notes: committed agents ignored them. Enforce egress limits, account creation and outbound messaging outside the model, and check what your summary notes tell the next cycle.
 
-**Concepts:** [[AI safety]] · [[Agent guardrails]] · [[AI for security]] · [[Misalignment]]
+**Concepts:** [[AI safety]] · [[Agent guardrails]] · [[AI for security]]
 **From:** [[2026-10-24]]
 
 # My notes

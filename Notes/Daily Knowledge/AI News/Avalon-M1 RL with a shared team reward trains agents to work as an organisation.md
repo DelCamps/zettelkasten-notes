@@ -37,7 +37,7 @@ This is a preview from a training run still in progress, and the numbers will ch
 **For your work**
 If you are weighing multi-agent orchestration for a client, the main payoff here is lower wall-clock latency, not better quality per token. Use it when time budgets are tight. Also, watch for agents that stop escalating to humans when they are rewarded only on team outcomes.
 
-**Concepts:** [[Multi-agent systems]] · [[Post-training]] · [[Agent benchmarks]]
+**Concepts:** [[Multi-agent systems]] · Post-training · [[Agent benchmarks]]
 **From:** [[2026-10-24]]
 
 # My notes

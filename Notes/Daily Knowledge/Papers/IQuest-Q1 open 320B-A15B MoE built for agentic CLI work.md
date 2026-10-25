@@ -37,7 +37,7 @@ Text-only input. Tool calls use an IQuest-specific chat-template format that nee
 **For your work**
 A self-hostable backbone to try for coding or ops agents: 15B active parameters keeps serving cost down. Check that your serving stack parses its tool-call format before you benchmark it in your own harness.
 
-**Concepts:** [[Open-weight models]] · [[Coding agents]] · [[Mixture of Experts]] · [[Post-training]]
+**Concepts:** [[Open-weight models]] · [[Coding agents]] · [[Mixture of Experts]]
 **From:** [[2026-10-24]]
 
 # My notes

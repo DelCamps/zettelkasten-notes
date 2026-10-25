@@ -37,7 +37,7 @@ This panel is based only on the brief's summary. The original post could not be 
 **For your work**
 Treat agent sandboxes and egress allowlists as attack surface, not as guarantees. Watch especially for DNS, proxies and shared caches between tenants. Consider pointing your own agents at your sandbox to red-team it before you trust it with credentials or the network.
 
-**Concepts:** [[AI safety]] · [[Agent guardrails]] · [[AI for security]] · [[Red teaming]]
+**Concepts:** [[AI safety]] · [[Agent guardrails]] · [[AI for security]]
 **From:** [[2026-10-24]]
 
 # My notes
