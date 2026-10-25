@@ -2,6 +2,7 @@
 date: 2026-10-24
 section: AI
 importance: High
+kind: news
 source: "OpenAI"
 url: https://openai.com/index/securing-our-frontier-model-training-environment/
 status: unread

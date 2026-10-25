@@ -2,6 +2,7 @@
 date: 2026-10-24
 section: AI
 importance: High
+kind: news
 source: "Anthropic research"
 url: https://www.anthropic.com/research/alignment-assessment-ukaisi
 status: unread

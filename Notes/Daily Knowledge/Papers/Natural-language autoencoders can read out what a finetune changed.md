@@ -2,6 +2,7 @@
 date: 2026-10-24
 section: AI
 importance: Low
+kind: paper
 source: "arXiv 2610.30934"
 url: https://arxiv.org/abs/2610.30934
 status: unread
@@ -15,7 +16,7 @@ Tags: #daily-knowledge #ai
 
 Verbalising activation differences with NLAs recovers hidden secret words in most 'taboo' model organisms and even the finetuning objective without generating any tokens, and an NLA transfers to lightweight finetunes without retraining. It still trails state-of-the-art model-diffing methods on emergent misalignment but beats a black-box baseline.
 
-**Concepts:** [[Interpretability]] · [[Model diffing]]
+**Concepts:** [[Interpretability]] · Model diffing
 **From:** [[2026-10-24]]
 
 # My notes

@@ -2,6 +2,7 @@
 date: 2026-10-23
 section: AI
 importance: n/a
+kind: news
 source: ""
 url: https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/
 status: unread

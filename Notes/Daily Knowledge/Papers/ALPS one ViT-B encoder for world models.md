@@ -2,6 +2,7 @@
 date: 2026-10-23
 section: AI
 importance: Low
+kind: paper
 source: "arXiv 2610.30120"
 url: https://arxiv.org/abs/2610.30120
 status: unread
@@ -15,7 +16,7 @@ Tags: #daily-knowledge #ai
 
 Its patch tokens are trained for physical-state prediction, text alignment and pixel reconstruction at once. It matches the ~3.5x larger V-JEPA 2-L on LIBERO state probing and reaches 85.5% LIBERO policy success with frozen tokens.
 
-**Concepts:** [[World models]] · [[Vision encoders]]
+**Concepts:** World models · Vision encoders
 **From:** [[2026-10-23]]
 
 # My notes

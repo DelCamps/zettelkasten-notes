@@ -2,6 +2,7 @@
 date: 2026-10-23
 section: AI
 importance: n/a
+kind: paper
 source: ""
 url: https://arxiv.org/html/2610.28601
 status: unread

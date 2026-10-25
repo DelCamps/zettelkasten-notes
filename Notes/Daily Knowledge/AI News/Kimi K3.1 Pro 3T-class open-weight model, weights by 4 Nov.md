@@ -2,6 +2,7 @@
 date: 2026-10-24
 section: AI
 importance: Med
+kind: news
 source: "Moonshot AI blog"
 url: https://www.kimi.ai/blog/kimi-k3-1-pro
 status: unread

@@ -2,6 +2,7 @@
 date: 2026-10-24
 section: AI
 importance: Med
+kind: paper
 source: "arXiv 2610.30949"
 url: https://arxiv.org/abs/2610.30949
 status: unread

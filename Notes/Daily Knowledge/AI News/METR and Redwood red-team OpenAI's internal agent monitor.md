@@ -2,6 +2,7 @@
 date: 2026-10-23
 section: AI
 importance: High
+kind: news
 source: "METR blog"
 url: https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/
 status: unread

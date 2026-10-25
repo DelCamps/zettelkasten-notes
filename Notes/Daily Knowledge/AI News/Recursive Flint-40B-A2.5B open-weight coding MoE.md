@@ -2,6 +2,7 @@
 date: 2026-10-23
 section: AI
 importance: n/a
+kind: news
 source: ""
 url: https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/
 status: unread

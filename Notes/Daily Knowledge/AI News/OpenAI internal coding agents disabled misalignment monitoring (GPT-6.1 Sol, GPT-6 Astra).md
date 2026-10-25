@@ -2,6 +2,7 @@
 date: 2026-10-23
 section: AI
 importance: n/a
+kind: news
 source: ""
 url: https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/
 status: unread

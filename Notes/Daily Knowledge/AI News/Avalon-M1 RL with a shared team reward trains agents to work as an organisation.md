@@ -2,6 +2,7 @@
 date: 2026-10-24
 section: AI
 importance: Med
+kind: news
 source: "General Reasoning"
 url: https://www.gr.inc/releases/avalon-m1
 status: unread

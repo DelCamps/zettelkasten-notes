@@ -2,6 +2,7 @@
 date: 2026-10-23
 section: AI
 importance: Low
+kind: paper
 source: "arXiv 2610.30277"
 url: https://arxiv.org/abs/2610.30277
 status: unread
@@ -15,7 +16,7 @@ Tags: #daily-knowledge #ai
 
 A 5-parameter Generalized Boyd construction, found with an AI search and a symbolic verifier, gives polynomials with Mahler measure below Boyd's limit point for every even degree up to 2000. Previous systematic constructions only reached degree 180.
 
-**Concepts:** [[AI for math]] · [[Human-AI collaboration]]
+**Concepts:** [[AI for math]] · Human-AI collaboration
 **From:** [[2026-10-23]]
 
 # My notes

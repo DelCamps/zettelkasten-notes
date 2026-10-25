@@ -29,8 +29,30 @@ for f in sorted(glob.glob(os.path.join(log_dir, "*.json"))):
 
 items = {k: v for k, v in items.items() if v["section"] == "AI"}
 
+def kind(it):
+    k = (it.get("kind") or "").lower()
+    if k in ("paper", "news"): return k
+    return "paper" if "arxiv.org" in it.get("url", "") else "news"
+
 def folder(it):
-    return "Papers" if "arxiv.org" in it.get("url", "") else "AI"
+    return "Papers" if kind(it) == "paper" else "AI News"
+
+def details_md(d):
+    """details: a Markdown string or {heading: text or [bullets]}"""
+    if not d: return []
+    if isinstance(d, str): return ["## Details", "", d.strip(), ""]
+    out = ["## Details", ""]
+    for h, v in d.items():
+        out.append(f"**{h}**")
+        if isinstance(v, list): out += [f"- {x}" for x in v]
+        else: out.append(str(v))
+        out.append("")
+    return out
+
+# A concept gets a hub note (and a [[link]]) only once 2+ stories share it
+from collections import Counter
+CCOUNT = Counter(c for iid, it in items.items() for c in set(it.get("concepts") or CONCEPTS.get(iid, [])))
+def clink(c): return f"[[{c}]]" if CCOUNT[c] >= 2 else c
 
 concept_links = {}
 by_day = {}
@@ -43,22 +65,33 @@ for iid, it in sorted(items.items()):
     for c in concepts: concept_links.setdefault(c, []).append((it["date"], name))
     by_day.setdefault(it["date"], []).append((it, name))
     mine = ""
+    # Move notes from older folders (AI/, Papers/, AI News/) to the current one, keeping Pablo's notes
+    for legacy in ("AI", "Papers", "AI News"):
+        lp = os.path.join(ROOT, legacy, name + ".md")
+        if lp != path and os.path.exists(lp):
+            if not os.path.exists(path): os.replace(lp, path)
+            else: os.remove(lp)
     if os.path.exists(path):
         old = open(path).read()
         if "# My notes" in old: mine = old.split("# My notes", 1)[1].split("\n---\n# References", 1)[0].strip("\n")
     section = "Culture" if it["section"] == "Culture" else it["section"]
     tags = " ".join(["#daily-knowledge", "#" + section.lower()] + (["#update"] if it.get("update") else []))
     fm = ["---", f"date: {it['date']}", f"section: {section}", f"importance: {it.get('importance') or 'n/a'}",
-          f"source: \"{it.get('source') or ''}\"", f"url: {it.get('url','')}", "status: unread", f"id: {iid}", "---"]
+          f"kind: {kind(it)}", f"source: \"{it.get('source') or ''}\"", f"url: {it.get('url','')}", "status: unread", f"id: {iid}", "---"]
     body = [*fm, f"{it['date']} 07:16", f"Tags: {tags}", "", "---",
-            f"# {name}", "", it.get("text") or "_(Headline only; see the source.)_", "",
-            "**Concepts:** " + (" · ".join(f"[[{c}]]" for c in concepts) if concepts else "_none yet_"),
+            f"# {name}", "", it.get("text") or "_(Headline only; see the source.)_", "", *details_md(it.get("details")),
+            "**Concepts:** " + (" · ".join(clink(c) for c in concepts) if concepts else "_none yet_"),
             f"**From:** [[{it['date']}]]", "", "# My notes", mine, "", "---", "# References",
             f"[{it.get('source') or 'Source'}]({it.get('url','')})", ""]
     open(path, "w").write("\n".join(body))
 
 # Concept hubs: keep anything the user wrote above the auto list
 for c, links in concept_links.items():
+    if CCOUNT[c] < 2:
+        stale = os.path.join(ROOT, "Concepts", clean(c) + ".md")
+        if os.path.exists(stale) and "## Linked from the brief" in open(stale).read() and not open(stale).read().split("## Linked from the brief", 1)[0].split(f"# {c}", 1)[-1].strip():
+            os.remove(stale)  # auto hub with nothing written by Pablo
+        continue
     path = os.path.join(ROOT, "Concepts", clean(c) + ".md")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     head = f"Tags: #concept #daily-knowledge\n\n---\n# {c}\n\n"
@@ -91,9 +124,13 @@ open(idx, "w").write("""Tags: #daily-knowledge
 
 Notes written automatically from the Morning Brief's AI section, one per story or paper.
 - **Daily/**: one note per edition
-- **Papers/** and **AI/**: research, releases and safety findings
+- **Papers/**: AI research papers
+- **AI News/**: AI releases, lab posts, security and safety findings, industry news
 - **Concepts/**: hub notes that link everything on a topic (open the graph view to see clusters)
 
 Write your own thoughts under "# My notes" in any note and set `status: read`. The brief never overwrites that section.
 """)
-print(len(items), "notes,", len(concept_links), "concepts,", len(by_day), "days")
+for legacy in ("AI",):
+    lp = os.path.join(ROOT, legacy)
+    if os.path.isdir(lp) and not os.listdir(lp): os.rmdir(lp)
+print(len(items), "notes,", sum(1 for c in concept_links if CCOUNT[c] >= 2), "concept hubs,", len(by_day), "days")
