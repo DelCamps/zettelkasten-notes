@@ -37,7 +37,7 @@ Teams building agents must choose between letting the model run shell commands d
 - Structured output parsing costs 50-150 tokens vs 100-500 for unstructured CLI output; error recovery 100-300 vs 300-1,200 tokens per retry.
 - CLI risks (state leakage, silent output-format drift, no retry semantics) are judged architectural; MCP risks operational and mitigable.
 
-**Concepts:** Agents · [[Agent security]]
+**Concepts:** [[Agents]] · [[Agent security]]
 **From:** [[2026-10-25]]
 
 # My notes

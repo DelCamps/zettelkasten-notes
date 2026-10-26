@@ -38,7 +38,7 @@ RL is widely credited with teaching reasoning models to self-correct, with the w
 - OLMo-3 and MiMo RL-Zero recipes multiply an existing marker; KL-free GRPO does not, and a GRPO recipe erases a marker seeded by light fine-tuning.
 - LLM-as-judge revision metrics can reverse human-labelled trends.
 
-**Concepts:** Post-training and RL · [[Interpretability]]
+**Concepts:** [[Post-training and RL]] · [[Interpretability]]
 **From:** [[2026-10-25]]
 
 # My notes

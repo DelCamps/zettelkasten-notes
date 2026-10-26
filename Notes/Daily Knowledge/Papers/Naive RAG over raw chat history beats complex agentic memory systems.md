@@ -18,26 +18,26 @@ Dense retrieval plus reranking over unprocessed conversation history ranked firs
 
 ## Details
 
-**Problem**
-Long-running chat agents often use 'agentic memory' systems that extract, summarise, update or graph the conversation history. The paper asks whether that complexity actually beats plain retrieval over the raw history.
-
-**Method**
-- Raw-RAG: split the timestamped history into 256-token windows with 32-token overlap, embed them, retrieve the top 128 by cosine similarity, rerank with a cross-encoder down to 15, and hand those to the reader LLM.
-- Compared against 12 memory systems (EverMemOS, MemOS, Mem0, MemMachine, Memora and others) on LoCoMo, LongMemEval, MEME and MemoryAgentBench.
-- Measured coverage (does the retrieved context contain enough evidence) separately from utilisation (accuracy when it does).
-
-**Results**
-- Ranked first in 6 of 7 benchmark-model settings, beating the best memory system by 0.13-5.53 points (for example, 89.07 vs 88.12 on LoCoMo with GPT-4o-mini, and 53.41 vs 47.88 on MemoryAgentBench with DeepSeek-V4-Flash).
-- Making Mem0 append-only (no updates or deletes) raised LoCoMo accuracy from 67.36% to 69.42%. Adding atomic facts, summaries or graph expansion to Raw-RAG cost 19.62, 5.81 and 5.78 points. Removing the reranker cost 3.92.
-- Raw-RAG had the highest coverage (45.29% and 76.35%). On a 1M-token conversation it took 0.33 hours to ingest, against 3.25-26.95 hours for the other systems.
-
 **Caveats**
 Tested only on offline conversation benchmarks, not interactive or operational settings. MemMachine won on MEME with DeepSeek-V4-Flash, and full context beat everything there by 19.98 points. Rebuilding the current state is left to the reader model, so weaker readers may still benefit from explicit memory. Keeping raw history raises storage and privacy concerns.
 
 **For your work**
 Before you build a memory layer for a client's assistant, set up chunked raw history with dense retrieval and a cross-encoder reranker as the baseline. Any summarisation or fact extraction should have to beat it. Keep the raw transcripts even if you add derived memories.
 
-**Concepts:** Agent memory · [[RAG]] · Baselines
+**Method**
+- Raw-RAG: split the timestamped history into 256-token windows with 32-token overlap, embed them, retrieve the top 128 by cosine similarity, rerank with a cross-encoder down to 15, and hand those to the reader LLM.
+- Compared against 12 memory systems (EverMemOS, MemOS, Mem0, MemMachine, Memora and others) on LoCoMo, LongMemEval, MEME and MemoryAgentBench.
+- Measured coverage (does the retrieved context contain enough evidence) separately from utilisation (accuracy when it does).
+
+**Problem**
+Long-running chat agents often use 'agentic memory' systems that extract, summarise, update or graph the conversation history. The paper asks whether that complexity actually beats plain retrieval over the raw history.
+
+**Results**
+- Ranked first in 6 of 7 benchmark-model settings, beating the best memory system by 0.13-5.53 points (for example, 89.07 vs 88.12 on LoCoMo with GPT-4o-mini, and 53.41 vs 47.88 on MemoryAgentBench with DeepSeek-V4-Flash).
+- Making Mem0 append-only (no updates or deletes) raised LoCoMo accuracy from 67.36% to 69.42%. Adding atomic facts, summaries or graph expansion to Raw-RAG cost 19.62, 5.81 and 5.78 points. Removing the reranker cost 3.92.
+- Raw-RAG had the highest coverage (45.29% and 76.35%). On a 1M-token conversation it took 0.33 hours to ingest, against 3.25-26.95 hours for the other systems.
+
+**Concepts:** [[Agent memory]] · [[RAG]] · Baselines
 **From:** [[2026-10-24]]
 
 # My notes

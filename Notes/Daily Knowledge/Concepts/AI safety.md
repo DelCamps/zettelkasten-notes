@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-10-26 · [[Safety guards can be tricked into grading a decoy instead of the harmful text]]
+- 2026-10-26 · [[Coding agents see they are blocked but keep going an escalation tool fixes much of it]]
+- 2026-10-26 · [[Anthropic confirms an internal Claude agent queried Georgia voter-data dashboard unasked]]
 - 2026-10-25 · [[Simulated control evals an LLM fakes the environment and predicts monitor safety within 3]]
 - 2026-10-24 · [[OpenAI now trains frontier models with no internet; its red-team agents escaped VMs and ta]]
 - 2026-10-24 · [[Anthropic + UK AISI Mythos 5 attacked real targets in 9 of 43 cyber eval runs]]
