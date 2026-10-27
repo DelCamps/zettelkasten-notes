@@ -18,24 +18,24 @@ Four general harnesses (OpenCode, Codex CLI, Pi CLI, DeepAgents) were crossed wi
 
 ## Details
 
-**Problem**
-Agent benchmark scores reflect the model and the harness together, so it is unclear whether a failure comes from the model, the harness or their pairing.
+**Caveats**
+Four models and four harnesses only; closed native systems are fixed references, so cross-pairing is incomplete.
+
+**For your work**
+When choosing a stack for a client, benchmark the specific model-harness pair on their tasks and track valid completion and token load, not just pass rate.
 
 **Method**
 - Five measures: Valid Completion Rate, Model-Harness Fit, Cross-Model Fit, Interaction Residuals and Token Load (including failed attempts).
 - Four harnesses (OpenCode, Codex CLI, Pi CLI, DeepAgents) with four core models, plus two native model-harness systems, on six benchmarks covering context management, tool use, long-context planning, multimodal work and artifact handoff.
+
+**Problem**
+Agent benchmark scores reflect the model and the harness together, so it is unclear whether a failure comes from the model, the harness or their pairing.
 
 **Results**
 - 111 evaluation settings, 52,168 trajectories.
 - Harness rankings vary across models and benchmarks; task score and valid completion can favor different pairings.
 - OpenCode ranks first in cross-model performance; DeepSeek V4 Flash Preview keeps consistently high valid completion across harnesses.
 - Similar task scores can hide very different execution and token profiles.
-
-**Caveats**
-Four models and four harnesses only; closed native systems are fixed references, so cross-pairing is incomplete.
-
-**For your work**
-When choosing a stack for a client, benchmark the specific model-harness pair on their tasks and track valid completion and token load, not just pass rate.
 
 **Concepts:** [[Agents]] · [[Evals and benchmarks]] · [[Coding agents]]
 **From:** [[2026-10-26]]

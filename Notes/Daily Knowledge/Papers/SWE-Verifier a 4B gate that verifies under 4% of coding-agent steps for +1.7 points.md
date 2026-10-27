@@ -37,7 +37,7 @@ Coding agents waste compute when a poor action steers them into low-value states
 - Transfers to DeepSeek-V4-Flash without training on its actions: 72.60% to 74.27% at 1.13x cost.
 - Matches or beats trajectory-level and all-step verification baselines at substantially lower cost; uniform verification adds cost without consistent gains.
 
-**Concepts:** [[Coding agents]] · Inference efficiency
+**Concepts:** [[Coding agents]] · [[Inference efficiency]]
 **From:** [[2026-10-25]]
 
 # My notes

@@ -37,7 +37,7 @@ JSON Schemas for extraction can set a minimum list length (minItems). The paper 
 - Extra entries were 62.9% copied real text, and 46.6% passed a check that each entry appears in the source.
 - 'Up to k' in prose raised over-counting to 42.7%. An N/A option under an enforced minimum still left 51.0% padded. Retrying with the validation error raised padding from 10.0% to 69.0% for Qwen3.5-9B. Adding 'fewer is fine' removed the effect but left out more true items (24.3% vs 17.0%).
 
-**Concepts:** Structured outputs · Information extraction · [[Hallucination]]
+**Concepts:** [[Structured outputs]] · Information extraction · [[Hallucination]]
 **From:** [[2026-10-24]]
 
 # My notes

@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-10-27 · [[Simple harnesses beat hand-crafted root-cause-analysis agents 65-77% vs 16-53%]]
+- 2026-10-27 · [[ShutdownMod no agent is fully compliant with shutdown requests; Qwen 3.8 27B resists 11.7%]]
+- 2026-10-27 · [[Same tools via MCP or CLI agent behaviour diverges in 94.3% of paired runs]]
+- 2026-10-27 · [[SABench agents finish the task but make unauthorized writes in 15.2% of runs]]
+- 2026-10-27 · [[Instruction conflicts order inside a message beats the system role]]
+- 2026-10-27 · [[Independent critic review beats self-checking in agent harnesses +5.9-9.5 points on Termin]]
+- 2026-10-27 · [[Higher reasoning effort loses tasks lower effort solved and can cost 42x more]]
+- 2026-10-27 · [[Constrained decoding does not hurt reasoning; the prompt change does]]
 - 2026-10-26 · [[Tampered ML frontier models are unreliable judges of flawed experiment designs]]
 - 2026-10-26 · [[SWE-Shift when the workspace changes mid-task, every coding agent collapses]]
 - 2026-10-26 · [[Model or harness 52,168 trajectories show harness rankings flip with the model]]

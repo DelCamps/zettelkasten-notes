@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-10-27 · [[Simple harnesses beat hand-crafted root-cause-analysis agents 65-77% vs 16-53%]]
+- 2026-10-27 · [[Independent critic review beats self-checking in agent harnesses +5.9-9.5 points on Termin]]
+- 2026-10-27 · [[Copilot GPT-6.1 Terra arrives and LLM-judged 'assisted permissions' go GA]]
 - 2026-10-26 · [[SWE-Shift when the workspace changes mid-task, every coding agent collapses]]
 - 2026-10-26 · [[Model or harness 52,168 trajectories show harness rankings flip with the model]]
 - 2026-10-26 · [[Coding agents see they are blocked but keep going an escalation tool fixes much of it]]
