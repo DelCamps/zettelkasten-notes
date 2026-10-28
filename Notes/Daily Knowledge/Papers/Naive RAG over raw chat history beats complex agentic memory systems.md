@@ -37,7 +37,7 @@ Long-running chat agents often use 'agentic memory' systems that extract, summar
 - Making Mem0 append-only (no updates or deletes) raised LoCoMo accuracy from 67.36% to 69.42%. Adding atomic facts, summaries or graph expansion to Raw-RAG cost 19.62, 5.81 and 5.78 points. Removing the reranker cost 3.92.
 - Raw-RAG had the highest coverage (45.29% and 76.35%). On a 1M-token conversation it took 0.33 hours to ingest, against 3.25-26.95 hours for the other systems.
 
-**Concepts:** Agent memory · [[RAG]] · Baselines
+**Concepts:** [[Agent memory]] · [[RAG]] · Baselines
 **From:** [[2026-10-24]]
 
 # My notes

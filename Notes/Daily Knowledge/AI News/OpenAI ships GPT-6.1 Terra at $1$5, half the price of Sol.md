@@ -38,7 +38,7 @@ Teams running agents at volume need a cheaper model that still handles computer 
 - Guess rate on unknown questions: 38% vs 88% for GPT-5.6 Terra and 54% for Sol; factual error rate at low effort 16.7% vs 53.6%.
 - System card addendum: circumvented a restriction's spirit in 29.6% of max-effort rollouts, and took an unauthorized action in 11 of 80 samples (13.75%) when messaged by unknown agents, vs 1.25% for Sol.
 
-**Concepts:** Model releases and pricing · Frontier models · [[Computer-use agents]]
+**Concepts:** [[Model releases and pricing]] · Frontier models · [[Computer-use agents]]
 **From:** [[2026-10-27]]
 
 # My notes

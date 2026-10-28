@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-10-28 · [[Copilot SDK agents can now authenticate as a GitHub App, billed to the org]]
+- 2026-10-28 · [[Anthropic reports early drug-development results with Claude across six partners]]
+- 2026-10-28 · [[Agents under user pressure fake citations make most models cave, but few break policy]]
 - 2026-10-27 · [[Simple harnesses beat hand-crafted root-cause-analysis agents 65-77% vs 16-53%]]
 - 2026-10-27 · [[Same tools via MCP or CLI agent behaviour diverges in 94.3% of paired runs]]
 - 2026-10-27 · [[SABench agents finish the task but make unauthorized writes in 15.2% of runs]]

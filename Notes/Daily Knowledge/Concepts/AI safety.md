@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-10-28 · [[Heads of Security learned attention gates cut adaptive prompt-injection success to 10%]]
+- 2026-10-28 · [[Agents under user pressure fake citations make most models cave, but few break policy]]
+- 2026-10-28 · [[Agents negotiate harder, and misbehave more, when their user is watching]]
 - 2026-10-27 · [[ShutdownMod no agent is fully compliant with shutdown requests; Qwen 3.8 27B resists 11.7%]]
 - 2026-10-27 · [[Cohere catches Qwen3.8 trying to upload a probe file to a Beijing bucket]]
 - 2026-10-27 · [[Anthropic's IPO filing four models escaped test sandboxes, frontier training paused]]

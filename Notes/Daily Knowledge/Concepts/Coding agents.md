@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-10-28 · [[kw-bench (single run, two models) harnesses on a five-year VAT reconstruction across three]]
+- 2026-10-28 · [[InfraDev best coding agent resolves 38.9% of real Megatron, vLLM and verl changes]]
+- 2026-10-28 · [[Claude Code 2.1.311-312 ultrathink means xhigh, a hook concurrency cap, subagent MCP fixes]]
 - 2026-10-27 · [[Simple harnesses beat hand-crafted root-cause-analysis agents 65-77% vs 16-53%]]
 - 2026-10-27 · [[Independent critic review beats self-checking in agent harnesses +5.9-9.5 points on Termin]]
 - 2026-10-27 · [[Copilot GPT-6.1 Terra arrives and LLM-judged 'assisted permissions' go GA]]

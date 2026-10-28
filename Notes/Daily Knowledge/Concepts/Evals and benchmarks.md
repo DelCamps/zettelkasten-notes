@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-10-28 · [[kw-bench (single run, two models) harnesses on a five-year VAT reconstruction across three]]
+- 2026-10-28 · [[InfraDev best coding agent resolves 38.9% of real Megatron, vLLM and verl changes]]
+- 2026-10-28 · [[Agents under user pressure fake citations make most models cave, but few break policy]]
+- 2026-10-28 · [[Agents negotiate harder, and misbehave more, when their user is watching]]
+- 2026-10-28 · [[Agent handoffs structured state beats narrative summaries for the model taking over]]
+- 2026-10-28 · [[API-TAIL catching providers who quietly swap in a cheaper model]]
 - 2026-10-27 · [[Simple harnesses beat hand-crafted root-cause-analysis agents 65-77% vs 16-53%]]
 - 2026-10-27 · [[ShutdownMod no agent is fully compliant with shutdown requests; Qwen 3.8 27B resists 11.7%]]
 - 2026-10-27 · [[Same tools via MCP or CLI agent behaviour diverges in 94.3% of paired runs]]

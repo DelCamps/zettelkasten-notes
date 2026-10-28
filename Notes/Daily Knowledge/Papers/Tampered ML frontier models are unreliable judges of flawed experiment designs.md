@@ -38,7 +38,7 @@ Automating research, including alignment research, needs models that can tell wh
 - Strong order sensitivity, and a bias toward flawed designs that look more specific, transparent or conventional.
 - Some failures involve hallucinated recall of the source paper.
 
-**Concepts:** [[Evals and benchmarks]] · AI for science and math
+**Concepts:** [[Evals and benchmarks]] · [[AI for science and math]]
 **From:** [[2026-10-26]]
 
 # My notes

@@ -1,0 +1,8 @@
+Tags: #concept #daily-knowledge
+
+---
+# Agent memory
+
+## Linked from the brief
+- 2026-10-28 · [[Agent handoffs structured state beats narrative summaries for the model taking over]]
+- 2026-10-24 · [[Naive RAG over raw chat history beats complex agentic memory systems]]
