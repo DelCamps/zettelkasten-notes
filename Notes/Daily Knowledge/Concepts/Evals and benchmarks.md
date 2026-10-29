@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-10-29 · [[Skill optimizers (two models) learned skills gain 0.1 points but read 16% more tokens]]
+- 2026-10-29 · [[PROBE coding agents find at most 20.8% of the bugs maintainers actually fix]]
+- 2026-10-29 · [[Harness truncation (one agent) a third of tool results cut to broken JSON while the window]]
+- 2026-10-29 · [[FeatureArc coding agents pass 62.7% of first stages but only 28.5% of whole evolving featu]]
+- 2026-10-29 · [[Concordat (tau-bench airline, two models) state-gated tools cut unconfirmed changes from 2]]
 - 2026-10-28 · [[kw-bench (single run, two models) harnesses on a five-year VAT reconstruction across three]]
 - 2026-10-28 · [[InfraDev best coding agent resolves 38.9% of real Megatron, vLLM and verl changes]]
 - 2026-10-28 · [[Agents under user pressure fake citations make most models cave, but few break policy]]

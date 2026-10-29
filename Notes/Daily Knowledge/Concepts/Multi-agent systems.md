@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-10-29 · [[Copilot code review adds multi-model Max reviews, and its approvals can count toward requi]]
+- 2026-10-29 · [[Copilot Fusion goes GA pick an effort level and Copilot routes and chains the models]]
 - 2026-10-28 · [[Agents negotiate harder, and misbehave more, when their user is watching]]
 - 2026-10-28 · [[Agent handoffs structured state beats narrative summaries for the model taking over]]
 - 2026-10-26 · [[Async-RBench main agents mishandle subagent results that arrive late, stale or twice]]

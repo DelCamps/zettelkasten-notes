@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-10-29 · [[Anthropic RCT expert analysts adopt Claude's secretly assigned leanings 86% of the time]]
 - 2026-10-28 · [[Heads of Security learned attention gates cut adaptive prompt-injection success to 10%]]
 - 2026-10-28 · [[Agents under user pressure fake citations make most models cave, but few break policy]]
 - 2026-10-28 · [[Agents negotiate harder, and misbehave more, when their user is watching]]

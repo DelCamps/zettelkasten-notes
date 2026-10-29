@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-10-29 · [[Anthropic RCT expert analysts adopt Claude's secretly assigned leanings 86% of the time]]
 - 2026-10-28 · [[kw-bench (single run, two models) harnesses on a five-year VAT reconstruction across three]]
 - 2026-10-28 · [[Claude Code 2.1.311-312 ultrathink means xhigh, a hook concurrency cap, subagent MCP fixes]]
 - 2026-10-28 · [[Anthropic reports early drug-development results with Claude across six partners]]

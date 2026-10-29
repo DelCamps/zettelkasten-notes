@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-10-29 · [[Log-To-Leak a poisoned MCP tool description gets agents to leak each exchange in 63-100% o]]
+- 2026-10-29 · [[GitHub Agentic Workflows go GA with a sandbox, firewall and threat-detection job]]
+- 2026-10-29 · [[Concordat (tau-bench airline, two models) state-gated tools cut unconfirmed changes from 2]]
 - 2026-10-28 · [[Heads of Security learned attention gates cut adaptive prompt-injection success to 10%]]
 - 2026-10-28 · [[Copilot SDK agents can now authenticate as a GitHub App, billed to the org]]
 - 2026-10-28 · [[Cloudflare an SGLang KV-cache bug leaked other users' prompt data in 155 GLM-5.3 responses]]

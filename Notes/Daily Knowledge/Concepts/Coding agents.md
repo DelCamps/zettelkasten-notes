@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-10-29 · [[VS Code makes the Copilot harness the default, and the Copilot SDK becomes the Microsoft C]]
+- 2026-10-29 · [[Spine subtask-scoped context lifts Codex to 1998 milestones at 32% lower cost]]
+- 2026-10-29 · [[PROBE coding agents find at most 20.8% of the bugs maintainers actually fix]]
+- 2026-10-29 · [[GitHub Agentic Workflows go GA with a sandbox, firewall and threat-detection job]]
+- 2026-10-29 · [[FeatureArc coding agents pass 62.7% of first stages but only 28.5% of whole evolving featu]]
+- 2026-10-29 · [[Copilot code review adds multi-model Max reviews, and its approvals can count toward requi]]
 - 2026-10-28 · [[kw-bench (single run, two models) harnesses on a five-year VAT reconstruction across three]]
 - 2026-10-28 · [[InfraDev best coding agent resolves 38.9% of real Megatron, vLLM and verl changes]]
 - 2026-10-28 · [[Claude Code 2.1.311-312 ultrathink means xhigh, a hook concurrency cap, subagent MCP fixes]]

@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-10-29 · [[Spine subtask-scoped context lifts Codex to 1998 milestones at 32% lower cost]]
+- 2026-10-29 · [[Skill optimizers (two models) learned skills gain 0.1 points but read 16% more tokens]]
+- 2026-10-29 · [[Log-To-Leak a poisoned MCP tool description gets agents to leak each exchange in 63-100% o]]
+- 2026-10-29 · [[Harness truncation (one agent) a third of tool results cut to broken JSON while the window]]
+- 2026-10-29 · [[Concordat (tau-bench airline, two models) state-gated tools cut unconfirmed changes from 2]]
+- 2026-10-29 · [[Anthropic RCT expert analysts adopt Claude's secretly assigned leanings 86% of the time]]
 - 2026-10-28 · [[Copilot SDK agents can now authenticate as a GitHub App, billed to the org]]
 - 2026-10-28 · [[Anthropic reports early drug-development results with Claude across six partners]]
 - 2026-10-28 · [[Agents under user pressure fake citations make most models cave, but few break policy]]
