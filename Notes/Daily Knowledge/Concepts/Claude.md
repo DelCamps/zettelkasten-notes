@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-10-30 · [[Snyk VulnBench 2.0 (one run per cell) SAST and Claude Code security-review find different]]
+- 2026-10-30 · [[Claude Code 2.1.314 hard block on writes outside the workspace, idle compaction, admin eff]]
+- 2026-10-30 · [[Claude API new Usage and Cost Analytics API in beta, and 128 MB request limit]]
 - 2026-10-29 · [[Anthropic RCT expert analysts adopt Claude's secretly assigned leanings 86% of the time]]
 - 2026-10-28 · [[kw-bench (single run, two models) harnesses on a five-year VAT reconstruction across three]]
 - 2026-10-28 · [[Claude Code 2.1.311-312 ultrathink means xhigh, a hook concurrency cap, subagent MCP fixes]]

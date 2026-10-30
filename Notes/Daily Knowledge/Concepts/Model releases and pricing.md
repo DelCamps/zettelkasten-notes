@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-10-30 · [[Mistral releases the weights of Large 4, a 1-trillion-parameter open model, at $0.70$2.10]]
+- 2026-10-30 · [[Claude API new Usage and Cost Analytics API in beta, and 128 MB request limit]]
 - 2026-10-29 · [[Google announces Gemini 4 Carbon, a cyber-first frontier model, initially for defenders on]]
 - 2026-10-29 · [[GitHub Enterprise now includes Copilot, and Copilot Standalone costs $10, all metered from]]
 - 2026-10-29 · [[Copilot Fusion goes GA pick an effort level and Copilot routes and chains the models]]

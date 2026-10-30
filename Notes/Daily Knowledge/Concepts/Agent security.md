@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-10-30 · [[Where an injection sits matters agents obey README and TODO files far more than code or da]]
+- 2026-10-30 · [[Role spoofing tool output that fakes chat structure passes as the user, even on Opus 5 and]]
+- 2026-10-30 · [[EMBRACE the built-in browsers of Cursor, Copilot, Codex, VS Code and Claude Desktop were a]]
+- 2026-10-30 · [[Claude Code 2.1.314 hard block on writes outside the workspace, idle compaction, admin eff]]
 - 2026-10-29 · [[Log-To-Leak a poisoned MCP tool description gets agents to leak each exchange in 63-100% o]]
 - 2026-10-29 · [[GitHub Agentic Workflows go GA with a sandbox, firewall and threat-detection job]]
 - 2026-10-29 · [[Concordat (tau-bench airline, two models) state-gated tools cut unconfirmed changes from 2]]

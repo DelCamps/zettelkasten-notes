@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-10-30 · [[Where an injection sits matters agents obey README and TODO files far more than code or da]]
+- 2026-10-30 · [[Snyk VulnBench 2.0 (one run per cell) SAST and Claude Code security-review find different]]
+- 2026-10-30 · [[Mistral releases the weights of Large 4, a 1-trillion-parameter open model, at $0.70$2.10]]
+- 2026-10-30 · [[EMBRACE the built-in browsers of Cursor, Copilot, Codex, VS Code and Claude Desktop were a]]
+- 2026-10-30 · [[Coding agents copy the repo's existing patterns over your instructions, unless a written r]]
+- 2026-10-30 · [[Claude Code 2.1.314 hard block on writes outside the workspace, idle compaction, admin eff]]
 - 2026-10-29 · [[VS Code makes the Copilot harness the default, and the Copilot SDK becomes the Microsoft C]]
 - 2026-10-29 · [[Spine subtask-scoped context lifts Codex to 1998 milestones at 32% lower cost]]
 - 2026-10-29 · [[PROBE coding agents find at most 20.8% of the bugs maintainers actually fix]]

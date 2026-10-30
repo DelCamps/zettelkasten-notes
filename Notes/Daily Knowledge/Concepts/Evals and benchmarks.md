@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-10-30 · [[Grading 25 items in one prompt changes 11-22% of an LLM judge's decisions]]
+- 2026-10-30 · [[Coding agents copy the repo's existing patterns over your instructions, unless a written r]]
 - 2026-10-29 · [[Skill optimizers (two models) learned skills gain 0.1 points but read 16% more tokens]]
 - 2026-10-29 · [[PROBE coding agents find at most 20.8% of the bugs maintainers actually fix]]
 - 2026-10-29 · [[Harness truncation (one agent) a third of tool results cut to broken JSON while the window]]
