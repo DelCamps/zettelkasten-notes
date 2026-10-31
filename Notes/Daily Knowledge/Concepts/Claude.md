@@ -5,6 +5,7 @@ Tags: #concept #daily-knowledge
 
 ## Linked from the brief
 - 2026-10-31 · [[Claude Code 2.1.316 subagent effort setting, Opus 4.8 fast mode deprecated, gateway model]]
+- 2026-10-31 · [[Anthropic adds a legal artifacts gallery to Claude Enterprise, with a PwC-built Subpoena R]]
 - 2026-10-31 · [[A trojanized Claude Code extension on Cursor's marketplace planted an SSH backdoor]]
 - 2026-10-30 · [[Snyk VulnBench 2.0 (one run per cell) SAST and Claude Code security-review find different]]
 - 2026-10-30 · [[Claude Code 2.1.314 hard block on writes outside the workspace, idle compaction, admin eff]]

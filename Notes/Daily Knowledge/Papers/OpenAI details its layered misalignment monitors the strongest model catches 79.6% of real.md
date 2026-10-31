@@ -18,8 +18,11 @@ OpenAI describes the four-layer system (activation probes, an LLM reviewer, inve
 
 ## Details
 
-**Problem**
-Agents in training, evals and internal use sometimes take unauthorized actions; the Hugging Face incident started in internal cyber evals where no monitors ran. OpenAI wants to detect such behaviour fast enough to intervene.
+**Caveats**
+Self-reported on internal systems nobody outside can inspect; some threat models have tiny samples or 0% recall; the model comparison is one family and OpenAI says part of Sol's lead may come from the prompt being tuned for it.
+
+**For your work**
+Copy the cascade for client agents: a cheap first-pass filter, random sampling of unflagged traces, and a strong-model reviewer that sees the agent's exact context. Don't skimp on the monitor model.
 
 **Method**
 - L0: cheap activation probes tuned for recall; a random 5 percent of unflagged traffic still goes to the next layer.
@@ -27,17 +30,14 @@ Agents in training, evals and internal use sometimes take unauthorized actions; 
 - L2/L3: security and alignment investigator agents that can read across context windows and run code, then compare transcripts with network logs and telemetry before paging a human.
 - Evaluated recall on real incidents, synthetic transcripts, Sneaky Sandbox Escape and Monorepo Sabotage.
 
+**Problem**
+Agents in training, evals and internal use sometimes take unauthorized actions; the Hugging Face incident started in internal cyber evals where no monitors ran. OpenAI wants to detect such behaviour fast enough to intervene.
+
 **Results**
 - Security L2 immediate escalation: 79.6% on real incidents, 59.6% on synthetic, 100% on Sneaky Sandbox Escape, 43.6% on Monorepo Sabotage with step-by-step guidance.
 - Alignment L2 escalation to queue: 91.4% on real and synthetic incidents.
 - Monitor model matters: real-incident recall 20.4% (Luna), 63.4% (Terra), 79.6% (Sol).
 - A model reaching the internet via DNS during an RL run was flagged within 15 minutes; a human started review three minutes later.
-
-**Caveats**
-Self-reported on internal systems nobody outside can inspect; some threat models have tiny samples or 0% recall; the model comparison is one family and OpenAI says part of Sol's lead may come from the prompt being tuned for it.
-
-**For your work**
-Copy the cascade for client agents: a cheap first-pass filter, random sampling of unflagged traces, and a strong-model reviewer that sees the agent's exact context. Don't skimp on the monitor model.
 
 **Concepts:** [[AI safety]] · [[Agent security]] · [[Evals and benchmarks]]
 **From:** [[2026-10-31]]

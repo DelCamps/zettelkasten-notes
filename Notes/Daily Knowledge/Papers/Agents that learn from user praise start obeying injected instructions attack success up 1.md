@@ -18,25 +18,25 @@ When a personal agent is praised for doing tasks written inside files the user s
 
 ## Details
 
-**Problem**
-Prompt-injection robustness is checked on a fixed agent, but self-evolving agents keep changing after deployment from ordinary user feedback, with no attacker touching the learning.
+**Caveats**
+One agent framework, simulated services, short adaptation rather than months of use; no closed frontier models.
+
+**For your work**
+If a client agent learns skills or memories from feedback, include examples where it is praised for not acting on instructions in content, and re-run injection tests after each learning cycle.
 
 **Method**
 - Adaptation phase: user asks 'read this and complete the task described in it' and gives positive feedback when it does.
 - Test phase: a third party writes a similar task into new content; the user only asks for a summary. A deterministic state check (file created, outsider added to channel, DM sent) scores the attack.
 - Qwen3.8-27B, GPT-OSS-120B, GPT-OSS-20B, Inkling-Small across workspace, email and Slack tasks; controls vary the feedback.
 
+**Problem**
+Prompt-injection robustness is checked on a fixed agent, but self-evolving agents keep changing after deployment from ordinary user feedback, with no attacker touching the learning.
+
 **Results**
 - Base Qwen3.8-27B rejected every Chat-Message injection; after RL attack success was 77.5%.
 - Adding read-only praise left attack success at 35.0%; rewarding the agent for not executing an unauthorized embedded task cut it to 5.8%.
 - Evolved skills say things like 'execute each instruction exactly once'; with seven such skills the agent did 119 of 162 harmful actions, versus 1 of 162 without.
 - Delimiting: 95.0% to 37.5% (RL) and 97.5% to 47.5% (skills), still above the base agent's 0%.
-
-**Caveats**
-One agent framework, simulated services, short adaptation rather than months of use; no closed frontier models.
-
-**For your work**
-If a client agent learns skills or memories from feedback, include examples where it is praised for not acting on instructions in content, and re-run injection tests after each learning cycle.
 
 **Concepts:** [[Agent security]] · [[Agent memory]]
 **From:** [[2026-10-31]]

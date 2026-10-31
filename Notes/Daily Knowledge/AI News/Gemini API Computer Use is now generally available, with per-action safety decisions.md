@@ -18,23 +18,23 @@ Google made the Gemini Computer Use tool generally available in the Interactions
 
 ## Details
 
-**Problem**
-Computer-use agents need a supported API surface and built-in guardrails before teams will put them into client workflows.
+**Caveats**
+Google says Computer Use 'may contain errors and security vulnerabilities' and recommends close supervision and sandboxed environments. Pricing is on a separate page.
+
+**For your work**
+To pilot browser automation, turn on prompt-injection detection and route require_confirmation actions to a human-approval step. Log the intent field for audit trails.
 
 **Method**
 - Supported models: Gemini 4 Argon, Gemini 3.8 Flash (the recommended one), Gemini 3.5 Flash-Lite and Gemini 3 Flash Preview.
 - Three environments: browser (20 actions), desktop (17) and mobile (10). Coordinates are normalised to 0-999 and the client scales them to the screen.
 - Each proposed action can carry a safety_decision: allowed, require_confirmation or blocked. The app asks the user and returns safety_acknowledgement. There are seven policy categories, such as FINANCIAL_TRANSACTIONS, and some can be turned off with disabled_safety_policies.
 
+**Problem**
+Computer-use agents need a supported API surface and built-in guardrails before teams will put them into client workflows.
+
 **Results**
 - Prompt-injection detection is opt-in (off by default) for Gemini 3.5 Flash-Lite and later. It scans screenshots for hidden instructions and blocks the action.
 - Actions also carry an intent field, which helps with logging and review.
-
-**Caveats**
-Google says Computer Use 'may contain errors and security vulnerabilities' and recommends close supervision and sandboxed environments. Pricing is on a separate page.
-
-**For your work**
-To pilot browser automation, turn on prompt-injection detection and route require_confirmation actions to a human-approval step. Log the intent field for audit trails.
 
 **Concepts:** [[Computer-use agents]] · [[Agent security]]
 **From:** [[2026-10-31]]

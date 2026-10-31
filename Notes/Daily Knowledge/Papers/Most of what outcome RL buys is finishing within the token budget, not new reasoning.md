@@ -18,25 +18,25 @@ Comparing 20 released RL reasoning models with the thinking models they started 
 
 ## Details
 
-**Problem**
-Every pass@1 is scored under a token budget, so a reported RL gain mixes answering in time, answering correctly, and genuinely new capability.
+**Caveats**
+Thinking bases only, at most 32B; eight samples per problem; the controlled run has one seed and one model family.
+
+**For your work**
+When comparing reasoning models or effort settings, report the share of answers that finish within your token cap alongside accuracy; a model that stops sooner can look smarter.
 
 **Method**
 - Exact split of the pass@1 change into finishing, reliability and reach (net of problems only the base solves).
 - Each pair read at the recipe's own training cap and the next budget above it, on 300 physics problems, MATH-500 and 276 recent contest problems.
 - Problems only one model solves are resampled and read by hand; a controlled 8B run supplies the physical setup in five ways.
 
+**Problem**
+Every pass@1 is scored under a token budget, so a reported RL gain mixes answering in time, answering correctly, and genuinely new capability.
+
 **Results**
 - Given more tokens, the base closes most of the finishing gap itself.
 - Where the base already finishes, the gain is reliability, even on problems both finish.
 - Nine of ten new RL steps a human confirmed also appear in the base's samples.
 - Hint-based recipes QuestA and KnowRL reach at most 0.018 net; supplying the setup in the 8B run did not beat plain RL.
-
-**Caveats**
-Thinking bases only, at most 32B; eight samples per problem; the controlled run has one seed and one model family.
-
-**For your work**
-When comparing reasoning models or effort settings, report the share of answers that finish within your token cap alongside accuracy; a model that stops sooner can look smarter.
 
 **Concepts:** [[Post-training and RL]] · [[Evals and benchmarks]]
 **From:** [[2026-10-31]]

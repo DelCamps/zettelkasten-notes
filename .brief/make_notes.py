@@ -31,11 +31,11 @@ items = {k: v for k, v in items.items() if v["section"] == "AI"}
 
 def kind(it):
     k = (it.get("kind") or "").lower()
-    if k in ("paper", "news"): return k
+    if k in ("paper", "news", "value"): return k
     return "paper" if "arxiv.org" in it.get("url", "") else "news"
 
 def folder(it):
-    return "Papers" if kind(it) == "paper" else "AI News"
+    return {"paper": "Papers", "value": "Opportunities"}.get(kind(it), "AI News")
 
 def details_md(d):
     """details: a Markdown string or {heading: text or [bullets]}"""
@@ -66,7 +66,7 @@ for iid, it in sorted(items.items()):
     by_day.setdefault(it["date"], []).append((it, name))
     mine = ""
     # Move notes from older folders (AI/, Papers/, AI News/) to the current one, keeping Pablo's notes
-    for legacy in ("AI", "Papers", "AI News"):
+    for legacy in ("AI", "Papers", "AI News", "Opportunities"):
         lp = os.path.join(ROOT, legacy, name + ".md")
         if lp != path and os.path.exists(lp):
             if not os.path.exists(path): os.replace(lp, path)
@@ -125,6 +125,7 @@ open(idx, "w").write("""Tags: #daily-knowledge
 Notes written automatically from the Morning Brief's AI section, one per story or paper.
 - **Daily/**: one note per edition
 - **Papers/**: AI research papers
+- **Opportunities/**: new vendor products and features that could go into our client offering, each with a pitch
 - **AI News/**: AI releases, lab posts, security and safety findings, industry news
 - **Concepts/**: hub notes that link everything on a topic (open the graph view to see clusters)
 

@@ -8,6 +8,7 @@ Tags: #concept #daily-knowledge
 - 2026-10-31 · [[OpenAI details its layered misalignment monitors the strongest model catches 79.6% of real]]
 - 2026-10-31 · [[One in seventeen agent skills tells the agent to skip human oversight, and skill scanners]]
 - 2026-10-31 · [[Gemini API Computer Use is now generally available, with per-action safety decisions]]
+- 2026-10-31 · [[Amazon Quick adds smart approvals, so its agents auto-approve routine actions and escalate]]
 - 2026-10-31 · [[Agents that learn from user praise start obeying injected instructions attack success up 1]]
 - 2026-10-31 · [[A trojanized Claude Code extension on Cursor's marketplace planted an SSH backdoor]]
 - 2026-10-30 · [[Where an injection sits matters agents obey README and TODO files far more than code or da]]
