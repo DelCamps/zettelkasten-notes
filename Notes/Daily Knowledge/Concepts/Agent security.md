@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-10-31 · [[Poisoning 0.1% of pretraining text plants a curl bash backdoor that survives clean agent p]]
+- 2026-10-31 · [[OpenAI details its layered misalignment monitors the strongest model catches 79.6% of real]]
+- 2026-10-31 · [[One in seventeen agent skills tells the agent to skip human oversight, and skill scanners]]
+- 2026-10-31 · [[Gemini API Computer Use is now generally available, with per-action safety decisions]]
+- 2026-10-31 · [[Agents that learn from user praise start obeying injected instructions attack success up 1]]
+- 2026-10-31 · [[A trojanized Claude Code extension on Cursor's marketplace planted an SSH backdoor]]
 - 2026-10-30 · [[Where an injection sits matters agents obey README and TODO files far more than code or da]]
 - 2026-10-30 · [[Role spoofing tool output that fakes chat structure passes as the user, even on Opus 5 and]]
 - 2026-10-30 · [[EMBRACE the built-in browsers of Cursor, Copilot, Codex, VS Code and Claude Desktop were a]]

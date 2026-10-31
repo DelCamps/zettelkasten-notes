@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-10-31 · [[llama.cpp server (one model, 24,000 requests) silently dropped about a quarter of logprob]]
+- 2026-10-31 · [[Epoch open-weight GLM 5.3 turned published Firefox fixes into working file-stealing exploi]]
 - 2026-10-30 · [[Pyrite (two models, one Mac) byte-neutral 2-bit quantization cuts Qwen3.8-27B KL divergenc]]
 - 2026-10-30 · [[Mistral releases the weights of Large 4, a 1-trillion-parameter open model, at $0.70$2.10]]
 - 2026-10-28 · [[Liquid AI opens LFM3 six 1.7B-class on-device models with 256K context]]

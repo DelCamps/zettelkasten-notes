@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-10-31 · [[One in seventeen agent skills tells the agent to skip human oversight, and skill scanners]]
+- 2026-10-31 · [[Claude Code 2.1.316 subagent effort setting, Opus 4.8 fast mode deprecated, gateway model]]
+- 2026-10-31 · [[A trojanized Claude Code extension on Cursor's marketplace planted an SSH backdoor]]
 - 2026-10-30 · [[Where an injection sits matters agents obey README and TODO files far more than code or da]]
 - 2026-10-30 · [[Snyk VulnBench 2.0 (one run per cell) SAST and Claude Code security-review find different]]
 - 2026-10-30 · [[Mistral releases the weights of Large 4, a 1-trillion-parameter open model, at $0.70$2.10]]

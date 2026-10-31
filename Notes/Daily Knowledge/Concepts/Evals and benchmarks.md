@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-10-31 · [[OpenAI details its layered misalignment monitors the strongest model catches 79.6% of real]]
+- 2026-10-31 · [[Most of what outcome RL buys is finishing within the token budget, not new reasoning]]
+- 2026-10-31 · [[Epoch open-weight GLM 5.3 turned published Firefox fixes into working file-stealing exploi]]
 - 2026-10-30 · [[Grading 25 items in one prompt changes 11-22% of an LLM judge's decisions]]
 - 2026-10-30 · [[Coding agents copy the repo's existing patterns over your instructions, unless a written r]]
 - 2026-10-29 · [[Skill optimizers (two models) learned skills gain 0.1 points but read 16% more tokens]]

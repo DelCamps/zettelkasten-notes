@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-10-31 · [[Poisoning 0.1% of pretraining text plants a curl bash backdoor that survives clean agent p]]
+- 2026-10-31 · [[OpenAI details its layered misalignment monitors the strongest model catches 79.6% of real]]
+- 2026-10-31 · [[One in seventeen agent skills tells the agent to skip human oversight, and skill scanners]]
 - 2026-10-30 · [[Self-improving agents quietly delete backup safety rules, which then fail when you swap in]]
 - 2026-10-29 · [[Anthropic RCT expert analysts adopt Claude's secretly assigned leanings 86% of the time]]
 - 2026-10-28 · [[Heads of Security learned attention gates cut adaptive prompt-injection success to 10%]]

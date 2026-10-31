@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-10-31 · [[Computer-use agents misclick because pages are still loading, not because they plan slowly]]
 - 2026-10-30 · [[Self-improving agents quietly delete backup safety rules, which then fail when you swap in]]
 - 2026-10-29 · [[Spine subtask-scoped context lifts Codex to 1998 milestones at 32% lower cost]]
 - 2026-10-29 · [[Skill optimizers (two models) learned skills gain 0.1 points but read 16% more tokens]]
