@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-01 · [[RoleFUZZER coverage-guided fuzzing of user behaviours finds where role-prompted assistants]]
+- 2026-11-01 · [[Google's Knowledge Catalog now ingests Looker, dbt, Snowflake, Databricks and SAP semantic]]
+- 2026-11-01 · [[GitHub ships shared Copilot Automations team-owned agent workflows triggered by issues, PR]]
+- 2026-11-01 · [[AWS lets agents call existing Step Functions workflows as MCP tools through AgentCore Gate]]
 - 2026-10-31 · [[Microsoft Copilot for finance accounting skills, Capital Markets and Finance plugins let f]]
 - 2026-10-31 · [[Computer-use agents misclick because pages are still loading, not because they plan slowly]]
 - 2026-10-31 · [[Azure AI Foundry gets the Microsoft Copilot harness managed agent loop, skills, MCP tools]]

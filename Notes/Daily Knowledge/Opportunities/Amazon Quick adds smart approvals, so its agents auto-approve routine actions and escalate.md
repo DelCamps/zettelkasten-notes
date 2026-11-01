@@ -18,8 +18,11 @@ On 28 October AWS added smart approvals to Amazon Quick, its enterprise AI works
 
 ## Details
 
-**What it is**
-A review layer in front of Quick's agentic actions. Sending content outside the organisation, changing permissions, deleting content or making payments always go to the user, while routine actions run without a prompt. Existing policies still take precedence, denied actions stay denied, smart approvals never grants new access, and a failed or timed-out review falls back to asking the user. Admins control it through custom permissions, users can switch it off in chat options, and AWS CloudTrail logs every review and every change to the setting.
+**Availability and price**
+On by default, in all AWS Regions where Amazon Quick agentic capabilities are supported. The announcement gives no price.
+
+**Caveats**
+The classifier's decisions are probabilistic, so clients should test edge cases and keep strict policies for sensitive actions. Region coverage follows Quick's agentic Regions, so check EU availability. Competitors: Microsoft 365 Copilot and Agent 365, Gemini Enterprise. Most PwC Spain clients are on Microsoft, which narrows the market.
 
 **Client use cases**
 - Quick agents that update CRM, ticketing or document stores all day without a confirmation click for every low-risk step
@@ -33,13 +36,10 @@ A review layer in front of Quick's agentic actions. Sending content outside the 
 **Pitch**
 AWS's Amazon Quick now uses a classifier to auto-approve routine agent actions and escalate risky ones, all logged in CloudTrail. That removes a major adoption blocker, so we can offer Quick rollouts with a ready-made approval-governance design to our AWS clients.
 
-**Availability and price**
-On by default, in all AWS Regions where Amazon Quick agentic capabilities are supported. The announcement gives no price.
+**What it is**
+A review layer in front of Quick's agentic actions. Sending content outside the organisation, changing permissions, deleting content or making payments always go to the user, while routine actions run without a prompt. Existing policies still take precedence, denied actions stay denied, smart approvals never grants new access, and a failed or timed-out review falls back to asking the user. Admins control it through custom permissions, users can switch it off in chat options, and AWS CloudTrail logs every review and every change to the setting.
 
-**Caveats**
-The classifier's decisions are probabilistic, so clients should test edge cases and keep strict policies for sensitive actions. Region coverage follows Quick's agentic Regions, so check EU availability. Competitors: Microsoft 365 Copilot and Agent 365, Gemini Enterprise. Most PwC Spain clients are on Microsoft, which narrows the market.
-
-**Concepts:** AWS · [[Agent security]] · [[Agents]]
+**Concepts:** [[AWS]] · [[Agent security]] · [[Agents]]
 **From:** [[2026-10-31]]
 
 # My notes

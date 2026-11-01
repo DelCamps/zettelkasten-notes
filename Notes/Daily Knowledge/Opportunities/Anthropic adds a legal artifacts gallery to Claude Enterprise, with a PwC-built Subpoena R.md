@@ -18,8 +18,11 @@ On 28 October Anthropic launched ready-made legal artifacts (interactive tracker
 
 ## Details
 
-**What it is**
-Shareable, adaptable interactive artifacts for legal work that teams connect to their own data and connectors. The gallery artifacts are Cite check, Jurisdiction survey matrix, Matter board, Playbook deviation board, Regulatory horizon scan and Tabular review. The partner-built ones are AI Governance Benchmark (Goodwin), Harvey Intake (Harvey), Obligations Checker (Foley & Lardner) and Subpoena Response Tool (PwC), with Legora and Orrick artifacts coming. There are also nine access-to-justice artifacts and a Legal Ambassadors Program. Anthropic says more than 60 legal connectors have been added since May.
+**Availability and price**
+The legal gallery is available now to Claude Enterprise customers, and rollout is handled through sales or implementation partners. The Legal Ambassadors Program has a waitlist. No pricing is stated.
+
+**Caveats**
+Claude Enterprise only, and most PwC clients are on the Microsoft stack, where Microsoft has just launched its own Copilot for legal. Check data residency and privilege handling for EU clients. Competitors: Harvey, Legora, Microsoft Copilot for legal.
 
 **Client use cases**
 - In-house legal: a matter board and playbook-deviation tracking for contract review
@@ -35,11 +38,8 @@ Shareable, adaptable interactive artifacts for legal work that teams connect to 
 **Pitch**
 Anthropic's new Claude Enterprise legal gallery already features a PwC-built Subpoena Response Tool and lists PwC as an implementation partner. We could turn that into a packaged 'legal ops on Claude' offer for clients' legal and compliance teams.
 
-**Availability and price**
-The legal gallery is available now to Claude Enterprise customers, and rollout is handled through sales or implementation partners. The Legal Ambassadors Program has a waitlist. No pricing is stated.
-
-**Caveats**
-Claude Enterprise only, and most PwC clients are on the Microsoft stack, where Microsoft has just launched its own Copilot for legal. Check data residency and privilege handling for EU clients. Competitors: Harvey, Legora, Microsoft Copilot for legal.
+**What it is**
+Shareable, adaptable interactive artifacts for legal work that teams connect to their own data and connectors. The gallery artifacts are Cite check, Jurisdiction survey matrix, Matter board, Playbook deviation board, Regulatory horizon scan and Tabular review. The partner-built ones are AI Governance Benchmark (Goodwin), Harvey Intake (Harvey), Obligations Checker (Foley & Lardner) and Subpoena Response Tool (PwC), with Legora and Orrick artifacts coming. There are also nine access-to-justice artifacts and a Legal Ambassadors Program. Anthropic says more than 60 legal connectors have been added since May.
 
 **Concepts:** [[Claude]] · [[Agents]]
 **From:** [[2026-10-31]]

@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-01 · [[rTaste frontier research agents propose many good experiments but cannot yet tell which to]]
+- 2026-11-01 · [[Where sycophancy comes from deference is already in base models, caving under pushback is]]
+- 2026-11-01 · [[RoleFUZZER coverage-guided fuzzing of user behaviours finds where role-prompted assistants]]
+- 2026-11-01 · [[Prompt Lottery rephrasing an LLM judge's prompt without changing its meaning can reverse m]]
 - 2026-10-31 · [[OpenAI details its layered misalignment monitors the strongest model catches 79.6% of real]]
 - 2026-10-31 · [[Most of what outcome RL buys is finishing within the token budget, not new reasoning]]
 - 2026-10-31 · [[Epoch open-weight GLM 5.3 turned published Firefox fixes into working file-stealing exploi]]

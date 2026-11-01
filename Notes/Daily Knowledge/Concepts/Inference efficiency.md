@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-01 · [[Soft-MTP a one-line change to multi-token-prediction training gives better speculative dra]]
+- 2026-11-01 · [[Nemotron 3.5 tech report NVIDIA's 120B open hybrid Mamba-Transformer MoE scores 51.78% on]]
 - 2026-10-31 · [[llama.cpp server (one model, 24,000 requests) silently dropped about a quarter of logprob]]
 - 2026-10-30 · [[Pyrite (two models, one Mac) byte-neutral 2-bit quantization cuts Qwen3.8-27B KL divergenc]]
 - 2026-10-29 · [[Spine subtask-scoped context lifts Codex to 1998 milestones at 32% lower cost]]

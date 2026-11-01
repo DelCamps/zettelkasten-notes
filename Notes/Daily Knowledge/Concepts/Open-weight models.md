@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-01 · [[Nemotron 3.5 tech report NVIDIA's 120B open hybrid Mamba-Transformer MoE scores 51.78% on]]
 - 2026-10-31 · [[llama.cpp server (one model, 24,000 requests) silently dropped about a quarter of logprob]]
 - 2026-10-31 · [[Epoch open-weight GLM 5.3 turned published Firefox fixes into working file-stealing exploi]]
 - 2026-10-30 · [[Pyrite (two models, one Mac) byte-neutral 2-bit quantization cuts Qwen3.8-27B KL divergenc]]

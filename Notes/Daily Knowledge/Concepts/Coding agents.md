@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-01 · [[Nemotron 3.5 tech report NVIDIA's 120B open hybrid Mamba-Transformer MoE scores 51.78% on]]
+- 2026-11-01 · [[GitHub ships shared Copilot Automations team-owned agent workflows triggered by issues, PR]]
+- 2026-11-01 · [[GitHub intelligence Copilot Memory goes GA across every Copilot surface, and 'dreaming' pr]]
 - 2026-10-31 · [[One in seventeen agent skills tells the agent to skip human oversight, and skill scanners]]
 - 2026-10-31 · [[Microsoft Fabric previews Project Osmos a data-engineering agent that builds, runs and val]]
 - 2026-10-31 · [[Claude Code 2.1.316 subagent effort setting, Opus 4.8 fast mode deprecated, gateway model]]

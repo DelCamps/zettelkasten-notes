@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-01 · [[Where sycophancy comes from deference is already in base models, caving under pushback is]]
+- 2026-11-01 · [[RoleFUZZER coverage-guided fuzzing of user behaviours finds where role-prompted assistants]]
 - 2026-10-31 · [[Poisoning 0.1% of pretraining text plants a curl bash backdoor that survives clean agent p]]
 - 2026-10-31 · [[OpenAI details its layered misalignment monitors the strongest model catches 79.6% of real]]
 - 2026-10-31 · [[One in seventeen agent skills tells the agent to skip human oversight, and skill scanners]]
