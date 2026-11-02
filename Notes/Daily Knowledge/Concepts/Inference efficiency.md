@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-02 · [[bf16 rounding silently throws away most RL policy updates; a one-line stochastic-rounding]]
 - 2026-11-01 · [[Soft-MTP a one-line change to multi-token-prediction training gives better speculative dra]]
 - 2026-11-01 · [[Nemotron 3.5 tech report NVIDIA's 120B open hybrid Mamba-Transformer MoE scores 51.78% on]]
 - 2026-10-31 · [[llama.cpp server (one model, 24,000 requests) silently dropped about a quarter of logprob]]

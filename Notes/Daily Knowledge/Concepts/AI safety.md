@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-02 · [[AI control benchmark flaw a bag-of-words classifier beats 20 of 24 code-sabotage monitors]]
 - 2026-11-01 · [[Where sycophancy comes from deference is already in base models, caving under pushback is]]
 - 2026-11-01 · [[RoleFUZZER coverage-guided fuzzing of user behaviours finds where role-prompted assistants]]
 - 2026-10-31 · [[Poisoning 0.1% of pretraining text plants a curl bash backdoor that survives clean agent p]]

@@ -41,7 +41,7 @@ Microsoft just shipped Copilot for finance: GA plugins in Cowork for close packa
 **What it is**
 A role-specific package for finance built on Microsoft 365 Copilot. Excel now sits inside the Copilot app, so Chat or Cowork can analyse, edit and co-author workbooks. New pieces: accounting capabilities (account reconciliation, journal-entry preparation, variance-to-plan reporting, with an optional audit trail of what Copilot changed and why); a Capital Markets plugin (investment cases, comparables, LBO, DCF, merger models, CIM review, keeping sourced inputs separate from analyst assumptions); a Finance plugin (close review packages, forecast reviews, audit evidence packages, expense itemisation); Excel history that shows who changed what and can reverse single edits; a Dynamics 365 ERP apps plugin; Fabric IQ for governed Power BI data; and partner plugins (e.g. Moody's, S&P Global, FactSet, LSEG, Fitch, D&B, Xero, QuickBooks). In limited Insiders availability over seven days, more than 8,000 users invoked accounting skills more than 44,000 times across more than 18,000 conversations.
 
-**Concepts:** Microsoft 365 Copilot · [[Agents]] · [[Power BI and Fabric]]
+**Concepts:** [[Microsoft 365 Copilot]] · [[Agents]] · [[Power BI and Fabric]]
 **From:** [[2026-10-31]]
 
 # My notes

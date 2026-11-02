@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-02 · [[GitHub code scanning for AI applications in public preview flags prompt-injection paths an]]
 - 2026-11-01 · [[GitHub ships shared Copilot Automations team-owned agent workflows triggered by issues, PR]]
 - 2026-11-01 · [[GitHub intelligence Copilot Memory goes GA across every Copilot surface, and 'dreaming' pr]]
 - 2026-10-30 · [[EMBRACE the built-in browsers of Cursor, Copilot, Codex, VS Code and Claude Desktop were a]]

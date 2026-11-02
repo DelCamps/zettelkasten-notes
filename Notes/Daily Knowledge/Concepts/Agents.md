@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-02 · [[Microsoft Fabric OneLake catalog Govern experience goes GA, plus Govern Skills that let an]]
+- 2026-11-02 · [[Microsoft Copilot October update Autopilot reaches Frontier in November, skills come to Co]]
+- 2026-11-02 · [[BlindToChange search agents find a recent change when asked, but often don't check for it]]
 - 2026-11-01 · [[RoleFUZZER coverage-guided fuzzing of user behaviours finds where role-prompted assistants]]
 - 2026-11-01 · [[Google's Knowledge Catalog now ingests Looker, dbt, Snowflake, Databricks and SAP semantic]]
 - 2026-11-01 · [[GitHub ships shared Copilot Automations team-owned agent workflows triggered by issues, PR]]

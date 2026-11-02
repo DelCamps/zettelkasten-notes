@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-02 · [[OpenAI ChatGPT and Codex will draw from one usage allowance, Work features come into Chat,]]
+- 2026-11-02 · [[Module shadowing a planted Python file ran its payload in 62 of 90 coding-agent trials, an]]
+- 2026-11-02 · [[Caper (one agent, one approver model, single run) approving shell commands by dry-running]]
 - 2026-11-01 · [[Nemotron 3.5 tech report NVIDIA's 120B open hybrid Mamba-Transformer MoE scores 51.78% on]]
 - 2026-11-01 · [[GitHub ships shared Copilot Automations team-owned agent workflows triggered by issues, PR]]
 - 2026-11-01 · [[GitHub intelligence Copilot Memory goes GA across every Copilot surface, and 'dreaming' pr]]

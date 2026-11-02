@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-02 · [[LLM hiring screens favour cover letters written by some models about 2 in 25 strong candid]]
+- 2026-11-02 · [[BlindToChange search agents find a recent change when asked, but often don't check for it]]
+- 2026-11-02 · [[AI control benchmark flaw a bag-of-words classifier beats 20 of 24 code-sabotage monitors]]
 - 2026-11-01 · [[rTaste frontier research agents propose many good experiments but cannot yet tell which to]]
 - 2026-11-01 · [[Where sycophancy comes from deference is already in base models, caving under pushback is]]
 - 2026-11-01 · [[RoleFUZZER coverage-guided fuzzing of user behaviours finds where role-prompted assistants]]

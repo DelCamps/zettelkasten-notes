@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-02 · [[Module shadowing a planted Python file ran its payload in 62 of 90 coding-agent trials, an]]
+- 2026-11-02 · [[GitHub code scanning for AI applications in public preview flags prompt-injection paths an]]
+- 2026-11-02 · [[Caper (one agent, one approver model, single run) approving shell commands by dry-running]]
 - 2026-10-31 · [[Poisoning 0.1% of pretraining text plants a curl bash backdoor that survives clean agent p]]
 - 2026-10-31 · [[OpenAI details its layered misalignment monitors the strongest model catches 79.6% of real]]
 - 2026-10-31 · [[One in seventeen agent skills tells the agent to skip human oversight, and skill scanners]]
