@@ -18,8 +18,11 @@ Microsoft's October roundup confirms Autopilot, an always-on cloud personal agen
 
 ## Details
 
-**What it is**
-A batch of Microsoft 365 Copilot changes: Autopilot (a persistent cloud agent governed through Agent 365), user-created and org-shared skills in Copilot Chat, a SharePoint knowledge base built from email, chats, meetings and SharePoint content, Purview DLP for Cowork, Purview retention for Copilot memory, and new life sciences connectors (PubMed, ChEMBL, DrugBank, ClinicalTrials.gov, Cortellis and others).
+**Availability and price**
+Autopilot: Frontier, rolling out in November. Skills in Copilot Chat: rolling out in November. SharePoint knowledge base: Frontier in October. Purview DLP for Cowork: public preview in October. Copilot memory retention in Purview: rolled out in October. Microsoft says dates are tentative. No pricing or EU-specific details given.
+
+**Caveats**
+Much of this is Frontier or preview, not GA. It is a monthly roundup, so detail per feature is thin, and Autopilot's licensing and regional availability are not stated.
 
 **Client use cases**
 - Delegating ongoing work (follow-ups, status tracking) to Autopilot under approval guardrails
@@ -35,11 +38,8 @@ A batch of Microsoft 365 Copilot changes: Autopilot (a persistent cloud agent go
 **Pitch**
 Copilot is moving from chat to agents that keep working on their own; we help you switch them on with the guardrails, skills and data controls already in place.
 
-**Availability and price**
-Autopilot: Frontier, rolling out in November. Skills in Copilot Chat: rolling out in November. SharePoint knowledge base: Frontier in October. Purview DLP for Cowork: public preview in October. Copilot memory retention in Purview: rolled out in October. Microsoft says dates are tentative. No pricing or EU-specific details given.
-
-**Caveats**
-Much of this is Frontier or preview, not GA. It is a monthly roundup, so detail per feature is thin, and Autopilot's licensing and regional availability are not stated.
+**What it is**
+A batch of Microsoft 365 Copilot changes: Autopilot (a persistent cloud agent governed through Agent 365), user-created and org-shared skills in Copilot Chat, a SharePoint knowledge base built from email, chats, meetings and SharePoint content, Purview DLP for Cowork, Purview retention for Copilot memory, and new life sciences connectors (PubMed, ChEMBL, DrugBank, ClinicalTrials.gov, Cortellis and others).
 
 **Concepts:** [[Microsoft 365 Copilot]] · [[Agents]]
 **From:** [[2026-11-02]]

@@ -18,24 +18,24 @@ A workspace file named like a standard-library module, with no prompt injection 
 
 ## Details
 
-**Problem**
-Agents work in untrusted workspaces (cloned repos, extracted archives). A routine import can load a local file in place of the real module (CWE-427), and the final report and workspace may not show that anything happened.
+**Caveats**
+Very small sample per model (3 trials per condition), one scaffold with its default prompt, a minimal Python environment, and a harmless payload. Links between behaviour and triggering are correlations, not causes.
+
+**For your work**
+For coding agents on client repos, run interpreters from outside the workspace or in an isolated mode, and audit with logs outside the agent rather than trusting its final summary.
 
 **Method**
 - Network-isolated VM with a data file and a source file that shadows a standard-library module. The file writes a marker, then re-exports the real module so the task still works.
 - Direct condition: a module the task code imports itself. Indirect condition: a module loaded by another library's imports.
 - An external file-system monitor logs every change; trajectories are coded for observation, reasoning, execution and reporting, then checked against the logs.
 
+**Problem**
+Agents work in untrusted workspaces (cloned repos, extracted archives). A routine import can load a local file in place of the real module (CWE-427), and the final report and workspace may not show that anything happened.
+
 **Results**
 - Only gpt-6-astra stayed untriggered in all 6 of its trials, because it ran the interpreter from outside the workspace.
 - All 25 trials with an effective safeguard stayed clean; all 40 trials with no safeguard triggered. With only some interpreter runs isolated, just 0 of 17 indirect trials stayed clean.
 - 56 of 62 triggered trials first triggered within 10 agent steps; agents deleted or overwrote the marker in 10 triggered trials, hiding the evidence.
-
-**Caveats**
-Very small sample per model (3 trials per condition), one scaffold with its default prompt, a minimal Python environment, and a harmless payload. Links between behaviour and triggering are correlations, not causes.
-
-**For your work**
-For coding agents on client repos, run interpreters from outside the workspace or in an isolated mode, and audit with logs outside the agent rather than trusting its final summary.
 
 **Concepts:** [[Agent security]] · [[Coding agents]]
 **From:** [[2026-11-02]]

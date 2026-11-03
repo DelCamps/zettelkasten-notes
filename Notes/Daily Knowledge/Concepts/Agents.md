@@ -4,6 +4,13 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-03 · [[When 200 OK is not an answer 20.9% of pages a static fetch gets with status 200 lack the a]]
+- 2026-11-03 · [[LLM audit agents give way to partners, peers and outside reviewers, but resist the client']]
+- 2026-11-03 · [[Don't make the model re-emit tool tables a production agent scores 92.3% vs 45.7% correct]]
+- 2026-11-03 · [[Dataverse plugin lands in Copilot Cowork one prompt builds a governed Dataverse app]]
+- 2026-11-03 · [[Copilot UX components go GA interactive dashboards, forms and approvals inside Microsoft C]]
+- 2026-11-03 · [[Claude API message threads (beta) agent loops send only the new turn, so time to first tok]]
+- 2026-11-03 · [[Amazon Connect contact-centre flows can now call MCP tools through AgentCore Gateway]]
 - 2026-11-02 · [[Microsoft Fabric OneLake catalog Govern experience goes GA, plus Govern Skills that let an]]
 - 2026-11-02 · [[Microsoft Copilot October update Autopilot reaches Frontier in November, skills come to Co]]
 - 2026-11-02 · [[BlindToChange search agents find a recent change when asked, but often don't check for it]]

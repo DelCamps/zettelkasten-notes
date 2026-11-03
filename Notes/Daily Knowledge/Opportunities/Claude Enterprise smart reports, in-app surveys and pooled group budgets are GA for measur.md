@@ -18,8 +18,11 @@ Anthropic made three admin features generally available for Claude Enterprise: s
 
 ## Details
 
-**What it is**
-Smart reports: pick a team, date range and products; Claude groups the work into workstreams, shows spend and deliverables, flags friction such as a missing connector or failed tool call, and gives one list of recommendations (e.g. recurring workflows to turn into skills). Surveys: short in-app cards asking about value, exportable to a spreadsheet. Pooled budgets: one monthly group budget on top of member limits, with in-product requests for more.
+**Availability and price**
+GA for Claude Enterprise; availability varies by configuration (e.g. HIPAA or customer-managed keys). No pricing stated.
+
+**Caveats**
+Anthropic says reports are for adoption and investment planning, not for evaluating individual performance or employment decisions. Claude Enterprise only.
 
 **Client use cases**
 - Proving ROI of a Claude Enterprise rollout to the CFO
@@ -34,11 +37,8 @@ Smart reports: pick a team, date range and products; Claude groups the work into
 **Pitch**
 We turn Claude usage data into a value story and a backlog of skills, and keep spend under control.
 
-**Availability and price**
-GA for Claude Enterprise; availability varies by configuration (e.g. HIPAA or customer-managed keys). No pricing stated.
-
-**Caveats**
-Anthropic says reports are for adoption and investment planning, not for evaluating individual performance or employment decisions. Claude Enterprise only.
+**What it is**
+Smart reports: pick a team, date range and products; Claude groups the work into workstreams, shows spend and deliverables, flags friction such as a missing connector or failed tool call, and gives one list of recommendations (e.g. recurring workflows to turn into skills). Surveys: short in-app cards asking about value, exportable to a spreadsheet. Pooled budgets: one monthly group budget on top of member limits, with in-product requests for more.
 
 **Concepts:** [[Claude]]
 **From:** [[2026-11-02]]

@@ -18,8 +18,11 @@ In an email to subscribers, OpenAI said ChatGPT and Codex use will draw from the
 
 ## Details
 
-**Problem**
-Plus, Pro and Business users who split work between ChatGPT chat, Work (agent tasks) and Codex currently have separate limits.
+**Caveats**
+Based on a subscriber email reported by BleepingComputer and an OpenAI help-center page; per-plan limits and the exact date are not public yet, and an older Codex page still lists the previous limits.
+
+**For your work**
+If you use Codex heavily on a personal plan, model choice now eats into the same budget as chat; watch Settings > Usage after the switch.
 
 **Method**
 - One shared, token-based allowance across ChatGPT and Codex; advanced models and complex tasks use more
@@ -27,15 +30,12 @@ Plus, Pro and Business users who split work between ChatGPT chat, Work (agent ta
 - Combined remaining usage and reset times shown in Settings > Usage; when exhausted, wait, upgrade or buy credits
 - Work features (files, plugins, building sites or presentations, web tasks) tested inside regular Chat with a small group first; Codex stays separate in the desktop app
 
+**Problem**
+Plus, Pro and Business users who split work between ChatGPT chat, Work (agent tasks) and Codex currently have separate limits.
+
 **Results**
 - Work and Codex allowances doubled for Pro 100, Pro 200 and Pro 500, effective October 29
 - No per-plan token amounts or exact start date given in the email; OpenAI's help center says the shared allowance starts in December
-
-**Caveats**
-Based on a subscriber email reported by BleepingComputer and an OpenAI help-center page; per-plan limits and the exact date are not public yet, and an older Codex page still lists the previous limits.
-
-**For your work**
-If you use Codex heavily on a personal plan, model choice now eats into the same budget as chat; watch Settings > Usage after the switch.
 
 **Concepts:** OpenAI enterprise · [[Coding agents]]
 **From:** [[2026-11-02]]

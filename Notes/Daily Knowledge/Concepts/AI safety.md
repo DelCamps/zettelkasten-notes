@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-03 · [[LLM audit agents give way to partners, peers and outside reviewers, but resist the client']]
+- 2026-11-03 · [[Audit at the precision you deploy (one 7B model) 4-bit quantization can amplify or erase a]]
+- 2026-11-03 · [[Anthropic's FlashProve proves which model produced an output Llama 4 Maverick at about 110]]
 - 2026-11-02 · [[AI control benchmark flaw a bag-of-words classifier beats 20 of 24 code-sabotage monitors]]
 - 2026-11-01 · [[Where sycophancy comes from deference is already in base models, caving under pushback is]]
 - 2026-11-01 · [[RoleFUZZER coverage-guided fuzzing of user behaviours finds where role-prompted assistants]]

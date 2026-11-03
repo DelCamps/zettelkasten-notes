@@ -40,7 +40,7 @@ Google now grounds its data agents in the semantic models clients already mainta
 **What it is**
 Knowledge Catalog places semantic definitions next to schema, lineage, data profiles and glossary terms. When two tools define the same metric differently, both are kept and labelled by source so data stewards can reconcile them. Gemini-powered enrichment extracts context from playbooks, meeting notes, chat threads and code. Validated assets can be packaged as reusable 'context sets'. Knowledge Studio, the tool to explore the graph, is in preview.
 
-**Concepts:** Google Cloud · [[RAG]] · [[Agents]]
+**Concepts:** [[Google Cloud]] · [[RAG]] · [[Agents]]
 **From:** [[2026-11-01]]
 
 # My notes

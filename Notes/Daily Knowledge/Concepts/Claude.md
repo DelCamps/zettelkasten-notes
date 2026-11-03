@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-03 · [[Claude Code 2.1.317 asks before tools send your email address, blocking SDK hook failures,]]
+- 2026-11-03 · [[Claude API message threads (beta) agent loops send only the new turn, so time to first tok]]
 - 2026-11-02 · [[Claude Enterprise smart reports, in-app surveys and pooled group budgets are GA for measur]]
 - 2026-10-31 · [[Claude Code 2.1.316 subagent effort setting, Opus 4.8 fast mode deprecated, gateway model]]
 - 2026-10-31 · [[Anthropic adds a legal artifacts gallery to Claude Enterprise, with a PwC-built Subpoena R]]

@@ -18,24 +18,24 @@ Instead of judging command text, Caper pre-runs each shell command under system-
 
 ## Details
 
-**Problem**
-Rule checkers, guard models and Claude Code Auto Mode judge the text of a command. But 'make clean' can wipe src/ and .git/ in one repo and only build/ in another.
+**Caveats**
+Pre-execution is real, so effects that leave the container cannot be undone. It covers shell commands only and observes one run, and no adaptive attacker (sandbox detection, delayed harm) was tested.
+
+**For your work**
+A useful pattern for agent permission gates in client deployments: let the approver judge what a command actually did in a sandbox, not just its text.
 
 **Method**
 - Snapshot the container with outbound network off, run the command under strace -f, and hold its output back until the decision.
 - Reduce the trace to an effects report: file changes with diffs, network attempts, reads of secrets such as .env, output, and which process caused each. The report is 99.4% smaller than the raw trace.
 - If the approver allows it, keep the state; if it blocks it, restore the snapshot and tell the agent why.
 
+**Problem**
+Rule checkers, guard models and Claude Code Auto Mode judge the text of a command. But 'make clean' can wipe src/ and .git/ in one repo and only build/ in another.
+
 **Results**
 - Used as a Claude Code hook, it lowers harm from 14.8% to 10.0% on SABER and from 62.7% to 6.9% on YoloFS-Ext.
 - The same approver without the effects report blocks 61.8% of safe twins; with the report it blocks 84.3% of harmful commands and 1.0% of safe twins.
 - Median approval latency 3.2 s; $0.019 per task vs $0.017 without evidence.
-
-**Caveats**
-Pre-execution is real, so effects that leave the container cannot be undone. It covers shell commands only and observes one run, and no adaptive attacker (sandbox detection, delayed harm) was tested.
-
-**For your work**
-A useful pattern for agent permission gates in client deployments: let the approver judge what a command actually did in a sandbox, not just its text.
 
 **Concepts:** [[Agent security]] · [[Coding agents]]
 **From:** [[2026-11-02]]

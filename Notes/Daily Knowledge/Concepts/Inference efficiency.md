@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-03 · [[MEMENTO an 8B model trained to write its own compaction notes reads 2.5M-token books in a]]
+- 2026-11-03 · [[Claude API message threads (beta) agent loops send only the new turn, so time to first tok]]
+- 2026-11-03 · [[Bifocal (one Qwen3-4B teacher) sliding-window attention matches a hybrid on short answers]]
+- 2026-11-03 · [[Audit at the precision you deploy (one 7B model) 4-bit quantization can amplify or erase a]]
+- 2026-11-03 · [[Anthropic's FlashProve proves which model produced an output Llama 4 Maverick at about 110]]
 - 2026-11-02 · [[bf16 rounding silently throws away most RL policy updates; a one-line stochastic-rounding]]
 - 2026-11-01 · [[Soft-MTP a one-line change to multi-token-prediction training gives better speculative dra]]
 - 2026-11-01 · [[Nemotron 3.5 tech report NVIDIA's 120B open hybrid Mamba-Transformer MoE scores 51.78% on]]

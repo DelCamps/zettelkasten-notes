@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-03 · [[When 200 OK is not an answer 20.9% of pages a static fetch gets with status 200 lack the a]]
+- 2026-11-03 · [[ParallACT two coding agents on conflicting requests in one repo fall from 62% to 16% joint]]
+- 2026-11-03 · [[LLM audit agents give way to partners, peers and outside reviewers, but resist the client']]
 - 2026-11-02 · [[LLM hiring screens favour cover letters written by some models about 2 in 25 strong candid]]
 - 2026-11-02 · [[BlindToChange search agents find a recent change when asked, but often don't check for it]]
 - 2026-11-02 · [[AI control benchmark flaw a bag-of-words classifier beats 20 of 24 code-sabotage monitors]]

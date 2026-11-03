@@ -18,24 +18,24 @@ When the same candidate's cover letter is written by different models, evaluator
 
 ## Details
 
-**Problem**
-Applicants write with LLMs and employers screen with LLMs. Does the choice of model change outcomes regardless of how qualified the candidate is?
+**Caveats**
+'Local' and 'small' are the same models by design (both around 8B), so the local penalty may simply reflect size. Fit tiers come from cosine similarity, and most models tested are mini/flash tiers.
+
+**For your work**
+For HR-screening clients (a high-risk use under the EU AI Act), audit the evaluator model across writer models, score the CV and letter together, and monitor style features rather than trusting one judge.
 
 **Method**
 - Real CVs and job ads; for each job, 50 CVs split into high-fit and moderate-fit tiers by embedding similarity.
 - 11 writers produce 5,500 cover letters; 9 API-hosted models score them on CV only, letter only, and CV + letter.
 - A per-candidate residual removes candidate quality and evaluator strictness; a rank-displacement analysis checks whether letters overturn each evaluator's own CV-only ranking.
 
+**Problem**
+Applicants write with LLMs and employers screen with LLMs. Does the choice of model change outcomes regardless of how qualified the candidate is?
+
 **Results**
 - As a writer, GPT-4o-mini beats its successor GPT-5-mini in the letter-only condition.
 - Letter only: Claude Sonnet 4.6 is the most neutral evaluator (9.6) and Gemini 3.5 Flash the most biased (11.2). With the CV included, Gemini 3.5 Flash is the most neutral (6.3) and DeepSeek V3.2 the most biased (14.9).
 - Stylistic features (semantic fit to the job ad, readability) explain the preferences, with little room left for an unmeasured writer 'fingerprint'.
-
-**Caveats**
-'Local' and 'small' are the same models by design (both around 8B), so the local penalty may simply reflect size. Fit tiers come from cosine similarity, and most models tested are mini/flash tiers.
-
-**For your work**
-For HR-screening clients (a high-risk use under the EU AI Act), audit the evaluator model across writer models, score the CV and letter together, and monitor style features rather than trusting one judge.
 
 **Concepts:** [[Evals and benchmarks]]
 **From:** [[2026-11-02]]

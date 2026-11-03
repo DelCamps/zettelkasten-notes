@@ -18,8 +18,11 @@ GitHub Advanced Security now scans pull requests for AI-specific risks: indirect
 
 ## Details
 
-**What it is**
-A new code scanning capability that runs automatically on pull requests alongside CodeQL and posts alerts on the Conversation or Files changed tab. GitHub calls indirect prompt injection the top risk in the OWASP Top 10 for LLM Applications.
+**Availability and price**
+Public preview on github.com, not on GitHub Enterprise Server. Requires a GitHub Advanced Security licence with code scanning and AI applications scanning enabled. No extra pricing stated.
+
+**Caveats**
+Preview; the changelog does not list supported languages or frameworks, and coverage of other AI risks is still expanding.
 
 **Client use cases**
 - Secure SDLC for teams building agents and LLM apps
@@ -34,11 +37,8 @@ A new code scanning capability that runs automatically on pull requests alongsid
 **Pitch**
 Catch prompt-injection and over-privileged agent designs at pull-request time, before they reach production.
 
-**Availability and price**
-Public preview on github.com, not on GitHub Enterprise Server. Requires a GitHub Advanced Security licence with code scanning and AI applications scanning enabled. No extra pricing stated.
-
-**Caveats**
-Preview; the changelog does not list supported languages or frameworks, and coverage of other AI risks is still expanding.
+**What it is**
+A new code scanning capability that runs automatically on pull requests alongside CodeQL and posts alerts on the Conversation or Files changed tab. GitHub calls indirect prompt injection the top risk in the OWASP Top 10 for LLM Applications.
 
 **Concepts:** [[Agent security]] · [[GitHub Copilot]]
 **From:** [[2026-11-02]]

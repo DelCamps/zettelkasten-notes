@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-03 · [[Claude Code 2.1.317 asks before tools send your email address, blocking SDK hook failures,]]
 - 2026-11-02 · [[Module shadowing a planted Python file ran its payload in 62 of 90 coding-agent trials, an]]
 - 2026-11-02 · [[GitHub code scanning for AI applications in public preview flags prompt-injection paths an]]
 - 2026-11-02 · [[Caper (one agent, one approver model, single run) approving shell commands by dry-running]]

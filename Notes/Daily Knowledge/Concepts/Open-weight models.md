@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-03 · [[Bifocal (one Qwen3-4B teacher) sliding-window attention matches a hybrid on short answers]]
+- 2026-11-03 · [[Anthropic's FlashProve proves which model produced an output Llama 4 Maverick at about 110]]
 - 2026-11-01 · [[Nemotron 3.5 tech report NVIDIA's 120B open hybrid Mamba-Transformer MoE scores 51.78% on]]
 - 2026-10-31 · [[llama.cpp server (one model, 24,000 requests) silently dropped about a quarter of logprob]]
 - 2026-10-31 · [[Epoch open-weight GLM 5.3 turned published Firefox fixes into working file-stealing exploi]]

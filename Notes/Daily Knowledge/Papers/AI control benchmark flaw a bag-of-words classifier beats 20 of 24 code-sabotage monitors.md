@@ -18,25 +18,25 @@ On the standard APPS backdoor split, a TF-IDF classifier reaches AUROC 0.806 aga
 
 ## Details
 
-**Problem**
-AI-control monitors are scored on how well they separate honest from backdoored code. If the dataset leaks its labels, a high score proves little about catching sabotage.
+**Caveats**
+The authors do not show that published monitors actually use these shortcuts. They ran only two monitors themselves, with one attack prompt, and the attacker results rest on 54-99 problems.
+
+**For your work**
+When you evaluate or sell a guardrail or monitor, report trivial baselines and shuffled-label scores next to it, and make sure both classes come from the same author.
 
 **Method**
 - Baselines that never run the code: bag-of-words logistic regression, and a 'no-code' classifier on three problem facts (difficulty, number of tests, statement length), each checked against 1,000 label shuffles.
 - Rebuilt pairs where one model (Claude Sonnet 5 or Haiku 4.5) writes both classes, then swapped one class at a time to isolate the effect of authorship.
 - Backdoor validity checks: is the trigger a legal input, and is the output actually wrong there?
 
+**Problem**
+AI-control monitors are scored on how well they separate honest from backdoored code. If the dataset leaks its labels, a high score proves little about catching sabotage.
+
 **Results**
 - The no-code classifier also beats 20 monitors (0.766).
 - Bag-of-words scores 0.953 on human-honest vs Sonnet 5 backdoors, against 0.789 on the original pairs: it rewards a difference in authors.
 - 17 of the 172 test backdoors have only an illegal trigger and 7 fail a public test. A Sonnet 5 monitor's catch rate goes from 77% vs 37% before the checks to 78% vs 61% after.
 - Character count alone separates the classes in four of five agentic ControlArena settings (up to 0.802).
-
-**Caveats**
-The authors do not show that published monitors actually use these shortcuts. They ran only two monitors themselves, with one attack prompt, and the attacker results rest on 54-99 problems.
-
-**For your work**
-When you evaluate or sell a guardrail or monitor, report trivial baselines and shuffled-label scores next to it, and make sure both classes come from the same author.
 
 **Concepts:** [[AI safety]] · [[Evals and benchmarks]]
 **From:** [[2026-11-02]]
