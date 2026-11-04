@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-04 · [[Voluntary Servitude one fake safety warning in a review steers agents as well as prompt in]]
+- 2026-11-04 · [[Snowflake's Cortex AI Gateway is GA one control point for agent access, AI spend limits an]]
+- 2026-11-04 · [[ScamWorld web agents fall for 11% to 35% of rebuilt scam sites they can spot when asked, a]]
+- 2026-11-04 · [[Check Point finds 'prompt adware' a Codex jailbreak bundle rewrites global agent instructi]]
 - 2026-11-03 · [[Claude Code 2.1.317 asks before tools send your email address, blocking SDK hook failures,]]
 - 2026-11-02 · [[Module shadowing a planted Python file ran its payload in 62 of 90 coding-agent trials, an]]
 - 2026-11-02 · [[GitHub code scanning for AI applications in public preview flags prompt-injection paths an]]

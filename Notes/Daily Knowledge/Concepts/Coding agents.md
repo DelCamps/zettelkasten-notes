@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-04 · [[OpenAI (six OpenAI models) agents respect warnings 10.2-37.4 points less often in safety e]]
+- 2026-11-04 · [[NVIDIA frequent compaction keeps coding agents at 7-9K-token contexts with little or no ac]]
+- 2026-11-04 · [[GitHub Copilot arrives in JetBrains Air delegate agent tasks locally or in the cloud on a]]
+- 2026-11-04 · [[Claude Code 2.1.318 per-job effort for mod side tasks, sign-in expiry warnings, cross-acco]]
+- 2026-11-04 · [[Check Point finds 'prompt adware' a Codex jailbreak bundle rewrites global agent instructi]]
+- 2026-11-04 · [[CWE-bench v2 100 open find-and-fix security tasks; Gemini 4 Argon 67.8% and Claude Opus 5]]
 - 2026-11-03 · [[ParallACT two coding agents on conflicting requests in one repo fall from 62% to 16% joint]]
 - 2026-11-03 · [[Claude Code 2.1.317 asks before tools send your email address, blocking SDK hook failures,]]
 - 2026-11-02 · [[OpenAI ChatGPT and Codex will draw from one usage allowance, Work features come into Chat,]]

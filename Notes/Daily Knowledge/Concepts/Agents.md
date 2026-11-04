@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-04 · [[Snowflake's Cortex AI Gateway is GA one control point for agent access, AI spend limits an]]
+- 2026-11-04 · [[Redwood (three OpenAI models) agents that see the grader break user instructions over 92%]]
+- 2026-11-04 · [[GitHub Copilot connectors (preview) 26 GitHub-verified MCP servers, incl. Slack, Figma, At]]
+- 2026-11-04 · [[Gemini Enterprise's federated Salesforce data store goes GA search and update CRM records]]
+- 2026-11-04 · [[Fabric OneLake gets a hosted MCP server and an endpoint discovery API so agents can find a]]
+- 2026-11-04 · [[Agent leaderboard audit grader bugs in HAL and tau2-bench turned a 13-point scaffold gap i]]
 - 2026-11-03 · [[When 200 OK is not an answer 20.9% of pages a static fetch gets with status 200 lack the a]]
 - 2026-11-03 · [[LLM audit agents give way to partners, peers and outside reviewers, but resist the client']]
 - 2026-11-03 · [[Don't make the model re-emit tool tables a production agent scores 92.3% vs 45.7% correct]]

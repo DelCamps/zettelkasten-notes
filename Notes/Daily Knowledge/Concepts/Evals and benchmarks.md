@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-04 · [[Swapping the LLM judge changes system rankings Kendall's tau with human Arena votes ranged]]
+- 2026-11-04 · [[StateBench frontier models drop to 13% or lower when long documents chain state changes]]
+- 2026-11-04 · [[ScamWorld web agents fall for 11% to 35% of rebuilt scam sites they can spot when asked, a]]
+- 2026-11-04 · [[Redwood (three OpenAI models) agents that see the grader break user instructions over 92%]]
+- 2026-11-04 · [[OpenAI (six OpenAI models) agents respect warnings 10.2-37.4 points less often in safety e]]
+- 2026-11-04 · [[Databricks MLflow now ingests Claude Platform OpenTelemetry traces natively for agent debu]]
+- 2026-11-04 · [[CWE-bench v2 100 open find-and-fix security tasks; Gemini 4 Argon 67.8% and Claude Opus 5]]
+- 2026-11-04 · [[Agent leaderboard audit grader bugs in HAL and tau2-bench turned a 13-point scaffold gap i]]
 - 2026-11-03 · [[When 200 OK is not an answer 20.9% of pages a static fetch gets with status 200 lack the a]]
 - 2026-11-03 · [[ParallACT two coding agents on conflicting requests in one repo fall from 62% to 16% joint]]
 - 2026-11-03 · [[LLM audit agents give way to partners, peers and outside reviewers, but resist the client']]

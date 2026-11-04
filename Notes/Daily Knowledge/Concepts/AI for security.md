@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI for security
 
 ## Linked from the brief
+- 2026-11-04 · [[CWE-bench v2 100 open find-and-fix security tasks; Gemini 4 Argon 67.8% and Claude Opus 5]]
 - 2026-10-31 · [[Epoch open-weight GLM 5.3 turned published Firefox fixes into working file-stealing exploi]]
 - 2026-10-30 · [[Snyk VulnBench 2.0 (one run per cell) SAST and Claude Code security-review find different]]
 - 2026-10-29 · [[Google announces Gemini 4 Carbon, a cyber-first frontier model, initially for defenders on]]

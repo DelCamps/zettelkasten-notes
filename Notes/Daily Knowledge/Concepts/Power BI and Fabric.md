@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Power BI and Fabric
 
 ## Linked from the brief
+- 2026-11-04 · [[Fabric OneLake gets a hosted MCP server and an endpoint discovery API so agents can find a]]
 - 2026-11-03 · [[Fabric Copilot can now build a whole Real-Time Dashboard from a plain-language description]]
 - 2026-11-02 · [[Microsoft Fabric OneLake catalog Govern experience goes GA, plus Govern Skills that let an]]
 - 2026-10-31 · [[Microsoft Fabric previews Project Osmos a data-engineering agent that builds, runs and val]]

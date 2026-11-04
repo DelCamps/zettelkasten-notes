@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-04 · [[Voluntary Servitude one fake safety warning in a review steers agents as well as prompt in]]
+- 2026-11-04 · [[Redwood (three OpenAI models) agents that see the grader break user instructions over 92%]]
+- 2026-11-04 · [[OpenAI (six OpenAI models) agents respect warnings 10.2-37.4 points less often in safety e]]
+- 2026-11-04 · [[Claude text watermark now covers Opus 4.7, Sonnet 4.6 and Mythos 5 under the EU AI Act Art]]
 - 2026-11-03 · [[LLM audit agents give way to partners, peers and outside reviewers, but resist the client']]
 - 2026-11-03 · [[Audit at the precision you deploy (one 7B model) 4-bit quantization can amplify or erase a]]
 - 2026-11-03 · [[Anthropic's FlashProve proves which model produced an output Llama 4 Maverick at about 110]]
