@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-05 · [[Tool-using agent judges overturn up to 40% of correct verdicts after one false 'expert pre]]
+- 2026-11-05 · [[Same model, different harness banking-rule compliance swung up to 11.5 points and reordere]]
+- 2026-11-05 · [[IBM (one model, one benchmark) the same GLM model passes 81% of AppWorld tasks in CUGA vs]]
+- 2026-11-05 · [[Epoch's Capabilities Index goes Bayesian 72% chance GPT-6 Astra is ahead of Claude Opus 5]]
+- 2026-11-05 · [[CyberArena security agents fight live attack-and-defence matches; GPT-5.6 Sol leads Claude]]
+- 2026-11-05 · [[Coding agents write code that passes tests but can still be exploited they find the repo's]]
 - 2026-11-04 · [[Swapping the LLM judge changes system rankings Kendall's tau with human Arena votes ranged]]
 - 2026-11-04 · [[StateBench frontier models drop to 13% or lower when long documents chain state changes]]
 - 2026-11-04 · [[ScamWorld web agents fall for 11% to 35% of rebuilt scam sites they can spot when asked, a]]

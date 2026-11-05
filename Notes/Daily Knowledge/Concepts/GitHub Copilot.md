@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-05 · [[GitHub Copilot usage API now separates BYOK and enterprise custom-model use from Copilot-h]]
+- 2026-11-05 · [[GitHub Copilot now runs inside Xcode's built-in coding assistant (public preview, all Copi]]
 - 2026-11-04 · [[GitHub Copilot connectors (preview) 26 GitHub-verified MCP servers, incl. Slack, Figma, At]]
 - 2026-11-04 · [[GitHub Copilot arrives in JetBrains Air delegate agent tasks locally or in the cloud on a]]
 - 2026-11-02 · [[GitHub code scanning for AI applications in public preview flags prompt-injection paths an]]

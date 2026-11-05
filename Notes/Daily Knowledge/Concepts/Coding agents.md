@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-05 · [[GitHub Copilot now runs inside Xcode's built-in coding assistant (public preview, all Copi]]
+- 2026-11-05 · [[Coding agents write code that passes tests but can still be exploited they find the repo's]]
 - 2026-11-04 · [[OpenAI (six OpenAI models) agents respect warnings 10.2-37.4 points less often in safety e]]
 - 2026-11-04 · [[NVIDIA frequent compaction keeps coding agents at 7-9K-token contexts with little or no ac]]
 - 2026-11-04 · [[GitHub Copilot arrives in JetBrains Air delegate agent tasks locally or in the cloud on a]]

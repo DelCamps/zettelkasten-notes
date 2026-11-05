@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-05 · [[Same model, different harness banking-rule compliance swung up to 11.5 points and reordere]]
+- 2026-11-05 · [[Running fewer MoE experts speeds decoding up to 28% but can weaken refusals; running all e]]
 - 2026-11-04 · [[Voluntary Servitude one fake safety warning in a review steers agents as well as prompt in]]
 - 2026-11-04 · [[Redwood (three OpenAI models) agents that see the grader break user instructions over 92%]]
 - 2026-11-04 · [[OpenAI (six OpenAI models) agents respect warnings 10.2-37.4 points less often in safety e]]

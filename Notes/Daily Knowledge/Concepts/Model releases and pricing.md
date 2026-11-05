@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-05 · [[OpenAI ships GPT-Image-2.6 Sunburst and Flare SVG and animated GIF output and markup-guide]]
 - 2026-11-03 · [[Gemini 2.5 Pro and 2.5 Flash deprecated calls to them will be silently re-routed on Decemb]]
 - 2026-10-31 · [[Azure AI Foundry gets the Microsoft Copilot harness managed agent loop, skills, MCP tools]]
 - 2026-10-30 · [[Mistral releases the weights of Large 4, a 1-trillion-parameter open model, at $0.70$2.10]]

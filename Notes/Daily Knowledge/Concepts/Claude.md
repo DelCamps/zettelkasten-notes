@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-05 · [[Claude Team and Enterprise can now auto-connect plugins at sign-in, even without Okta, wit]]
 - 2026-11-04 · [[Databricks MLflow now ingests Claude Platform OpenTelemetry traces natively for agent debu]]
 - 2026-11-04 · [[Claude text watermark now covers Opus 4.7, Sonnet 4.6 and Mythos 5 under the EU AI Act Art]]
 - 2026-11-04 · [[Claude Code 2.1.318 per-job effort for mod side tasks, sign-in expiry warnings, cross-acco]]

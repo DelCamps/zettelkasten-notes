@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Computer-use agents
 
 ## Linked from the brief
+- 2026-11-05 · [[Amazon WorkSpaces for AI agents adds Linux (with root) and Windows 11 cloud desktops for c]]
 - 2026-11-04 · [[Voluntary Servitude one fake safety warning in a review steers agents as well as prompt in]]
 - 2026-11-04 · [[ScamWorld web agents fall for 11% to 35% of rebuilt scam sites they can spot when asked, a]]
 - 2026-10-31 · [[Gemini API Computer Use is now generally available, with per-action safety decisions]]

@@ -37,7 +37,7 @@ Plus, Pro and Business users who split work between ChatGPT chat, Work (agent ta
 - Work and Codex allowances doubled for Pro 100, Pro 200 and Pro 500, effective October 29
 - No per-plan token amounts or exact start date given in the email; OpenAI's help center says the shared allowance starts in December
 
-**Concepts:** OpenAI enterprise · [[Coding agents]]
+**Concepts:** [[OpenAI enterprise]] · [[Coding agents]]
 **From:** [[2026-11-02]]
 
 # My notes

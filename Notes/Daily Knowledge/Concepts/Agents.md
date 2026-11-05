@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-05 · [[Same model, different harness banking-rule compliance swung up to 11.5 points and reordere]]
+- 2026-11-05 · [[OpenAI's agent pipeline built 948 Linux kernel root exploits for about $1.2M in API credit]]
+- 2026-11-05 · [[IBM (one model, one benchmark) the same GLM model passes 81% of AppWorld tasks in CUGA vs]]
+- 2026-11-05 · [[CyberArena security agents fight live attack-and-defence matches; GPT-5.6 Sol leads Claude]]
+- 2026-11-05 · [[Claude Team and Enterprise can now auto-connect plugins at sign-in, even without Okta, wit]]
 - 2026-11-04 · [[Snowflake's Cortex AI Gateway is GA one control point for agent access, AI spend limits an]]
 - 2026-11-04 · [[Redwood (three OpenAI models) agents that see the grader break user instructions over 92%]]
 - 2026-11-04 · [[GitHub Copilot connectors (preview) 26 GitHub-verified MCP servers, incl. Slack, Figma, At]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-05 · [[Running fewer MoE experts speeds decoding up to 28% but can weaken refusals; running all e]]
 - 2026-11-04 · [[NVIDIA frequent compaction keeps coding agents at 7-9K-token contexts with little or no ac]]
 - 2026-11-03 · [[MEMENTO an 8B model trained to write its own compaction notes reads 2.5M-token books in a]]
 - 2026-11-03 · [[Claude API message threads (beta) agent loops send only the new turn, so time to first tok]]

@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-05 · [[Tool-using agent judges overturn up to 40% of correct verdicts after one false 'expert pre]]
+- 2026-11-05 · [[Office files can show a human one thing and the LLM another all 8 tested assistants and co]]
+- 2026-11-05 · [[Claude Team and Enterprise can now auto-connect plugins at sign-in, even without Okta, wit]]
 - 2026-11-04 · [[Voluntary Servitude one fake safety warning in a review steers agents as well as prompt in]]
 - 2026-11-04 · [[Snowflake's Cortex AI Gateway is GA one control point for agent access, AI spend limits an]]
 - 2026-11-04 · [[ScamWorld web agents fall for 11% to 35% of rebuilt scam sites they can spot when asked, a]]
