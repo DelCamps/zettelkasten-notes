@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-06 · [[Microsoft Claude models in Copilot will be processed inside the EU Data Boundary by the en]]
+- 2026-11-06 · [[Claude Enterprise adds a security center, GA inference hooks for DLP tools, a parent admin]]
 - 2026-11-05 · [[Claude Team and Enterprise can now auto-connect plugins at sign-in, even without Okta, wit]]
 - 2026-11-04 · [[Databricks MLflow now ingests Claude Platform OpenTelemetry traces natively for agent debu]]
 - 2026-11-04 · [[Claude text watermark now covers Opus 4.7, Sonnet 4.6 and Mythos 5 under the EU AI Act Art]]

@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-06 · [[Terminal-Bench 2.1 an audit found defects in about 30% of tasks, and a longer time limit c]]
+- 2026-11-06 · [[Prompt injections that tamper with the task in progress, not redirect it, get past injecti]]
+- 2026-11-06 · [[METR's inside look at Anthropic capability growth about 1.9x faster than before, perhaps 8]]
+- 2026-11-06 · [[MCPHallu MCP agents keep calling tools on impossible goals; only 23.2% of such runs pass,]]
 - 2026-11-05 · [[Tool-using agent judges overturn up to 40% of correct verdicts after one false 'expert pre]]
 - 2026-11-05 · [[Same model, different harness banking-rule compliance swung up to 11.5 points and reordere]]
 - 2026-11-05 · [[IBM (one model, one benchmark) the same GLM model passes 81% of AppWorld tasks in CUGA vs]]

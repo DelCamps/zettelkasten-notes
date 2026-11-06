@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-06 · [[IBM Palette (one 20B model) a designercoder split and a check-and-repair harness bring a s]]
 - 2026-11-05 · [[Running fewer MoE experts speeds decoding up to 28% but can weaken refusals; running all e]]
 - 2026-11-03 · [[Bifocal (one Qwen3-4B teacher) sliding-window attention matches a hybrid on short answers]]
 - 2026-11-03 · [[Anthropic's FlashProve proves which model produced an output Llama 4 Maverick at about 110]]

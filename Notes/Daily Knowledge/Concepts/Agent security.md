@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-06 · [[SPILLWAY (small models, AgentDojo) a deterministic check on where actions go blocks templa]]
+- 2026-11-06 · [[Prompt injections that tamper with the task in progress, not redirect it, get past injecti]]
+- 2026-11-06 · [[Claude Enterprise adds a security center, GA inference hooks for DLP tools, a parent admin]]
+- 2026-11-06 · [[Cheap LLM API relays 7 of 10 low-price relays behave differently from the official API, an]]
 - 2026-11-05 · [[Tool-using agent judges overturn up to 40% of correct verdicts after one false 'expert pre]]
 - 2026-11-05 · [[Office files can show a human one thing and the LLM another all 8 tested assistants and co]]
 - 2026-11-05 · [[Claude Team and Enterprise can now auto-connect plugins at sign-in, even without Okta, wit]]

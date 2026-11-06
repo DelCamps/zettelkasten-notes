@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-06 · [[METR's inside look at Anthropic capability growth about 1.9x faster than before, perhaps 8]]
 - 2026-11-05 · [[Epoch's Capabilities Index goes Bayesian 72% chance GPT-6 Astra is ahead of Claude Opus 5]]
 - 2026-11-04 · [[StateBench frontier models drop to 13% or lower when long documents chain state changes]]
 - 2026-10-29 · [[Google announces Gemini 4 Carbon, a cyber-first frontier model, initially for defenders on]]

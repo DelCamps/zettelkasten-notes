@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-06 · [[IBM Palette (one 20B model) a designercoder split and a check-and-repair harness bring a s]]
 - 2026-11-03 · [[MEMENTO an 8B model trained to write its own compaction notes reads 2.5M-token books in a]]
 - 2026-11-02 · [[bf16 rounding silently throws away most RL policy updates; a one-line stochastic-rounding]]
 - 2026-11-01 · [[Where sycophancy comes from deference is already in base models, caving under pushback is]]

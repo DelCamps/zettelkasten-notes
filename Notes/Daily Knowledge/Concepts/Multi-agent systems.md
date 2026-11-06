@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-11-06 · [[Anthropic Fellows agents show regard for other agents' welfare, and Claude and Gemini favo]]
 - 2026-11-03 · [[ParallACT two coding agents on conflicting requests in one repo fall from 62% to 16% joint]]
 - 2026-11-01 · [[rTaste frontier research agents propose many good experiments but cannot yet tell which to]]
 - 2026-10-31 · [[Microsoft Fabric previews Project Osmos a data-engineering agent that builds, runs and val]]

@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-06 · [[The memory trap one benign 'no need to check with me' becomes a standing rule, and agents]]
+- 2026-11-06 · [[SPILLWAY (small models, AgentDojo) a deterministic check on where actions go blocks templa]]
+- 2026-11-06 · [[MCPHallu MCP agents keep calling tools on impossible goals; only 23.2% of such runs pass,]]
+- 2026-11-06 · [[Copilot Studio Work IQ and three workflow features go GA, a Copilot Studio MCP server for]]
+- 2026-11-06 · [[AWS AgentCore Web Answer is GA one MCP call returns a cited answer from current web source]]
 - 2026-11-05 · [[Same model, different harness banking-rule compliance swung up to 11.5 points and reordere]]
 - 2026-11-05 · [[OpenAI's agent pipeline built 948 Linux kernel root exploits for about $1.2M in API credit]]
 - 2026-11-05 · [[IBM (one model, one benchmark) the same GLM model passes 81% of AppWorld tasks in CUGA vs]]

@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-06 · [[The memory trap one benign 'no need to check with me' becomes a standing rule, and agents]]
+- 2026-11-06 · [[METR's inside look at Anthropic capability growth about 1.9x faster than before, perhaps 8]]
+- 2026-11-06 · [[Anthropic Fellows agents show regard for other agents' welfare, and Claude and Gemini favo]]
 - 2026-11-05 · [[Same model, different harness banking-rule compliance swung up to 11.5 points and reordere]]
 - 2026-11-05 · [[Running fewer MoE experts speeds decoding up to 28% but can weaken refusals; running all e]]
 - 2026-11-04 · [[Voluntary Servitude one fake safety warning in a review steers agents as well as prompt in]]

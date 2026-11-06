@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-06 · [[Gemini Omni 1.2 Flash is GA with 30% cheaper video output; the Gemini API now reads PPT, O]]
+- 2026-11-06 · [[Cheap LLM API relays 7 of 10 low-price relays behave differently from the official API, an]]
 - 2026-11-05 · [[OpenAI ships GPT-Image-2.6 Sunburst and Flare SVG and animated GIF output and markup-guide]]
 - 2026-11-03 · [[Gemini 2.5 Pro and 2.5 Flash deprecated calls to them will be silently re-routed on Decemb]]
 - 2026-10-31 · [[Azure AI Foundry gets the Microsoft Copilot harness managed agent loop, skills, MCP tools]]
