@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-07 · [[Claude Code 2.1.319 auto mode behind LLM gateways now asks or denies instead of falling ba]]
+- 2026-11-07 · [[Anthropic on agent memory an offline 'dreaming' pass builds a wiki that lifts search-based]]
 - 2026-11-06 · [[Microsoft Claude models in Copilot will be processed inside the EU Data Boundary by the en]]
 - 2026-11-06 · [[Claude Enterprise adds a security center, GA inference hooks for DLP tools, a parent admin]]
 - 2026-11-05 · [[Claude Team and Enterprise can now auto-connect plugins at sign-in, even without Okta, wit]]

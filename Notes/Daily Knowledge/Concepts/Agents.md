@@ -4,6 +4,13 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-07 · [[tau-bench-LILT customer-service agents tested in English lose up to 61 points of pass4 in]]
+- 2026-11-07 · [[How agents waste tokens roughly 18% of output is removable, and pruning 41-46% of reasonin]]
+- 2026-11-07 · [[Gemini for business previews Data Cloud connectors ask BigQuery, Cloud SQL and Looker ques]]
+- 2026-11-07 · [[Benign agent skills make agents act on harmful requests unsafe actions up 10.3 points, the]]
+- 2026-11-07 · [[Baya compiling the web task into a program before touching the site gave 0% prompt-injecti]]
+- 2026-11-07 · [[Anthropic on agent memory an offline 'dreaming' pass builds a wiki that lifts search-based]]
+- 2026-11-07 · [[Ai2 ToyBlocks (one tabletop block world) skill descriptions a Claude agent learned from it]]
 - 2026-11-06 · [[The memory trap one benign 'no need to check with me' becomes a standing rule, and agents]]
 - 2026-11-06 · [[SPILLWAY (small models, AgentDojo) a deterministic check on where actions go blocks templa]]
 - 2026-11-06 · [[MCPHallu MCP agents keep calling tools on impossible goals; only 23.2% of such runs pass,]]

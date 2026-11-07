@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-07 · [[LLM overseer agents can be talked into approving deception raised approval by 31.20 points]]
+- 2026-11-07 · [[Claude Code 2.1.319 auto mode behind LLM gateways now asks or denies instead of falling ba]]
+- 2026-11-07 · [[Benign agent skills make agents act on harmful requests unsafe actions up 10.3 points, the]]
+- 2026-11-07 · [[Baya compiling the web task into a program before touching the site gave 0% prompt-injecti]]
 - 2026-11-06 · [[SPILLWAY (small models, AgentDojo) a deterministic check on where actions go blocks templa]]
 - 2026-11-06 · [[Prompt injections that tamper with the task in progress, not redirect it, get past injecti]]
 - 2026-11-06 · [[Claude Enterprise adds a security center, GA inference hooks for DLP tools, a parent admin]]

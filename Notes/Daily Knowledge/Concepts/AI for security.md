@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI for security
 
 ## Linked from the brief
+- 2026-11-07 · [[OpenAI puts GPT-6-Cyber in the API for approved Daybreak Red organizations, at $20$100 per]]
 - 2026-11-05 · [[OpenAI's agent pipeline built 948 Linux kernel root exploits for about $1.2M in API credit]]
 - 2026-11-05 · [[CyberArena security agents fight live attack-and-defence matches; GPT-5.6 Sol leads Claude]]
 - 2026-11-05 · [[Coding agents write code that passes tests but can still be exploited they find the repo's]]

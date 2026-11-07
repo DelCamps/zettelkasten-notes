@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-07 · [[LLM overseer agents can be talked into approving deception raised approval by 31.20 points]]
+- 2026-11-07 · [[Benign agent skills make agents act on harmful requests unsafe actions up 10.3 points, the]]
 - 2026-11-06 · [[The memory trap one benign 'no need to check with me' becomes a standing rule, and agents]]
 - 2026-11-06 · [[METR's inside look at Anthropic capability growth about 1.9x faster than before, perhaps 8]]
 - 2026-11-06 · [[Anthropic Fellows agents show regard for other agents' welfare, and Claude and Gemini favo]]

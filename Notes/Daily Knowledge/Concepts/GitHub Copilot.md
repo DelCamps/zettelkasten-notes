@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-07 · [[Copilot code review settings are now manageable by REST and GraphQL API; Balanced reviews]]
+- 2026-11-07 · [[@GitHub in Slack and Teams is GA, with a new Canvas in Teams to review the agent's plan an]]
 - 2026-11-05 · [[GitHub Copilot usage API now separates BYOK and enterprise custom-model use from Copilot-h]]
 - 2026-11-05 · [[GitHub Copilot now runs inside Xcode's built-in coding assistant (public preview, all Copi]]
 - 2026-11-04 · [[GitHub Copilot connectors (preview) 26 GitHub-verified MCP servers, incl. Slack, Figma, At]]

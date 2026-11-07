@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-07 · [[tau-bench-LILT customer-service agents tested in English lose up to 61 points of pass4 in]]
+- 2026-11-07 · [[OpenAI puts GPT-6-Cyber in the API for approved Daybreak Red organizations, at $20$100 per]]
+- 2026-11-07 · [[Multi-step SWE coding agents that build on their own code finish only 18.5% of 5-15 step t]]
 - 2026-11-06 · [[METR's inside look at Anthropic capability growth about 1.9x faster than before, perhaps 8]]
 - 2026-11-05 · [[Epoch's Capabilities Index goes Bayesian 72% chance GPT-6 Astra is ahead of Claude Opus 5]]
 - 2026-11-04 · [[StateBench frontier models drop to 13% or lower when long documents chain state changes]]

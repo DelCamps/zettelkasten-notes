@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-07 · [[tau-bench-LILT customer-service agents tested in English lose up to 61 points of pass4 in]]
+- 2026-11-07 · [[Multi-step SWE coding agents that build on their own code finish only 18.5% of 5-15 step t]]
+- 2026-11-07 · [[How agents waste tokens roughly 18% of output is removable, and pruning 41-46% of reasonin]]
+- 2026-11-07 · [[Ai2 ToyBlocks (one tabletop block world) skill descriptions a Claude agent learned from it]]
 - 2026-11-06 · [[Terminal-Bench 2.1 an audit found defects in about 30% of tasks, and a longer time limit c]]
 - 2026-11-06 · [[Prompt injections that tamper with the task in progress, not redirect it, get past injecti]]
 - 2026-11-06 · [[METR's inside look at Anthropic capability growth about 1.9x faster than before, perhaps 8]]
