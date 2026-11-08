@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-08 · [[TASC assistants compute elapsed time correctly but warn about time-based safety rules in o]]
+- 2026-11-08 · [[Fine-tuning a model on facts it believes are false, with no harmful content, can make it b]]
 - 2026-11-07 · [[LLM overseer agents can be talked into approving deception raised approval by 31.20 points]]
 - 2026-11-07 · [[Benign agent skills make agents act on harmful requests unsafe actions up 10.3 points, the]]
 - 2026-11-06 · [[The memory trap one benign 'no need to check with me' becomes a standing rule, and agents]]

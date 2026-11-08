@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-08 · [[Malicious Ruby gem plants MCP servers, hooks and AGENTS.md instructions to re-infect via c]]
+- 2026-11-08 · [[GitHub Copilot weekly Agent Merge, assisted tool approvals in the Copilot app, and VS Code]]
+- 2026-11-08 · [[Codex CLI 0.167.0 agent command center, backend switching and Vertex AI sign-in behind a f]]
+- 2026-11-08 · [[Apiiro Claude Code's 'don't ask again' file has leaked 1,379 secrets in 1,122 public GitHu]]
 - 2026-11-07 · [[Multi-step SWE coding agents that build on their own code finish only 18.5% of 5-15 step t]]
 - 2026-11-07 · [[Copilot code review settings are now manageable by REST and GraphQL API; Balanced reviews]]
 - 2026-11-07 · [[Claude Code 2.1.319 auto mode behind LLM gateways now asks or denies instead of falling ba]]

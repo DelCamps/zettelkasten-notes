@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-08 · [[TASC assistants compute elapsed time correctly but warn about time-based safety rules in o]]
+- 2026-11-08 · [[Multimodal-SEA scammers with forged screenshots, documents and videos trick every tested p]]
+- 2026-11-08 · [[LLM judges disagree more with non-English rubrics, especially on negated rules write rubri]]
+- 2026-11-08 · [[AgenticFinBench auditing financial agents' claims for hallucinations knocks the rubric-onl]]
 - 2026-11-07 · [[tau-bench-LILT customer-service agents tested in English lose up to 61 points of pass4 in]]
 - 2026-11-07 · [[Multi-step SWE coding agents that build on their own code finish only 18.5% of 5-15 step t]]
 - 2026-11-07 · [[How agents waste tokens roughly 18% of output is removable, and pruning 41-46% of reasonin]]

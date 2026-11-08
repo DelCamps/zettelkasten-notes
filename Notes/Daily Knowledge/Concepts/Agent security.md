@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-08 · [[Multimodal-SEA scammers with forged screenshots, documents and videos trick every tested p]]
+- 2026-11-08 · [[Malicious Ruby gem plants MCP servers, hooks and AGENTS.md instructions to re-infect via c]]
+- 2026-11-08 · [[Apiiro Claude Code's 'don't ask again' file has leaked 1,379 secrets in 1,122 public GitHu]]
 - 2026-11-07 · [[LLM overseer agents can be talked into approving deception raised approval by 31.20 points]]
 - 2026-11-07 · [[Claude Code 2.1.319 auto mode behind LLM gateways now asks or denies instead of falling ba]]
 - 2026-11-07 · [[Benign agent skills make agents act on harmful requests unsafe actions up 10.3 points, the]]

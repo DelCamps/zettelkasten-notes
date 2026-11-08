@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-08 · [[Work IQ adds SharePoint MCP tools (preview) custom agents get 60+ SharePoint operations un]]
+- 2026-11-08 · [[Salesforce Agentforce Coworker adds Microsoft 365 connectivity, Skills and a $50 per-user]]
+- 2026-11-08 · [[Multimodal-SEA scammers with forged screenshots, documents and videos trick every tested p]]
+- 2026-11-08 · [[AgenticFinBench auditing financial agents' claims for hallucinations knocks the rubric-onl]]
 - 2026-11-07 · [[tau-bench-LILT customer-service agents tested in English lose up to 61 points of pass4 in]]
 - 2026-11-07 · [[How agents waste tokens roughly 18% of output is removable, and pruning 41-46% of reasonin]]
 - 2026-11-07 · [[Gemini for business previews Data Cloud connectors ask BigQuery, Cloud SQL and Looker ques]]
