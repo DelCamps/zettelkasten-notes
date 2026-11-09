@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-09 · [[Prompt-injection guards fail on legal contracts up to 92% false positives, and none beats]]
+- 2026-11-09 · [[Microsoft Foundry extension for Azure Developer CLI reaches 1.0 GA scaffold, test, evaluat]]
+- 2026-11-09 · [[MemoryDojo (Microsoft) one poisoned tool output gets stored by agent memory systems and st]]
+- 2026-11-09 · [[Authorization drift capable agents overreach with no attacker present, Claude Sonnet 4.6 a]]
 - 2026-11-08 · [[TASC assistants compute elapsed time correctly but warn about time-based safety rules in o]]
 - 2026-11-08 · [[Multimodal-SEA scammers with forged screenshots, documents and videos trick every tested p]]
 - 2026-11-08 · [[LLM judges disagree more with non-English rubrics, especially on negated rules write rubri]]

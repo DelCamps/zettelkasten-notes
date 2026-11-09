@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-09 · [[Microsoft Foundry extension for Azure Developer CLI reaches 1.0 GA scaffold, test, evaluat]]
+- 2026-11-09 · [[Microsoft 365 Copilot Cowork can now drive your local Edge browser, plus an agents usage r]]
+- 2026-11-09 · [[Client retries can keep a vLLM server down after a load spike (one GPU, 3 small open model]]
+- 2026-11-09 · [[ChatGPT Enterprise gets dots, always-on personal agents that keep working between conversa]]
 - 2026-11-08 · [[Work IQ adds SharePoint MCP tools (preview) custom agents get 60+ SharePoint operations un]]
 - 2026-11-08 · [[Salesforce Agentforce Coworker adds Microsoft 365 connectivity, Skills and a $50 per-user]]
 - 2026-11-08 · [[Multimodal-SEA scammers with forged screenshots, documents and videos trick every tested p]]

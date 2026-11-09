@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-09 · [[MemoryDojo (Microsoft) one poisoned tool output gets stored by agent memory systems and st]]
+- 2026-11-09 · [[ChatGPT Enterprise gets dots, always-on personal agents that keep working between conversa]]
 - 2026-11-08 · [[TASC assistants compute elapsed time correctly but warn about time-based safety rules in o]]
 - 2026-11-07 · [[Anthropic on agent memory an offline 'dreaming' pass builds a wiki that lifts search-based]]
 - 2026-11-06 · [[The memory trap one benign 'no need to check with me' becomes a standing rule, and agents]]

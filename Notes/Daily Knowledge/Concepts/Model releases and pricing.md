@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-09 · [[Price each query, not each model a small 'scout' model predicts reasoning-model output len]]
 - 2026-11-07 · [[OpenAI puts GPT-6-Cyber in the API for approved Daybreak Red organizations, at $20$100 per]]
 - 2026-11-06 · [[Gemini Omni 1.2 Flash is GA with 30% cheaper video output; the Gemini API now reads PPT, O]]
 - 2026-11-06 · [[Cheap LLM API relays 7 of 10 low-price relays behave differently from the official API, an]]

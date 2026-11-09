@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-09 · [[Thought injection (two open models, one agent) a document written in the agent's own reaso]]
 - 2026-11-08 · [[Malicious Ruby gem plants MCP servers, hooks and AGENTS.md instructions to re-infect via c]]
 - 2026-11-08 · [[GitHub Copilot weekly Agent Merge, assisted tool approvals in the Copilot app, and VS Code]]
 - 2026-11-08 · [[Codex CLI 0.167.0 agent command center, backend switching and Vertex AI sign-in behind a f]]

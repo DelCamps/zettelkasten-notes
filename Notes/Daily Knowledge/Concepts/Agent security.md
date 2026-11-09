@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-09 · [[Thought injection (two open models, one agent) a document written in the agent's own reaso]]
+- 2026-11-09 · [[Prompt-injection guards fail on legal contracts up to 92% false positives, and none beats]]
+- 2026-11-09 · [[MemoryDojo (Microsoft) one poisoned tool output gets stored by agent memory systems and st]]
+- 2026-11-09 · [[Authorization drift capable agents overreach with no attacker present, Claude Sonnet 4.6 a]]
 - 2026-11-08 · [[Multimodal-SEA scammers with forged screenshots, documents and videos trick every tested p]]
 - 2026-11-08 · [[Malicious Ruby gem plants MCP servers, hooks and AGENTS.md instructions to re-infect via c]]
 - 2026-11-08 · [[Apiiro Claude Code's 'don't ask again' file has leaked 1,379 secrets in 1,122 public GitHu]]

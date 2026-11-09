@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Interpretability
 
 ## Linked from the brief
+- 2026-11-09 · [[SafetyPulse (one 3.35B model) reading the refusal circuit flags safety drift during harmle]]
 - 2026-11-08 · [[Fine-tuning a model on facts it believes are false, with no harmful content, can make it b]]
 - 2026-11-03 · [[Audit at the precision you deploy (one 7B model) 4-bit quantization can amplify or erase a]]
 - 2026-10-30 · [[Role spoofing tool output that fakes chat structure passes as the user, even on Opus 5 and]]

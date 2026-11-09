@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-09 · [[Prompt-injection guards fail on legal contracts up to 92% false positives, and none beats]]
 - 2026-11-08 · [[Claude Enterprise project tags (beta) attribute AI spend to charge codes, WBS codes or cli]]
 - 2026-11-08 · [[Apiiro Claude Code's 'don't ask again' file has leaked 1,379 secrets in 1,122 public GitHu]]
 - 2026-11-08 · [[Anthropic scientists use Claude where AI works best; data analysis is a third of Claude se]]
