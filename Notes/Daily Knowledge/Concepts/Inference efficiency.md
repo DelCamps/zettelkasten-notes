@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-10 · [[Epoch's Inference Performance Index a GB300 serves about 25x the agentic inference of an H]]
+- 2026-11-10 · [[Borrowed thoughts a 27B model's reasoning pasted into Qwen3-8B lifts it ~30 points on code]]
+- 2026-11-10 · [[Amazon's HOPE prunes half of a MoE model's experts by keeping co-working experts together,]]
 - 2026-11-09 · [[The 'Turkish tax' (four open models, one vLLM machine) serving Turkish costs 1.45-1.62x th]]
 - 2026-11-09 · [[Price each query, not each model a small 'scout' model predicts reasoning-model output len]]
 - 2026-11-09 · [[Client retries can keep a vLLM server down after a load spike (one GPU, 3 small open model]]

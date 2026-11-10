@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-10 · [[Russian 'Pravda Network' pages showed up in 31% of Claude's and 8.1% of Copilot's web answ]]
+- 2026-11-10 · [[Keeping agents on procedure an external state machine in Claude Code hooks raised Haiku 4]]
+- 2026-11-10 · [[Claude Fable 5.2 reaches GitHub Copilot, off by default for organizations because Anthropi]]
+- 2026-11-10 · [[Claude Code 2.1.321-322 Fable 5.2 becomes the default Fable model, MCP OAuth tokens no lon]]
+- 2026-11-10 · [[Anthropic releases Claude Fable 5.2 and Mythos 5.2 about 30% faster than 5.1, ahead of Opu]]
 - 2026-11-09 · [[Prompt-injection guards fail on legal contracts up to 92% false positives, and none beats]]
 - 2026-11-08 · [[Claude Enterprise project tags (beta) attribute AI spend to charge codes, WBS codes or cli]]
 - 2026-11-08 · [[Apiiro Claude Code's 'don't ask again' file has leaked 1,379 secrets in 1,122 public GitHu]]

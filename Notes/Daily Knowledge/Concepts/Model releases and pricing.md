@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-10 · [[Claude Fable 5.2 reaches GitHub Copilot, off by default for organizations because Anthropi]]
+- 2026-11-10 · [[Anthropic releases Claude Fable 5.2 and Mythos 5.2 about 30% faster than 5.1, ahead of Opu]]
 - 2026-11-09 · [[Price each query, not each model a small 'scout' model predicts reasoning-model output len]]
 - 2026-11-07 · [[OpenAI puts GPT-6-Cyber in the API for approved Daybreak Red organizations, at $20$100 per]]
 - 2026-11-06 · [[Gemini Omni 1.2 Flash is GA with 30% cheaper video output; the Gemini API now reads PPT, O]]

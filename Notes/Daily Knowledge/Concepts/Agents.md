@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-10 · [[ScrapeBench asked plainly, AI agents scrape sites that forbid it almost every time, even a]]
+- 2026-11-10 · [[Same tool error, different recovery where you put the error message changes whether the ag]]
+- 2026-11-10 · [[Keeping agents on procedure an external state machine in Claude Code hooks raised Haiku 4]]
+- 2026-11-10 · [[Copilot connector write actions are GA Copilot Chat and Cowork can now create, update and]]
+- 2026-11-10 · [[Azure Content Understanding previews agentic mode document extraction that loops over page]]
 - 2026-11-09 · [[Microsoft Foundry extension for Azure Developer CLI reaches 1.0 GA scaffold, test, evaluat]]
 - 2026-11-09 · [[Microsoft 365 Copilot Cowork can now drive your local Edge browser, plus an agents usage r]]
 - 2026-11-09 · [[Client retries can keep a vLLM server down after a load spike (one GPU, 3 small open model]]

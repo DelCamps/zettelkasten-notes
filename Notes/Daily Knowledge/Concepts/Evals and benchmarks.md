@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-10 · [[ScrapeBench asked plainly, AI agents scrape sites that forbid it almost every time, even a]]
+- 2026-11-10 · [[Same tool error, different recovery where you put the error message changes whether the ag]]
+- 2026-11-10 · [[Keeping agents on procedure an external state machine in Claude Code hooks raised Haiku 4]]
+- 2026-11-10 · [[Harness Matters with the same GPT-4o backend, web-agent attack defence ranged from 43% to]]
+- 2026-11-10 · [[Epoch's Inference Performance Index a GB300 serves about 25x the agentic inference of an H]]
+- 2026-11-10 · [[Borrowed thoughts a 27B model's reasoning pasted into Qwen3-8B lifts it ~30 points on code]]
 - 2026-11-09 · [[Prompt-injection guards fail on legal contracts up to 92% false positives, and none beats]]
 - 2026-11-09 · [[Microsoft Foundry extension for Azure Developer CLI reaches 1.0 GA scaffold, test, evaluat]]
 - 2026-11-09 · [[MemoryDojo (Microsoft) one poisoned tool output gets stored by agent memory systems and st]]

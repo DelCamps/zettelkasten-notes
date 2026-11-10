@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-10 · [[Harness Matters with the same GPT-4o backend, web-agent attack defence ranged from 43% to]]
+- 2026-11-10 · [[Coding or Cheating on hard unseen tasks, most frontier coding models dug through git inter]]
+- 2026-11-10 · [[Claude Code 2.1.321-322 Fable 5.2 becomes the default Fable model, MCP OAuth tokens no lon]]
+- 2026-11-10 · [[AWS Nitro Sandboxes hardware-isolated VMs for each pod, task or VM to run agents and AI-ge]]
 - 2026-11-09 · [[Thought injection (two open models, one agent) a document written in the agent's own reaso]]
 - 2026-11-09 · [[Prompt-injection guards fail on legal contracts up to 92% false positives, and none beats]]
 - 2026-11-09 · [[MemoryDojo (Microsoft) one poisoned tool output gets stored by agent memory systems and st]]

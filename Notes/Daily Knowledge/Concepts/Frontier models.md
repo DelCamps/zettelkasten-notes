@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-10 · [[Anthropic releases Claude Fable 5.2 and Mythos 5.2 about 30% faster than 5.1, ahead of Opu]]
 - 2026-11-07 · [[tau-bench-LILT customer-service agents tested in English lose up to 61 points of pass4 in]]
 - 2026-11-07 · [[OpenAI puts GPT-6-Cyber in the API for approved Daybreak Red organizations, at $20$100 per]]
 - 2026-11-07 · [[Multi-step SWE coding agents that build on their own code finish only 18.5% of 5-15 step t]]

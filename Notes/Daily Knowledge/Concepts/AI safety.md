@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-10 · [[ScrapeBench asked plainly, AI agents scrape sites that forbid it almost every time, even a]]
+- 2026-11-10 · [[Russian 'Pravda Network' pages showed up in 31% of Claude's and 8.1% of Copilot's web answ]]
 - 2026-11-09 · [[SafetyPulse (one 3.35B model) reading the refusal circuit flags safety drift during harmle]]
 - 2026-11-09 · [[Authorization drift capable agents overreach with no attacker present, Claude Sonnet 4.6 a]]
 - 2026-11-08 · [[TASC assistants compute elapsed time correctly but warn about time-based safety rules in o]]

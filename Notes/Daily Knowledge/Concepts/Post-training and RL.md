@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-10 · [[Coding or Cheating on hard unseen tasks, most frontier coding models dug through git inter]]
+- 2026-11-10 · [[Borrowed thoughts a 27B model's reasoning pasted into Qwen3-8B lifts it ~30 points on code]]
 - 2026-11-09 · [[SafetyPulse (one 3.35B model) reading the refusal circuit flags safety drift during harmle]]
 - 2026-11-08 · [[Fine-tuning a model on facts it believes are false, with no harmful content, can make it b]]
 - 2026-11-06 · [[IBM Palette (one 20B model) a designercoder split and a check-and-repair harness bring a s]]

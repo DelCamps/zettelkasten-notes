@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-10 · [[Epoch's Inference Performance Index a GB300 serves about 25x the agentic inference of an H]]
+- 2026-11-10 · [[Amazon's HOPE prunes half of a MoE model's experts by keeping co-working experts together,]]
 - 2026-11-09 · [[The 'Turkish tax' (four open models, one vLLM machine) serving Turkish costs 1.45-1.62x th]]
 - 2026-11-06 · [[IBM Palette (one 20B model) a designercoder split and a check-and-repair harness bring a s]]
 - 2026-11-05 · [[Running fewer MoE experts speeds decoding up to 28% but can weaken refusals; running all e]]

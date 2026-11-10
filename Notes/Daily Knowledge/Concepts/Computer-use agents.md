@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Computer-use agents
 
 ## Linked from the brief
+- 2026-11-10 · [[Harness Matters with the same GPT-4o backend, web-agent attack defence ranged from 43% to]]
 - 2026-11-09 · [[Microsoft 365 Copilot Cowork can now drive your local Edge browser, plus an agents usage r]]
 - 2026-11-07 · [[Baya compiling the web task into a program before touching the site gave 0% prompt-injecti]]
 - 2026-11-05 · [[Amazon WorkSpaces for AI agents adds Linux (with root) and Windows 11 cloud desktops for c]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-10 · [[Copilot connector write actions are GA Copilot Chat and Cowork can now create, update and]]
 - 2026-11-09 · [[Microsoft 365 Copilot Cowork can now drive your local Edge browser, plus an agents usage r]]
 - 2026-11-08 · [[Work IQ adds SharePoint MCP tools (preview) custom agents get 60+ SharePoint operations un]]
 - 2026-11-06 · [[Microsoft Claude models in Copilot will be processed inside the EU Data Boundary by the en]]

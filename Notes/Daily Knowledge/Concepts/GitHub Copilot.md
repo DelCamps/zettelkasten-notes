@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-10 · [[Claude Fable 5.2 reaches GitHub Copilot, off by default for organizations because Anthropi]]
 - 2026-11-08 · [[GitHub Copilot weekly Agent Merge, assisted tool approvals in the Copilot app, and VS Code]]
 - 2026-11-07 · [[Copilot code review settings are now manageable by REST and GraphQL API; Balanced reviews]]
 - 2026-11-07 · [[@GitHub in Slack and Teams is GA, with a new Canvas in Teams to review the agent's plan an]]
