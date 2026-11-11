@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-11 · [[Gemini 4 Carbon opens to all paying developers and enterprises at $2$10 until 30 November,]]
 - 2026-11-10 · [[Claude Fable 5.2 reaches GitHub Copilot, off by default for organizations because Anthropi]]
 - 2026-11-10 · [[Anthropic releases Claude Fable 5.2 and Mythos 5.2 about 30% faster than 5.1, ahead of Opu]]
 - 2026-11-09 · [[Price each query, not each model a small 'scout' model predicts reasoning-model output len]]

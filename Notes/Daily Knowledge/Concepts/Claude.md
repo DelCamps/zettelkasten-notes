@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-11 · [[Claude adds Sheets and Whiteboards (beta) and makes Claude Data, its warehouse dashboards,]]
 - 2026-11-10 · [[Russian 'Pravda Network' pages showed up in 31% of Claude's and 8.1% of Copilot's web answ]]
 - 2026-11-10 · [[Keeping agents on procedure an external state machine in Claude Code hooks raised Haiku 4]]
 - 2026-11-10 · [[Claude Fable 5.2 reaches GitHub Copilot, off by default for organizations because Anthropi]]

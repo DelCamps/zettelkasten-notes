@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-11 · [[AWS AgentCore Web Search becomes a plain API (GA) web results for agents and pipelines at]]
 - 2026-11-10 · [[AWS Nitro Sandboxes hardware-isolated VMs for each pod, task or VM to run agents and AI-ge]]
 - 2026-11-06 · [[AWS AgentCore Web Answer is GA one MCP call returns a cited answer from current web source]]
 - 2026-11-05 · [[Amazon WorkSpaces for AI agents adds Linux (with root) and Windows 11 cloud desktops for c]]

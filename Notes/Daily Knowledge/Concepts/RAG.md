@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-11 · [[AWS AgentCore Web Search becomes a plain API (GA) web results for agents and pipelines at]]
 - 2026-11-10 · [[Russian 'Pravda Network' pages showed up in 31% of Claude's and 8.1% of Copilot's web answ]]
 - 2026-11-05 · [[Office files can show a human one thing and the LLM another all 8 tested assistants and co]]
 - 2026-11-03 · [[When 200 OK is not an answer 20.9% of pages a static fetch gets with status 200 lack the a]]

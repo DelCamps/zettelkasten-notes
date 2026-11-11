@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-11 · [[OpenAI GPT-6 Astra's chain of thought is harder to monitor, and RL with only final-answer]]
+- 2026-11-11 · [[DeputyBench enterprise agents mostly refuse clearly unauthorized actions, but still go ahe]]
+- 2026-11-11 · [[Anthropic Fellows adding clean data to a weak, triggered poison set can turn it into a wor]]
 - 2026-11-10 · [[ScrapeBench asked plainly, AI agents scrape sites that forbid it almost every time, even a]]
 - 2026-11-10 · [[Russian 'Pravda Network' pages showed up in 31% of Claude's and 8.1% of Copilot's web answ]]
 - 2026-11-09 · [[SafetyPulse (one 3.35B model) reading the refusal circuit flags safety drift during harmle]]

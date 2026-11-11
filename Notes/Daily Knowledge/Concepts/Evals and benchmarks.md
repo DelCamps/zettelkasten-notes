@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-11 · [[ExpertCrowd-SWE on 100 unpublished, expert-written coding tickets, Claude Opus 5.5 (67.3%)]]
+- 2026-11-11 · [[DeputyBench enterprise agents mostly refuse clearly unauthorized actions, but still go ahe]]
+- 2026-11-11 · [[Coding agents that say 'done' without running any check after their last edit solve fewer]]
 - 2026-11-10 · [[ScrapeBench asked plainly, AI agents scrape sites that forbid it almost every time, even a]]
 - 2026-11-10 · [[Same tool error, different recovery where you put the error message changes whether the ag]]
 - 2026-11-10 · [[Keeping agents on procedure an external state machine in Claude Code hooks raised Haiku 4]]

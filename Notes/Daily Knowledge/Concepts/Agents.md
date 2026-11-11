@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-11 · [[Prefix-cached agent serving is metastable a 5-minute traffic burst left vLLM at a 10% cach]]
+- 2026-11-11 · [[Claude adds Sheets and Whiteboards (beta) and makes Claude Data, its warehouse dashboards,]]
+- 2026-11-11 · [[AWS AgentCore Web Search becomes a plain API (GA) web results for agents and pipelines at]]
 - 2026-11-10 · [[ScrapeBench asked plainly, AI agents scrape sites that forbid it almost every time, even a]]
 - 2026-11-10 · [[Same tool error, different recovery where you put the error message changes whether the ag]]
 - 2026-11-10 · [[Keeping agents on procedure an external state machine in Claude Code hooks raised Haiku 4]]

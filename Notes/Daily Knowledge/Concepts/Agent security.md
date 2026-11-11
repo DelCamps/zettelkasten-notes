@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-11 · [[Fireworks AI breach was wider 'LLMjacking' attackers reached customer secrets, datasets an]]
+- 2026-11-11 · [[DeputyBench enterprise agents mostly refuse clearly unauthorized actions, but still go ahe]]
+- 2026-11-11 · [[Anthropic Fellows adding clean data to a weak, triggered poison set can turn it into a wor]]
 - 2026-11-10 · [[Harness Matters with the same GPT-4o backend, web-agent attack defence ranged from 43% to]]
 - 2026-11-10 · [[Coding or Cheating on hard unseen tasks, most frontier coding models dug through git inter]]
 - 2026-11-10 · [[Claude Code 2.1.321-322 Fable 5.2 becomes the default Fable model, MCP OAuth tokens no lon]]

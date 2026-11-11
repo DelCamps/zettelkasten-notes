@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-11 · [[ExpertCrowd-SWE on 100 unpublished, expert-written coding tickets, Claude Opus 5.5 (67.3%)]]
+- 2026-11-11 · [[Coding agents that say 'done' without running any check after their last edit solve fewer]]
 - 2026-11-10 · [[Coding or Cheating on hard unseen tasks, most frontier coding models dug through git inter]]
 - 2026-11-10 · [[Claude Code 2.1.321-322 Fable 5.2 becomes the default Fable model, MCP OAuth tokens no lon]]
 - 2026-11-10 · [[Amazon's HOPE prunes half of a MoE model's experts by keeping co-working experts together,]]

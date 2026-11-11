@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-11 · [[OpenAI GPT-6 Astra's chain of thought is harder to monitor, and RL with only final-answer]]
+- 2026-11-11 · [[Gemini 4 Carbon opens to all paying developers and enterprises at $2$10 until 30 November,]]
+- 2026-11-11 · [[ExpertCrowd-SWE on 100 unpublished, expert-written coding tickets, Claude Opus 5.5 (67.3%)]]
 - 2026-11-10 · [[Anthropic releases Claude Fable 5.2 and Mythos 5.2 about 30% faster than 5.1, ahead of Opu]]
 - 2026-11-07 · [[tau-bench-LILT customer-service agents tested in English lose up to 61 points of pass4 in]]
 - 2026-11-07 · [[OpenAI puts GPT-6-Cyber in the API for approved Daybreak Red organizations, at $20$100 per]]

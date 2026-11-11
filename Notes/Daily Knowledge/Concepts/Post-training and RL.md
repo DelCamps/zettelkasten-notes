@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-11 · [[Counting every generated token, Monte-Carlo step rewards lose to plain GRPO on small Qwen]]
+- 2026-11-11 · [[Anthropic Fellows adding clean data to a weak, triggered poison set can turn it into a wor]]
 - 2026-11-10 · [[Coding or Cheating on hard unseen tasks, most frontier coding models dug through git inter]]
 - 2026-11-10 · [[Borrowed thoughts a 27B model's reasoning pasted into Qwen3-8B lifts it ~30 points on code]]
 - 2026-11-09 · [[SafetyPulse (one 3.35B model) reading the refusal circuit flags safety drift during harmle]]
