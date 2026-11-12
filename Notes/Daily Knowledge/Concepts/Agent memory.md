@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-12 · [[ElastiCache Serverless for Valkey adds vector, full-text and hybrid search, pitched for RA]]
+- 2026-11-12 · [[Agent memory that links each lesson back to its source run cuts regression and adds 10.7 p]]
 - 2026-11-09 · [[MemoryDojo (Microsoft) one poisoned tool output gets stored by agent memory systems and st]]
 - 2026-11-09 · [[ChatGPT Enterprise gets dots, always-on personal agents that keep working between conversa]]
 - 2026-11-08 · [[TASC assistants compute elapsed time correctly but warn about time-based safety rules in o]]

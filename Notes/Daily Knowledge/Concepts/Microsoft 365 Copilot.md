@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-12 · [[Copilot connectors update long-running Tasks for Power BI, Fabric and Bloomberg, connector]]
+- 2026-11-12 · [[Claude Fable 5.2 is rolling out in Microsoft Copilot Cowork and Copilot Studio, grounded i]]
 - 2026-11-10 · [[Copilot connector write actions are GA Copilot Chat and Cowork can now create, update and]]
 - 2026-11-09 · [[Microsoft 365 Copilot Cowork can now drive your local Edge browser, plus an agents usage r]]
 - 2026-11-08 · [[Work IQ adds SharePoint MCP tools (preview) custom agents get 60+ SharePoint operations un]]

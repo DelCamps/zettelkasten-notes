@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-12 · [[MiniMax releases open-weight H3-Image 4K images in under 10 seconds, claimed up to 5x fast]]
+- 2026-11-12 · [[Google releases Gemini Decision 1 and a Decisions API calibrated yesno, choice and score a]]
+- 2026-11-12 · [[Azure Content Understanding adds GPT-5.6, GPT-6 and GPT-6.1; GPT-6.1 Sol is the recommende]]
 - 2026-11-11 · [[Gemini 4 Carbon opens to all paying developers and enterprises at $2$10 until 30 November,]]
 - 2026-11-10 · [[Claude Fable 5.2 reaches GitHub Copilot, off by default for organizations because Anthropi]]
 - 2026-11-10 · [[Anthropic releases Claude Fable 5.2 and Mythos 5.2 about 30% faster than 5.1, ahead of Opu]]

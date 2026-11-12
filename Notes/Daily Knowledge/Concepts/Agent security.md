@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-12 · [[Railway incident report attackers with abliterated models and an agent harness broke out o]]
 - 2026-11-11 · [[Fireworks AI breach was wider 'LLMjacking' attackers reached customer secrets, datasets an]]
 - 2026-11-11 · [[DeputyBench enterprise agents mostly refuse clearly unauthorized actions, but still go ahe]]
 - 2026-11-11 · [[Anthropic Fellows adding clean data to a weak, triggered poison set can turn it into a wor]]

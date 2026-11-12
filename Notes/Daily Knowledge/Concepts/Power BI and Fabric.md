@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Power BI and Fabric
 
 ## Linked from the brief
+- 2026-11-12 · [[Copilot connectors update long-running Tasks for Power BI, Fabric and Bloomberg, connector]]
 - 2026-11-09 · [[Fabric pipelines can now call Fabric operations and 25 more business apps as steps (Fabric]]
 - 2026-11-07 · [[Fabric IQ Share (preview) share a lakehouse or warehouse, plus its business definitions, w]]
 - 2026-11-07 · [[Azure Databricks can now store Unity Catalog-managed data directly in OneLake (GA)]]

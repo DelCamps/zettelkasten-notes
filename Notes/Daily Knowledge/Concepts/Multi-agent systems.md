@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-11-12 · [[Multi-agent orchestration spends up to 4.7x the tokens of a single agent for gains that ar]]
+- 2026-11-12 · [[Anthropic Fellows (two Claude models, simulated users) one agent per user sharing a resour]]
 - 2026-11-07 · [[LLM overseer agents can be talked into approving deception raised approval by 31.20 points]]
 - 2026-11-06 · [[Anthropic Fellows agents show regard for other agents' welfare, and Claude and Gemini favo]]
 - 2026-11-03 · [[ParallACT two coding agents on conflicting requests in one repo fall from 62% to 16% joint]]

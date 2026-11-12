@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI for security
 
 ## Linked from the brief
+- 2026-11-12 · [[Railway incident report attackers with abliterated models and an agent harness broke out o]]
+- 2026-11-12 · [[DeepMind's AlphaProof Code Gemini agents wrote over six million lines of Lean to verify Si]]
 - 2026-11-11 · [[Fireworks AI breach was wider 'LLMjacking' attackers reached customer secrets, datasets an]]
 - 2026-11-07 · [[OpenAI puts GPT-6-Cyber in the API for approved Daybreak Red organizations, at $20$100 per]]
 - 2026-11-05 · [[OpenAI's agent pipeline built 948 Linux kernel root exploits for about $1.2M in API credit]]

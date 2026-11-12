@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-12 · [[Token spend is the new lines-of-code at JetBrains, doubling an engineer's agent tokens wen]]
+- 2026-11-12 · [[The harness, not the model, decides verifier quality a verifier-writing scaffold took Clau]]
+- 2026-11-12 · [[Do coding agents follow AGENTS.md In 6,541 real commits, 54% of checkable instructions wer]]
+- 2026-11-12 · [[Agent leaderboards stopped ranking SWE-bench Verified's top ten are statistically tied, an]]
 - 2026-11-11 · [[ExpertCrowd-SWE on 100 unpublished, expert-written coding tickets, Claude Opus 5.5 (67.3%)]]
 - 2026-11-11 · [[Coding agents that say 'done' without running any check after their last edit solve fewer]]
 - 2026-11-10 · [[Coding or Cheating on hard unseen tasks, most frontier coding models dug through git inter]]

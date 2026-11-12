@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI for science and math
 
 ## Linked from the brief
+- 2026-11-12 · [[DeepMind's AlphaProof Code Gemini agents wrote over six million lines of Lean to verify Si]]
 - 2026-11-08 · [[Google Research a smartwatch model flags hypertension without a cuff, at 90% specificity i]]
 - 2026-11-08 · [[Anthropic scientists use Claude where AI works best; data analysis is a third of Claude se]]
 - 2026-11-01 · [[rTaste frontier research agents propose many good experiments but cannot yet tell which to]]

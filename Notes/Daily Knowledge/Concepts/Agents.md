@@ -4,6 +4,13 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-12 · [[The harness, not the model, decides verifier quality a verifier-writing scaffold took Clau]]
+- 2026-11-12 · [[Multi-agent orchestration spends up to 4.7x the tokens of a single agent for gains that ar]]
+- 2026-11-12 · [[DeepMind's AlphaProof Code Gemini agents wrote over six million lines of Lean to verify Si]]
+- 2026-11-12 · [[Claude Fable 5.2 is rolling out in Microsoft Copilot Cowork and Copilot Studio, grounded i]]
+- 2026-11-12 · [[Anthropic Fellows (two Claude models, simulated users) one agent per user sharing a resour]]
+- 2026-11-12 · [[Agent memory that links each lesson back to its source run cuts regression and adds 10.7 p]]
+- 2026-11-12 · [[Agent leaderboards stopped ranking SWE-bench Verified's top ten are statistically tied, an]]
 - 2026-11-11 · [[Prefix-cached agent serving is metastable a 5-minute traffic burst left vLLM at a 10% cach]]
 - 2026-11-11 · [[Claude adds Sheets and Whiteboards (beta) and makes Claude Data, its warehouse dashboards,]]
 - 2026-11-11 · [[AWS AgentCore Web Search becomes a plain API (GA) web results for agents and pipelines at]]

@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-12 · [[GitHub Apps can now assign and remove enterprise Copilot seats via a new 'Enterprise Copil]]
+- 2026-11-12 · [[Do coding agents follow AGENTS.md In 6,541 real commits, 54% of checkable instructions wer]]
 - 2026-11-11 · [[Gemini 4 Carbon opens to all paying developers and enterprises at $2$10 until 30 November,]]
 - 2026-11-10 · [[Claude Fable 5.2 reaches GitHub Copilot, off by default for organizations because Anthropi]]
 - 2026-11-08 · [[GitHub Copilot weekly Agent Merge, assisted tool approvals in the Copilot app, and VS Code]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-12 · [[Multi-agent orchestration spends up to 4.7x the tokens of a single agent for gains that ar]]
 - 2026-11-11 · [[Prefix-cached agent serving is metastable a 5-minute traffic burst left vLLM at a 10% cach]]
 - 2026-11-10 · [[Epoch's Inference Performance Index a GB300 serves about 25x the agentic inference of an H]]
 - 2026-11-10 · [[Borrowed thoughts a 27B model's reasoning pasted into Qwen3-8B lifts it ~30 points on code]]

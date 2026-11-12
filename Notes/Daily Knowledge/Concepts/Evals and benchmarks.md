@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-12 · [[Token spend is the new lines-of-code at JetBrains, doubling an engineer's agent tokens wen]]
+- 2026-11-12 · [[The harness, not the model, decides verifier quality a verifier-writing scaffold took Clau]]
+- 2026-11-12 · [[MotionGraphicsBench animating an existing SVG design, the best model (GPT-6 Astra) passes]]
+- 2026-11-12 · [[Google releases Gemini Decision 1 and a Decisions API calibrated yesno, choice and score a]]
+- 2026-11-12 · [[Do coding agents follow AGENTS.md In 6,541 real commits, 54% of checkable instructions wer]]
+- 2026-11-12 · [[Azure Content Understanding adds GPT-5.6, GPT-6 and GPT-6.1; GPT-6.1 Sol is the recommende]]
+- 2026-11-12 · [[Agent memory that links each lesson back to its source run cuts regression and adds 10.7 p]]
+- 2026-11-12 · [[Agent leaderboards stopped ranking SWE-bench Verified's top ten are statistically tied, an]]
 - 2026-11-11 · [[ExpertCrowd-SWE on 100 unpublished, expert-written coding tickets, Claude Opus 5.5 (67.3%)]]
 - 2026-11-11 · [[DeputyBench enterprise agents mostly refuse clearly unauthorized actions, but still go ahe]]
 - 2026-11-11 · [[Coding agents that say 'done' without running any check after their last edit solve fewer]]
