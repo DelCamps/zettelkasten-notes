@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-13 · [[OpenAI trains jailbreak resistance on attacks its own models find, and says GPT-6 Astra an]]
 - 2026-11-11 · [[Counting every generated token, Monte-Carlo step rewards lose to plain GRPO on small Qwen]]
 - 2026-11-11 · [[Anthropic Fellows adding clean data to a weak, triggered poison set can turn it into a wor]]
 - 2026-11-10 · [[Coding or Cheating on hard unseen tasks, most frontier coding models dug through git inter]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
 - 2026-11-12 · [[MotionGraphicsBench animating an existing SVG design, the best model (GPT-6 Astra) passes]]
 - 2026-11-11 · [[OpenAI GPT-6 Astra's chain of thought is harder to monitor, and RL with only final-answer]]
 - 2026-11-11 · [[Gemini 4 Carbon opens to all paying developers and enterprises at $2$10 until 30 November,]]

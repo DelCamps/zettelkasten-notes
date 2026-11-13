@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-13 · [[Claude Code 2.1.323 experimental Code Mode lets Claude write JavaScript to call its tools,]]
+- 2026-11-13 · [[Anthropic lets clients run the whole Claude Managed Agents service on their own infrastruc]]
 - 2026-11-12 · [[Claude Fable 5.2 is rolling out in Microsoft Copilot Cowork and Copilot Studio, grounded i]]
 - 2026-11-12 · [[Anthropic Fellows (two Claude models, simulated users) one agent per user sharing a resour]]
 - 2026-11-11 · [[Claude adds Sheets and Whiteboards (beta) and makes Claude Data, its warehouse dashboards,]]

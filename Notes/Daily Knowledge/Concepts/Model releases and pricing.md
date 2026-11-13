@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
 - 2026-11-12 · [[MiniMax releases open-weight H3-Image 4K images in under 10 seconds, claimed up to 5x fast]]
 - 2026-11-12 · [[Google releases Gemini Decision 1 and a Decisions API calibrated yesno, choice and score a]]
 - 2026-11-12 · [[Azure Content Understanding adds GPT-5.6, GPT-6 and GPT-6.1; GPT-6.1 Sol is the recommende]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-13 · [[One fake news article is enough retrieval-based LLM forecasters follow it, and the stronge]]
 - 2026-11-12 · [[ElastiCache Serverless for Valkey adds vector, full-text and hybrid search, pitched for RA]]
 - 2026-11-12 · [[Copilot connectors update long-running Tasks for Power BI, Fabric and Bloomberg, connector]]
 - 2026-11-11 · [[AWS AgentCore Web Search becomes a plain API (GA) web results for agents and pipelines at]]

@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-13 · [[Singularity-Bench Claude Opus 5.5 in Claude Code matches or beats human-built AI systems o]]
+- 2026-11-13 · [[One fake news article is enough retrieval-based LLM forecasters follow it, and the stronge]]
+- 2026-11-13 · [[IBM's LLMON markup separates instructions from data with special tokens, and its own 3B8B]]
+- 2026-11-13 · [[Fake 'compliance hold' notes make tool agents refuse legitimate work, and telling them to]]
+- 2026-11-13 · [[Claude Code 2.1.323 experimental Code Mode lets Claude write JavaScript to call its tools,]]
+- 2026-11-13 · [[Anthropic lets clients run the whole Claude Managed Agents service on their own infrastruc]]
 - 2026-11-12 · [[Railway incident report attackers with abliterated models and an agent harness broke out o]]
 - 2026-11-11 · [[Fireworks AI breach was wider 'LLMjacking' attackers reached customer secrets, datasets an]]
 - 2026-11-11 · [[DeputyBench enterprise agents mostly refuse clearly unauthorized actions, but still go ahe]]

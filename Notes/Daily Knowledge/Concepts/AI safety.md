@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-13 · [[OpenAI trains jailbreak resistance on attacks its own models find, and says GPT-6 Astra an]]
+- 2026-11-13 · [[Fake 'compliance hold' notes make tool agents refuse legitimate work, and telling them to]]
+- 2026-11-13 · [[A 'task going badly' activation rises before coding agents cheat, and steering against it]]
 - 2026-11-11 · [[OpenAI GPT-6 Astra's chain of thought is harder to monitor, and RL with only final-answer]]
 - 2026-11-11 · [[DeputyBench enterprise agents mostly refuse clearly unauthorized actions, but still go ahe]]
 - 2026-11-11 · [[Anthropic Fellows adding clean data to a weak, triggered poison set can turn it into a wor]]

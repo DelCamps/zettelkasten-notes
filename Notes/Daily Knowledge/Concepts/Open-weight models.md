@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-13 · [[IBM's LLMON markup separates instructions from data with special tokens, and its own 3B8B]]
 - 2026-11-12 · [[MiniMax releases open-weight H3-Image 4K images in under 10 seconds, claimed up to 5x fast]]
 - 2026-11-11 · [[Prefix-cached agent serving is metastable a 5-minute traffic burst left vLLM at a 10% cach]]
 - 2026-11-10 · [[Epoch's Inference Performance Index a GB300 serves about 25x the agentic inference of an H]]

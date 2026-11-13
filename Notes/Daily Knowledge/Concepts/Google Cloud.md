@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Google Cloud
 
 ## Linked from the brief
+- 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
 - 2026-11-07 · [[Gemini for business previews Data Cloud connectors ask BigQuery, Cloud SQL and Looker ques]]
 - 2026-11-06 · [[Gemini Omni 1.2 Flash is GA with 30% cheaper video output; the Gemini API now reads PPT, O]]
 - 2026-11-04 · [[Gemini Enterprise's federated Salesforce data store goes GA search and update CRM records]]

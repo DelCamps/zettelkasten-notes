@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-13 · [[Termination lag coding agents often have the right patch early, then spend 35-60% of their]]
+- 2026-11-13 · [[Singularity-Bench Claude Opus 5.5 in Claude Code matches or beats human-built AI systems o]]
 - 2026-11-12 · [[Token spend is the new lines-of-code at JetBrains, doubling an engineer's agent tokens wen]]
 - 2026-11-12 · [[The harness, not the model, decides verifier quality a verifier-writing scaffold took Clau]]
 - 2026-11-12 · [[MotionGraphicsBench animating an existing SVG design, the best model (GPT-6 Astra) passes]]

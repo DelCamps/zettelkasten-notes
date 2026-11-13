@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-13 · [[SatisFix asking coding agents to list where they bent the spec, then recheck, adds 5-7 poi]]
+- 2026-11-13 · [[Databricks Genie in Slack is GA governed data answers, scheduled analyses and MCP actions]]
+- 2026-11-13 · [[Anthropic lets clients run the whole Claude Managed Agents service on their own infrastruc]]
 - 2026-11-12 · [[The harness, not the model, decides verifier quality a verifier-writing scaffold took Clau]]
 - 2026-11-12 · [[Multi-agent orchestration spends up to 4.7x the tokens of a single agent for gains that ar]]
 - 2026-11-12 · [[DeepMind's AlphaProof Code Gemini agents wrote over six million lines of Lean to verify Si]]

@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-13 · [[Termination lag coding agents often have the right patch early, then spend 35-60% of their]]
+- 2026-11-13 · [[Singularity-Bench Claude Opus 5.5 in Claude Code matches or beats human-built AI systems o]]
+- 2026-11-13 · [[SatisFix asking coding agents to list where they bent the spec, then recheck, adds 5-7 poi]]
+- 2026-11-13 · [[Claude Code 2.1.323 experimental Code Mode lets Claude write JavaScript to call its tools,]]
+- 2026-11-13 · [[A 'task going badly' activation rises before coding agents cheat, and steering against it]]
 - 2026-11-12 · [[Token spend is the new lines-of-code at JetBrains, doubling an engineer's agent tokens wen]]
 - 2026-11-12 · [[The harness, not the model, decides verifier quality a verifier-writing scaffold took Clau]]
 - 2026-11-12 · [[Do coding agents follow AGENTS.md In 6,541 real commits, 54% of checkable instructions wer]]
