@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-14 · [[AWS makes its next-generation AgentCore runtime the default agent sessions start in under]]
 - 2026-11-12 · [[ElastiCache Serverless for Valkey adds vector, full-text and hybrid search, pitched for RA]]
 - 2026-11-11 · [[AWS AgentCore Web Search becomes a plain API (GA) web results for agents and pipelines at]]
 - 2026-11-10 · [[AWS Nitro Sandboxes hardware-isolated VMs for each pod, task or VM to run agents and AI-ge]]

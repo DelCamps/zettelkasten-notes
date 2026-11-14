@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-14 · [[Anthropic's safety-eval playbook the same Claude model scored up to 34 points apart betwee]]
 - 2026-11-13 · [[OpenAI trains jailbreak resistance on attacks its own models find, and says GPT-6 Astra an]]
 - 2026-11-13 · [[Fake 'compliance hold' notes make tool agents refuse legitimate work, and telling them to]]
 - 2026-11-13 · [[A 'task going badly' activation rises before coding agents cheat, and steering against it]]

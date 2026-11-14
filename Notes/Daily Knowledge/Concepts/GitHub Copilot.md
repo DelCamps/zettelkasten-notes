@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-14 · [[GitHub Copilot will retire six models on 14 December, including Claude Fable 5, Claude Hai]]
 - 2026-11-12 · [[GitHub Apps can now assign and remove enterprise Copilot seats via a new 'Enterprise Copil]]
 - 2026-11-12 · [[Do coding agents follow AGENTS.md In 6,541 real commits, 54% of checkable instructions wer]]
 - 2026-11-11 · [[Gemini 4 Carbon opens to all paying developers and enterprises at $2$10 until 30 November,]]

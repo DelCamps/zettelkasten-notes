@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Hallucination
 
 ## Linked from the brief
+- 2026-11-14 · [[Cited but unused 1.2% to 15.7% of cited RAG claims came from model memory, and NLI citatio]]
 - 2026-11-08 · [[AgenticFinBench auditing financial agents' claims for hallucinations knocks the rubric-onl]]
 - 2026-11-06 · [[MCPHallu MCP agents keep calling tools on impossible goals; only 23.2% of such runs pass,]]
 - 2026-11-03 · [[Don't make the model re-emit tool tables a production agent scores 92.3% vs 45.7% correct]]

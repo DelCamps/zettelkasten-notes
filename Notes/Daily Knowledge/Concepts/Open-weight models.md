@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-14 · [[llama.cpp and ggml reach v1.0.0, with a stable C API promise and semantic versioning]]
+- 2026-11-14 · [[CapLite small-model agents can't write their own injection defences; checking writes again]]
 - 2026-11-13 · [[IBM's LLMON markup separates instructions from data with special tokens, and its own 3B8B]]
 - 2026-11-12 · [[MiniMax releases open-weight H3-Image 4K images in under 10 seconds, claimed up to 5x fast]]
 - 2026-11-11 · [[Prefix-cached agent serving is metastable a 5-minute traffic burst left vLLM at a 10% cach]]

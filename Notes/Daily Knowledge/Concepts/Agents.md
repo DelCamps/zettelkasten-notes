@@ -4,6 +4,13 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-14 · [[OverServe an honest-looking MCP status tool plus a 'confirm it's synced' prompt made SaaS]]
+- 2026-11-14 · [[OpenAI models only on tau2-bench, LLM judges passed 10-11 of 11 forbidden database writes]]
+- 2026-11-14 · [[Google Data Cloud adds agent observability conversation logs, monitoring dashboards and co]]
+- 2026-11-14 · [[Databricks Genie plugins bring governed business data into Microsoft Copilot Cowork, ChatG]]
+- 2026-11-14 · [[Cleaning up an agent's history can backfire a success receipt for a write that never happe]]
+- 2026-11-14 · [[CapLite small-model agents can't write their own injection defences; checking writes again]]
+- 2026-11-14 · [[AWS makes its next-generation AgentCore runtime the default agent sessions start in under]]
 - 2026-11-13 · [[SatisFix asking coding agents to list where they bent the spec, then recheck, adds 5-7 poi]]
 - 2026-11-13 · [[Databricks Genie in Slack is GA governed data answers, scheduled analyses and MCP actions]]
 - 2026-11-13 · [[Anthropic lets clients run the whole Claude Managed Agents service on their own infrastruc]]

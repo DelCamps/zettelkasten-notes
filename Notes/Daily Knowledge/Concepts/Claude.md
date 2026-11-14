@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-14 · [[Claude Code 2.1.325 sandboxed Bash commands now ask for permission by default, plus a long]]
+- 2026-11-14 · [[Anthropic's safety-eval playbook the same Claude model scored up to 34 points apart betwee]]
 - 2026-11-13 · [[Claude Code 2.1.323 experimental Code Mode lets Claude write JavaScript to call its tools,]]
 - 2026-11-13 · [[Anthropic lets clients run the whole Claude Managed Agents service on their own infrastruc]]
 - 2026-11-12 · [[Claude Fable 5.2 is rolling out in Microsoft Copilot Cowork and Copilot Studio, grounded i]]

@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-14 · [[Codex CLI 0.169.0 side-chat tabs, custom model providers from the terminal, and untrusted]]
+- 2026-11-14 · [[Claude Code 2.1.325 sandboxed Bash commands now ask for permission by default, plus a long]]
 - 2026-11-13 · [[Termination lag coding agents often have the right patch early, then spend 35-60% of their]]
 - 2026-11-13 · [[Singularity-Bench Claude Opus 5.5 in Claude Code matches or beats human-built AI systems o]]
 - 2026-11-13 · [[SatisFix asking coding agents to list where they bent the spec, then recheck, adds 5-7 poi]]

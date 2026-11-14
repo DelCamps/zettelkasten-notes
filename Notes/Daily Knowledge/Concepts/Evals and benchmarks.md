@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-14 · [[OpenAI models only on tau2-bench, LLM judges passed 10-11 of 11 forbidden database writes]]
+- 2026-11-14 · [[Google Data Cloud adds agent observability conversation logs, monitoring dashboards and co]]
+- 2026-11-14 · [[Cleaning up an agent's history can backfire a success receipt for a write that never happe]]
+- 2026-11-14 · [[Cited but unused 1.2% to 15.7% of cited RAG claims came from model memory, and NLI citatio]]
+- 2026-11-14 · [[Anthropic's safety-eval playbook the same Claude model scored up to 34 points apart betwee]]
 - 2026-11-13 · [[Termination lag coding agents often have the right patch early, then spend 35-60% of their]]
 - 2026-11-13 · [[Singularity-Bench Claude Opus 5.5 in Claude Code matches or beats human-built AI systems o]]
 - 2026-11-12 · [[Token spend is the new lines-of-code at JetBrains, doubling an engineer's agent tokens wen]]

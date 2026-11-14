@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-14 · [[OverServe an honest-looking MCP status tool plus a 'confirm it's synced' prompt made SaaS]]
+- 2026-11-14 · [[Claude Code 2.1.325 sandboxed Bash commands now ask for permission by default, plus a long]]
+- 2026-11-14 · [[CapLite small-model agents can't write their own injection defences; checking writes again]]
 - 2026-11-13 · [[Singularity-Bench Claude Opus 5.5 in Claude Code matches or beats human-built AI systems o]]
 - 2026-11-13 · [[One fake news article is enough retrieval-based LLM forecasters follow it, and the stronge]]
 - 2026-11-13 · [[IBM's LLMON markup separates instructions from data with special tokens, and its own 3B8B]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-14 · [[Databricks Genie plugins bring governed business data into Microsoft Copilot Cowork, ChatG]]
 - 2026-11-12 · [[Copilot connectors update long-running Tasks for Power BI, Fabric and Bloomberg, connector]]
 - 2026-11-12 · [[Claude Fable 5.2 is rolling out in Microsoft Copilot Cowork and Copilot Studio, grounded i]]
 - 2026-11-10 · [[Copilot connector write actions are GA Copilot Chat and Cowork can now create, update and]]

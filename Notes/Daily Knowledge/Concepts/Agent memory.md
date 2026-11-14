@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-14 · [[Cleaning up an agent's history can backfire a success receipt for a write that never happe]]
 - 2026-11-12 · [[ElastiCache Serverless for Valkey adds vector, full-text and hybrid search, pitched for RA]]
 - 2026-11-12 · [[Agent memory that links each lesson back to its source run cuts regression and adds 10.7 p]]
 - 2026-11-09 · [[MemoryDojo (Microsoft) one poisoned tool output gets stored by agent memory systems and st]]
