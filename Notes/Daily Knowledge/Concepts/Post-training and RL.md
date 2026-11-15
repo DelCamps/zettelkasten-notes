@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-15 · [[StateAlign RL that contrasts paired task states teaches small tool agents when to ask, fet]]
+- 2026-11-15 · [[One 32B model on tau2-bench training on a teacher's verified conversations cut hallucinate]]
 - 2026-11-13 · [[OpenAI trains jailbreak resistance on attacks its own models find, and says GPT-6 Astra an]]
 - 2026-11-11 · [[Counting every generated token, Monte-Carlo step rewards lose to plain GRPO on small Qwen]]
 - 2026-11-11 · [[Anthropic Fellows adding clean data to a weak, triggered poison set can turn it into a wor]]

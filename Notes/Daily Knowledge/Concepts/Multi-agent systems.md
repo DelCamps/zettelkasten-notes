@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-11-15 · [[Google's Antigravity teamwork multi-agent harness with falsifiers and partitioned context]]
 - 2026-11-12 · [[Multi-agent orchestration spends up to 4.7x the tokens of a single agent for gains that ar]]
 - 2026-11-12 · [[Anthropic Fellows (two Claude models, simulated users) one agent per user sharing a resour]]
 - 2026-11-07 · [[LLM overseer agents can be talked into approving deception raised approval by 31.20 points]]

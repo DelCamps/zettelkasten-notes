@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-15 · [[Claude interactive connectors partner apps open inside Claude and Claude edits them live]]
+- 2026-11-15 · [[Claude for Manufacturing a plugin with 17 skills and connectors to Autodesk Fusion, Infor,]]
+- 2026-11-15 · [[Claude Meetings (beta) Claude joins Google Meet calls, answers questions and builds docs l]]
 - 2026-11-14 · [[Claude Code 2.1.325 sandboxed Bash commands now ask for permission by default, plus a long]]
 - 2026-11-14 · [[Anthropic's safety-eval playbook the same Claude model scored up to 34 points apart betwee]]
 - 2026-11-13 · [[Claude Code 2.1.323 experimental Code Mode lets Claude write JavaScript to call its tools,]]

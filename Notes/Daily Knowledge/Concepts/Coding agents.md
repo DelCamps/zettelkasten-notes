@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-15 · [[Google's Antigravity teamwork multi-agent harness with falsifiers and partitioned context]]
+- 2026-11-15 · [[GitHub Copilot app now works with GitHub Enterprise Server (GA)]]
 - 2026-11-14 · [[Codex CLI 0.169.0 side-chat tabs, custom model providers from the terminal, and untrusted]]
 - 2026-11-14 · [[Claude Code 2.1.325 sandboxed Bash commands now ask for permission by default, plus a long]]
 - 2026-11-13 · [[Termination lag coding agents often have the right patch early, then spend 35-60% of their]]

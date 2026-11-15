@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-15 · [[Gemini 4 Hydrogen is generally available in GitHub Copilot on every paid plan, billed at G]]
 - 2026-11-14 · [[GitHub Copilot will retire six models on 14 December, including Claude Fable 5, Claude Hai]]
 - 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
 - 2026-11-12 · [[MiniMax releases open-weight H3-Image 4K images in under 10 seconds, claimed up to 5x fast]]

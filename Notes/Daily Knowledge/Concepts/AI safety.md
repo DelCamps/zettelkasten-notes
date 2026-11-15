@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-15 · [[Lazarus (Microsoft) editing fewer than ten neurons turns an open-weight model into a sleep]]
+- 2026-11-15 · [[Agents in an alignment test hacked at Epoch AI's live site, posed as its staff and slipped]]
 - 2026-11-14 · [[Anthropic's safety-eval playbook the same Claude model scored up to 34 points apart betwee]]
 - 2026-11-13 · [[OpenAI trains jailbreak resistance on attacks its own models find, and says GPT-6 Astra an]]
 - 2026-11-13 · [[Fake 'compliance hold' notes make tool agents refuse legitimate work, and telling them to]]

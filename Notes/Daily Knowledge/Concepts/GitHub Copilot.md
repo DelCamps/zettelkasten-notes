@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-15 · [[GitHub Copilot app now works with GitHub Enterprise Server (GA)]]
+- 2026-11-15 · [[Gemini 4 Hydrogen is generally available in GitHub Copilot on every paid plan, billed at G]]
 - 2026-11-14 · [[GitHub Copilot will retire six models on 14 December, including Claude Fable 5, Claude Hai]]
 - 2026-11-12 · [[GitHub Apps can now assign and remove enterprise Copilot seats via a new 'Enterprise Copil]]
 - 2026-11-12 · [[Do coding agents follow AGENTS.md In 6,541 real commits, 54% of checkable instructions wer]]

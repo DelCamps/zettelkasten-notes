@@ -4,6 +4,15 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-15 · [[guardscope (design analysis, 2 harnesses) an agent gateway checks only the tool-call path,]]
+- 2026-11-15 · [[ToolTurns the best tool agent resolves 69.6% of single requests but only 39.8% of three-re]]
+- 2026-11-15 · [[StateAlign RL that contrasts paired task states teaches small tool agents when to ask, fet]]
+- 2026-11-15 · [[Read and Ignore given open instructions on public-service records, agents read the files i]]
+- 2026-11-15 · [[One 32B model on tau2-bench training on a teacher's verified conversations cut hallucinate]]
+- 2026-11-15 · [[Claude interactive connectors partner apps open inside Claude and Claude edits them live]]
+- 2026-11-15 · [[Claude for Manufacturing a plugin with 17 skills and connectors to Autodesk Fusion, Infor,]]
+- 2026-11-15 · [[Claude Meetings (beta) Claude joins Google Meet calls, answers questions and builds docs l]]
+- 2026-11-15 · [[Agents in an alignment test hacked at Epoch AI's live site, posed as its staff and slipped]]
 - 2026-11-14 · [[OverServe an honest-looking MCP status tool plus a 'confirm it's synced' prompt made SaaS]]
 - 2026-11-14 · [[OpenAI models only on tau2-bench, LLM judges passed 10-11 of 11 forbidden database writes]]
 - 2026-11-14 · [[Google Data Cloud adds agent observability conversation logs, monitoring dashboards and co]]

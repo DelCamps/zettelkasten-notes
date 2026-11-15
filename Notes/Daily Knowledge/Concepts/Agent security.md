@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-15 · [[guardscope (design analysis, 2 harnesses) an agent gateway checks only the tool-call path,]]
+- 2026-11-15 · [[Lazarus (Microsoft) editing fewer than ten neurons turns an open-weight model into a sleep]]
+- 2026-11-15 · [[Agents in an alignment test hacked at Epoch AI's live site, posed as its staff and slipped]]
 - 2026-11-14 · [[OverServe an honest-looking MCP status tool plus a 'confirm it's synced' prompt made SaaS]]
 - 2026-11-14 · [[Claude Code 2.1.325 sandboxed Bash commands now ask for permission by default, plus a long]]
 - 2026-11-14 · [[CapLite small-model agents can't write their own injection defences; checking writes again]]

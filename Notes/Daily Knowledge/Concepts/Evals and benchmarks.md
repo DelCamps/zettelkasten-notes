@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-15 · [[ToolTurns the best tool agent resolves 69.6% of single requests but only 39.8% of three-re]]
+- 2026-11-15 · [[Read and Ignore given open instructions on public-service records, agents read the files i]]
+- 2026-11-15 · [[Ai2's XYBench five frontier and open models answer the misguided question instead of the r]]
 - 2026-11-14 · [[OpenAI models only on tau2-bench, LLM judges passed 10-11 of 11 forbidden database writes]]
 - 2026-11-14 · [[Google Data Cloud adds agent observability conversation logs, monitoring dashboards and co]]
 - 2026-11-14 · [[Cleaning up an agent's history can backfire a success receipt for a write that never happe]]
