@@ -81,4 +81,4 @@ Tags: #concept #daily-knowledge
 - 2026-10-24 · [[Kimi K3.1 Pro 3T-class open-weight model, weights by 4 Nov]]
 - 2026-10-24 · [[IQuest-Q1 open 320B-A15B MoE built for agentic CLI work]]
 - 2026-10-23 · [[Recursive Flint-40B-A2.5B open-weight coding MoE]]
-- 2026-10-23 · [[Anthropic Claude formally verifies no-crash for 239 OSS-Fuzz targets (Rocq, RISC-V binarie]]
+- 2026-10-23 · [[Anthropic Claude formally verifies 123 open-source libraries]]

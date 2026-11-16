@@ -16,7 +16,7 @@ Tags: #daily-knowledge #ai
 
 _(Headline only; see the source.)_
 
-**Concepts:** [[Agent monitoring]] · [[AI safety]] · [[Misalignment]]
+**Concepts:** [[Agent monitoring]] · [[AI safety]] · Misalignment
 **From:** [[2026-10-23]]
 
 # My notes
