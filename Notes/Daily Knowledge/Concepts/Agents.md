@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-16 · [[Office in Copilot goes GA worldwide Word, Excel and PowerPoint editing inside the Microsof]]
+- 2026-11-16 · [[LLM verifiers flip correct verdicts on up to 31% of agent runs when sub-agents or compacti]]
+- 2026-11-16 · [[Google Cloud's Organization Policy MCP server is GA, plus Gemini-written custom guardrails]]
+- 2026-11-16 · [[Google Cloud previews Gemini for healthcare agents that act across EHR, billing and clinic]]
+- 2026-11-16 · [[GDP.xlsx the best model answers only 38.3% of professionals' spreadsheet requests in full]]
+- 2026-11-16 · [[CarryOn keeping a compact task state plus linked raw evidence lifts long-horizon agent suc]]
+- 2026-11-16 · [[Agents act on the record they see a lookup that only counts a second match leads to wrong-]]
+- 2026-11-16 · [[ActionProof (one 3.35B model, one environment) an RL reward that reads the database, not t]]
 - 2026-11-15 · [[guardscope (design analysis, 2 harnesses) an agent gateway checks only the tool-call path,]]
 - 2026-11-15 · [[ToolTurns the best tool agent resolves 69.6% of single requests but only 39.8% of three-re]]
 - 2026-11-15 · [[StateAlign RL that contrasts paired task states teaches small tool agents when to ask, fet]]

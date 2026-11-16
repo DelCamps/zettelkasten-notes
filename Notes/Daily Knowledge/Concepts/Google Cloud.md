@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Google Cloud
 
 ## Linked from the brief
+- 2026-11-16 · [[Google Cloud's Organization Policy MCP server is GA, plus Gemini-written custom guardrails]]
+- 2026-11-16 · [[Google Cloud previews Gemini for healthcare agents that act across EHR, billing and clinic]]
 - 2026-11-14 · [[Google Data Cloud adds agent observability conversation logs, monitoring dashboards and co]]
 - 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
 - 2026-11-07 · [[Gemini for business previews Data Cloud connectors ask BigQuery, Cloud SQL and Looker ques]]

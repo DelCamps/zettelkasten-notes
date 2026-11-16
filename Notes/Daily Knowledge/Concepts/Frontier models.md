@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-16 · [[GDP.xlsx the best model answers only 38.3% of professionals' spreadsheet requests in full]]
 - 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
 - 2026-11-12 · [[MotionGraphicsBench animating an existing SVG design, the best model (GPT-6 Astra) passes]]
 - 2026-11-11 · [[OpenAI GPT-6 Astra's chain of thought is harder to monitor, and RL with only final-answer]]

@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-11-16 · [[Only as safe as the weakest agent a forged file fools Claude Code and Codex once a cheaper]]
+- 2026-11-16 · [[Meta-analysis of 516 multi-agent setups against budget-matched single agents, they average]]
+- 2026-11-16 · [[LLM verifiers flip correct verdicts on up to 31% of agent runs when sub-agents or compacti]]
 - 2026-11-15 · [[Google's Antigravity teamwork multi-agent harness with falsifiers and partitioned context]]
 - 2026-11-12 · [[Multi-agent orchestration spends up to 4.7x the tokens of a single agent for gains that ar]]
 - 2026-11-12 · [[Anthropic Fellows (two Claude models, simulated users) one agent per user sharing a resour]]

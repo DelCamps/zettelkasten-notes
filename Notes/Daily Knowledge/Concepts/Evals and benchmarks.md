@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-16 · [[WebArena-Pro Claude Code with Opus 5.5 and Codex with GPT 6.1 Sol tie at 62.3% on 300 web]]
+- 2026-11-16 · [[Meta-analysis of 516 multi-agent setups against budget-matched single agents, they average]]
+- 2026-11-16 · [[LLM verifiers flip correct verdicts on up to 31% of agent runs when sub-agents or compacti]]
+- 2026-11-16 · [[GDP.xlsx the best model answers only 38.3% of professionals' spreadsheet requests in full]]
+- 2026-11-16 · [[Agents act on the record they see a lookup that only counts a second match leads to wrong-]]
+- 2026-11-16 · [[ActionProof (one 3.35B model, one environment) an RL reward that reads the database, not t]]
 - 2026-11-15 · [[ToolTurns the best tool agent resolves 69.6% of single requests but only 39.8% of three-re]]
 - 2026-11-15 · [[Read and Ignore given open instructions on public-service records, agents read the files i]]
 - 2026-11-15 · [[Ai2's XYBench five frontier and open models answer the misguided question instead of the r]]

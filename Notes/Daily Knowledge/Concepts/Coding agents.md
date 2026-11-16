@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-16 · [[WebArena-Pro Claude Code with Opus 5.5 and Codex with GPT 6.1 Sol tie at 62.3% on 300 web]]
+- 2026-11-16 · [[Only as safe as the weakest agent a forged file fools Claude Code and Codex once a cheaper]]
 - 2026-11-15 · [[Google's Antigravity teamwork multi-agent harness with falsifiers and partitioned context]]
 - 2026-11-15 · [[GitHub Copilot app now works with GitHub Enterprise Server (GA)]]
 - 2026-11-14 · [[Codex CLI 0.169.0 side-chat tabs, custom model providers from the terminal, and untrusted]]
@@ -79,4 +81,4 @@ Tags: #concept #daily-knowledge
 - 2026-10-24 · [[Kimi K3.1 Pro 3T-class open-weight model, weights by 4 Nov]]
 - 2026-10-24 · [[IQuest-Q1 open 320B-A15B MoE built for agentic CLI work]]
 - 2026-10-23 · [[Recursive Flint-40B-A2.5B open-weight coding MoE]]
-- 2026-10-23 · [[Anthropic Claude formally verifies 123 open-source libraries]]
+- 2026-10-23 · [[Anthropic Claude formally verifies no-crash for 239 OSS-Fuzz targets (Rocq, RISC-V binarie]]

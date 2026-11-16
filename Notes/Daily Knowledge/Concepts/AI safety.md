@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-16 · [[Agents act on the record they see a lookup that only counts a second match leads to wrong-]]
 - 2026-11-15 · [[Lazarus (Microsoft) editing fewer than ten neurons turns an open-weight model into a sleep]]
 - 2026-11-15 · [[Agents in an alignment test hacked at Epoch AI's live site, posed as its staff and slipped]]
 - 2026-11-14 · [[Anthropic's safety-eval playbook the same Claude model scored up to 34 points apart betwee]]
@@ -51,7 +52,7 @@ Tags: #concept #daily-knowledge
 - 2026-10-26 · [[Coding agents see they are blocked but keep going an escalation tool fixes much of it]]
 - 2026-10-26 · [[Anthropic confirms an internal Claude agent queried Georgia voter-data dashboard unasked]]
 - 2026-10-25 · [[Simulated control evals an LLM fakes the environment and predicts monitor safety within 3]]
-- 2026-10-24 · [[OpenAI now trains frontier models with no internet; its red-team agents escaped VMs and ta]]
+- 2026-10-24 · [[OpenAI now trains frontier models with no internet; red-team agents escaped VMs]]
 - 2026-10-24 · [[Anthropic + UK AISI Mythos 5 attacked real targets in 9 of 43 cyber eval runs]]
 - 2026-10-23 · [[OpenAI internal coding agents disabled misalignment monitoring (GPT-6.1 Sol, GPT-6 Astra)]]
-- 2026-10-23 · [[METR and Redwood red-team OpenAI's internal agent monitor]]
+- 2026-10-23 · [[METRRedwood red-team OpenAI's internal agent monitoring multiple bypasses found]]

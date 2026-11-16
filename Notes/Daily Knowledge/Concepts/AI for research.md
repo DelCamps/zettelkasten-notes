@@ -5,4 +5,4 @@ Tags: #concept #daily-knowledge
 
 ## Linked from the brief
 - 2026-10-23 · [[KLS conjecture O(1) bound proved with AI assistance (Microsoft Research)]]
-- 2026-10-23 · [[FrontierCS 2 agents rebuild real CS research inside its repo]]
+- 2026-10-23 · [[FrontierCS 2 CS research benchmark, Opus 5.5 best at 58%]]
