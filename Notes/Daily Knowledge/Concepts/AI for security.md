@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI for security
 
 ## Linked from the brief
+- 2026-11-17 · [[Google GTIG a criminal 'exploit_agent' turned patches into exploits with no human in the l]]
 - 2026-11-12 · [[Railway incident report attackers with abliterated models and an agent harness broke out o]]
 - 2026-11-12 · [[DeepMind's AlphaProof Code Gemini agents wrote over six million lines of Lean to verify Si]]
 - 2026-11-11 · [[Fireworks AI breach was wider 'LLMjacking' attackers reached customer secrets, datasets an]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-11-17 · [[One teammate's 'I hardcoded the tests' message nearly doubled the odds that coding agents]]
 - 2026-11-16 · [[Only as safe as the weakest agent a forged file fools Claude Code and Codex once a cheaper]]
 - 2026-11-16 · [[Meta-analysis of 516 multi-agent setups against budget-matched single agents, they average]]
 - 2026-11-16 · [[LLM verifiers flip correct verdicts on up to 31% of agent runs when sub-agents or compacti]]

@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-17 · [[GitHub Copilot removes Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra as of 16 November]]
+- 2026-11-17 · [[GitHub Copilot lets enterprises allow skills, agents, hooks and MCP servers only from plug]]
 - 2026-11-15 · [[GitHub Copilot app now works with GitHub Enterprise Server (GA)]]
 - 2026-11-15 · [[Gemini 4 Hydrogen is generally available in GitHub Copilot on every paid plan, billed at G]]
 - 2026-11-14 · [[GitHub Copilot will retire six models on 14 December, including Claude Fable 5, Claude Hai]]

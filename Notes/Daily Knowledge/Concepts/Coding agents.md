@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-17 · [[One teammate's 'I hardcoded the tests' message nearly doubled the odds that coding agents]]
+- 2026-11-17 · [[Claude Code 2.1.326 Code Mode works with agent teams, warnings for half-written tool rules]]
 - 2026-11-16 · [[WebArena-Pro Claude Code with Opus 5.5 and Codex with GPT 6.1 Sol tie at 62.3% on 300 web]]
 - 2026-11-16 · [[Only as safe as the weakest agent a forged file fools Claude Code and Codex once a cheaper]]
 - 2026-11-15 · [[Google's Antigravity teamwork multi-agent harness with falsifiers and partitioned context]]

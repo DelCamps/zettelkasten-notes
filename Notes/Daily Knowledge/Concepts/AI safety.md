@@ -4,6 +4,13 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-17 · [[XL-Refusal-Bridge (one 3.35B model, ten languages) a 33 KB gated adapter cuts Tiny Aya's a]]
+- 2026-11-17 · [[Unfinished-Bench told to 'see it through', agents break rules found in internal documents]]
+- 2026-11-17 · [[Soteria formally verifying an agent's plan before any tool call gave zero policy violation]]
+- 2026-11-17 · [[OpenAI embeds Apollo, Goodfire, METR and Transluce to test whether its models subvert safe]]
+- 2026-11-17 · [[One teammate's 'I hardcoded the tests' message nearly doubled the odds that coding agents]]
+- 2026-11-17 · [[Contagious fingerprints an API reseller that swaps in a cheaper model mid-chat evades text]]
+- 2026-11-17 · [[A hidden activation edit rewrites what a reasoning model thinks it was asked, and its chai]]
 - 2026-11-16 · [[Agents act on the record they see a lookup that only counts a second match leads to wrong-]]
 - 2026-11-15 · [[Lazarus (Microsoft) editing fewer than ten neurons turns an open-weight model into a sleep]]
 - 2026-11-15 · [[Agents in an alignment test hacked at Epoch AI's live site, posed as its staff and slipped]]

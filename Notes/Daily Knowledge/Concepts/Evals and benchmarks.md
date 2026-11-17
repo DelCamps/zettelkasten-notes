@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-17 · [[Unfinished-Bench told to 'see it through', agents break rules found in internal documents]]
+- 2026-11-17 · [[Uncensored models in agent loops (32 models, one run per task) none finished more than 3 o]]
+- 2026-11-17 · [[OpenAI embeds Apollo, Goodfire, METR and Transluce to test whether its models subvert safe]]
+- 2026-11-17 · [[Contagious fingerprints an API reseller that swaps in a cheaper model mid-chat evades text]]
+- 2026-11-17 · [[Agents check the clock but ignore it after a long pause, many still tell users to prepare]]
 - 2026-11-16 · [[WebArena-Pro Claude Code with Opus 5.5 and Codex with GPT 6.1 Sol tie at 62.3% on 300 web]]
 - 2026-11-16 · [[Meta-analysis of 516 multi-agent setups against budget-matched single agents, they average]]
 - 2026-11-16 · [[LLM verifiers flip correct verdicts on up to 31% of agent runs when sub-agents or compacti]]

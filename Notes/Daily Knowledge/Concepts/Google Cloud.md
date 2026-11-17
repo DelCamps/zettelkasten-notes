@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Google Cloud
 
 ## Linked from the brief
+- 2026-11-17 · [[Google Cloud's new Data Boundary experience 40+ sovereignty control packages, dry-run mode]]
 - 2026-11-16 · [[Google Cloud's Organization Policy MCP server is GA, plus Gemini-written custom guardrails]]
 - 2026-11-16 · [[Google Cloud previews Gemini for healthcare agents that act across EHR, billing and clinic]]
 - 2026-11-14 · [[Google Data Cloud adds agent observability conversation logs, monitoring dashboards and co]]

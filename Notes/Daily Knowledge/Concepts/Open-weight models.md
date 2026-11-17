@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-17 · [[XL-Refusal-Bridge (one 3.35B model, ten languages) a 33 KB gated adapter cuts Tiny Aya's a]]
+- 2026-11-17 · [[Uncensored models in agent loops (32 models, one run per task) none finished more than 3 o]]
 - 2026-11-15 · [[Lazarus (Microsoft) editing fewer than ten neurons turns an open-weight model into a sleep]]
 - 2026-11-14 · [[llama.cpp and ggml reach v1.0.0, with a stable C API promise and semantic versioning]]
 - 2026-11-14 · [[CapLite small-model agents can't write their own injection defences; checking writes again]]

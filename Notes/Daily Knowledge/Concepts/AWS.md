@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-17 · [[Amazon WorkSpaces for AI agents adds on-behalf-of sign-in, OIDC identity and session-repla]]
+- 2026-11-17 · [[Amazon S3 Vectors adds hybrid search vector plus BM25 full text in one query, in all S3 Ve]]
 - 2026-11-16 · [[AWS Quick lets admins restrict which structured data sources users can create, update or s]]
 - 2026-11-14 · [[AWS makes its next-generation AgentCore runtime the default agent sessions start in under]]
 - 2026-11-12 · [[ElastiCache Serverless for Valkey adds vector, full-text and hybrid search, pitched for RA]]

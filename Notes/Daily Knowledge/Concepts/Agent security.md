@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-17 · [[Soteria formally verifying an agent's plan before any tool call gave zero policy violation]]
+- 2026-11-17 · [[Google GTIG a criminal 'exploit_agent' turned patches into exploits with no human in the l]]
+- 2026-11-17 · [[GitHub Copilot lets enterprises allow skills, agents, hooks and MCP servers only from plug]]
+- 2026-11-17 · [[Amazon WorkSpaces for AI agents adds on-behalf-of sign-in, OIDC identity and session-repla]]
 - 2026-11-16 · [[Only as safe as the weakest agent a forged file fools Claude Code and Codex once a cheaper]]
 - 2026-11-16 · [[Google Cloud's Organization Policy MCP server is GA, plus Gemini-written custom guardrails]]
 - 2026-11-15 · [[guardscope (design analysis, 2 harnesses) an agent gateway checks only the tool-call path,]]

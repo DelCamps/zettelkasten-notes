@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-17 · [[GitHub Copilot removes Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra as of 16 November]]
+- 2026-11-17 · [[Contagious fingerprints an API reseller that swaps in a cheaper model mid-chat evades text]]
 - 2026-11-15 · [[Gemini 4 Hydrogen is generally available in GitHub Copilot on every paid plan, billed at G]]
 - 2026-11-14 · [[GitHub Copilot will retire six models on 14 December, including Claude Fable 5, Claude Hai]]
 - 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]

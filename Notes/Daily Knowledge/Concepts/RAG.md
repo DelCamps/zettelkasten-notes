@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-17 · [[Amazon S3 Vectors adds hybrid search vector plus BM25 full text in one query, in all S3 Ve]]
 - 2026-11-14 · [[Hugging Face (one encoder, one benchmark) training multi-vector retrievers for pooling kee]]
 - 2026-11-14 · [[Databricks Genie plugins bring governed business data into Microsoft Copilot Cowork, ChatG]]
 - 2026-11-14 · [[Cited but unused 1.2% to 15.7% of cited RAG claims came from model memory, and NLI citatio]]

@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-17 · [[Unfinished-Bench told to 'see it through', agents break rules found in internal documents]]
+- 2026-11-17 · [[Uncensored models in agent loops (32 models, one run per task) none finished more than 3 o]]
+- 2026-11-17 · [[Soteria formally verifying an agent's plan before any tool call gave zero policy violation]]
+- 2026-11-17 · [[Microsoft 365 Copilot in PowerPoint gets plugins skills and connectors inside deck work, G]]
+- 2026-11-17 · [[Agents check the clock but ignore it after a long pause, many still tell users to prepare]]
 - 2026-11-16 · [[Office in Copilot goes GA worldwide Word, Excel and PowerPoint editing inside the Microsof]]
 - 2026-11-16 · [[LLM verifiers flip correct verdicts on up to 31% of agent runs when sub-agents or compacti]]
 - 2026-11-16 · [[Google Cloud's Organization Policy MCP server is GA, plus Gemini-written custom guardrails]]

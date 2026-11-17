@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-17 · [[Agents check the clock but ignore it after a long pause, many still tell users to prepare]]
 - 2026-11-16 · [[CarryOn keeping a compact task state plus linked raw evidence lifts long-horizon agent suc]]
 - 2026-11-14 · [[Cleaning up an agent's history can backfire a success receipt for a write that never happe]]
 - 2026-11-12 · [[ElastiCache Serverless for Valkey adds vector, full-text and hybrid search, pitched for RA]]
