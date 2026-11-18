@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-18 · [[RAG in a Trenchcoat a minimal hybrid-RAG memory matches the best memory systems on LongMem]]
+- 2026-11-18 · [[Microsoft IQ launches at Ignite Work IQ CRMERP grounding and Retrieve go GA, Web IQ opens]]
 - 2026-11-17 · [[Amazon S3 Vectors adds hybrid search vector plus BM25 full text in one query, in all S3 Ve]]
 - 2026-11-14 · [[Hugging Face (one encoder, one benchmark) training multi-vector retrievers for pooling kee]]
 - 2026-11-14 · [[Databricks Genie plugins bring governed business data into Microsoft Copilot Cowork, ChatG]]

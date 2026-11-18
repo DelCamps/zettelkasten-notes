@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-18 · [[Microsoft IQ launches at Ignite Work IQ CRMERP grounding and Retrieve go GA, Web IQ opens]]
+- 2026-11-18 · [[Dynamics 365 in Copilot GA Sales, Customer Service and ERP plugins bring 57+ CX and 39+ fi]]
+- 2026-11-18 · [[Copilot Managed Runtime goes GA at Ignite Microsoft hosts and governs the apps clients bui]]
 - 2026-11-17 · [[Microsoft 365 Copilot in PowerPoint gets plugins skills and connectors inside deck work, G]]
 - 2026-11-16 · [[Office in Copilot goes GA worldwide Word, Excel and PowerPoint editing inside the Microsof]]
 - 2026-11-14 · [[Databricks Genie plugins bring governed business data into Microsoft Copilot Cowork, ChatG]]

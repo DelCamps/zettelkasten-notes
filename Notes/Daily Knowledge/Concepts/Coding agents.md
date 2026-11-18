@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-18 · [[Microsoft's MAI Code 2 arrives in GitHub Copilot, claiming 98% of GPT 6.1 Sol's coding sco]]
+- 2026-11-18 · [[Copilot Fusion Max scores 71.2% on Terminal-Bench 4.1, 5.4 points ahead of Opus 5.5 and Fa]]
+- 2026-11-18 · [[Context Has a Price with cached input at a tenth of the price, masking old tool outputs ra]]
 - 2026-11-17 · [[One teammate's 'I hardcoded the tests' message nearly doubled the odds that coding agents]]
 - 2026-11-17 · [[Claude Code 2.1.326 Code Mode works with agent teams, warnings for half-written tool rules]]
 - 2026-11-16 · [[WebArena-Pro Claude Code with Opus 5.5 and Codex with GPT 6.1 Sol tie at 62.3% on 300 web]]

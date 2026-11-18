@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-18 · [[An agent-assisted red teamer extracted a secret from the system prompts of 296 of 363 Open]]
 - 2026-11-17 · [[Soteria formally verifying an agent's plan before any tool call gave zero policy violation]]
 - 2026-11-17 · [[Google GTIG a criminal 'exploit_agent' turned patches into exploits with no human in the l]]
 - 2026-11-17 · [[GitHub Copilot lets enterprises allow skills, agents, hooks and MCP servers only from plug]]

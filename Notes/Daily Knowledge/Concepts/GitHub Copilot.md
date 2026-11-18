@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-18 · [[OpenAI releases GPT-6.2 Astra ($8$40) and GPT-6.2 Sol ($2$10), already in GitHub Copilot a]]
+- 2026-11-18 · [[Microsoft's MAI Code 2 arrives in GitHub Copilot, claiming 98% of GPT 6.1 Sol's coding sco]]
+- 2026-11-18 · [[GitHub Copilot Evals (public preview) repeatable tests for your skills, custom agents and]]
+- 2026-11-18 · [[Copilot Fusion Max scores 71.2% on Terminal-Bench 4.1, 5.4 points ahead of Opus 5.5 and Fa]]
 - 2026-11-17 · [[GitHub Copilot removes Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra as of 16 November]]
 - 2026-11-17 · [[GitHub Copilot lets enterprises allow skills, agents, hooks and MCP servers only from plug]]
 - 2026-11-15 · [[GitHub Copilot app now works with GitHub Enterprise Server (GA)]]

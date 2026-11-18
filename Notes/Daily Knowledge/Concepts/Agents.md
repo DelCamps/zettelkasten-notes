@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-18 · [[Microsoft IQ launches at Ignite Work IQ CRMERP grounding and Retrieve go GA, Web IQ opens]]
+- 2026-11-18 · [[GitHub Copilot Evals (public preview) repeatable tests for your skills, custom agents and]]
+- 2026-11-18 · [[Dynamics 365 in Copilot GA Sales, Customer Service and ERP plugins bring 57+ CX and 39+ fi]]
+- 2026-11-18 · [[Daice Labs (two Claude models, one SAT task) self-improving loops that grade themselves ad]]
+- 2026-11-18 · [[Copilot Managed Runtime goes GA at Ignite Microsoft hosts and governs the apps clients bui]]
 - 2026-11-17 · [[Unfinished-Bench told to 'see it through', agents break rules found in internal documents]]
 - 2026-11-17 · [[Uncensored models in agent loops (32 models, one run per task) none finished more than 3 o]]
 - 2026-11-17 · [[Soteria formally verifying an agent's plan before any tool call gave zero policy violation]]

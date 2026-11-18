@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-18 · [[Claude API Linked billing (beta) apps built on Claude can bill each request to the custome]]
 - 2026-11-17 · [[Claude Code 2.1.326 Code Mode works with agent teams, warnings for half-written tool rules]]
 - 2026-11-15 · [[Claude interactive connectors partner apps open inside Claude and Claude edits them live]]
 - 2026-11-15 · [[Claude for Manufacturing a plugin with 17 skills and connectors to Autodesk Fusion, Infor,]]

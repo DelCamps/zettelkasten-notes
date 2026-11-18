@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-18 · [[Context Has a Price with cached input at a tenth of the price, masking old tool outputs ra]]
+- 2026-11-18 · [[AutoBench (one 252-question benchmark, router vendor's own audit) OpenRouter's rebuilt Aut]]
 - 2026-11-16 · [[Meta-analysis of 516 multi-agent setups against budget-matched single agents, they average]]
 - 2026-11-16 · [[CarryOn keeping a compact task state plus linked raw evidence lifts long-horizon agent suc]]
 - 2026-11-14 · [[llama.cpp and ggml reach v1.0.0, with a stable C API promise and semantic versioning]]

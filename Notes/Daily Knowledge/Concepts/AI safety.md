@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-18 · [[SEAM computer-use agents carry out harms hidden across two benign screens in up to 92% of]]
+- 2026-11-18 · [[Daice Labs (two Claude models, one SAT task) self-improving loops that grade themselves ad]]
+- 2026-11-18 · [[An agent-assisted red teamer extracted a secret from the system prompts of 296 of 363 Open]]
 - 2026-11-17 · [[XL-Refusal-Bridge (one 3.35B model, ten languages) a 33 KB gated adapter cuts Tiny Aya's a]]
 - 2026-11-17 · [[Unfinished-Bench told to 'see it through', agents break rules found in internal documents]]
 - 2026-11-17 · [[Soteria formally verifying an agent's plan before any tool call gave zero policy violation]]

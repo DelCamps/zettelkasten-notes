@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-18 · [[Winner's curse SWE-bench Verified's tied leaders are overstated by 0.9 points, and 13 of 1]]
+- 2026-11-18 · [[SEAM computer-use agents carry out harms hidden across two benign screens in up to 92% of]]
+- 2026-11-18 · [[RAG in a Trenchcoat a minimal hybrid-RAG memory matches the best memory systems on LongMem]]
+- 2026-11-18 · [[GitHub Copilot Evals (public preview) repeatable tests for your skills, custom agents and]]
+- 2026-11-18 · [[Daice Labs (two Claude models, one SAT task) self-improving loops that grade themselves ad]]
+- 2026-11-18 · [[Copilot Fusion Max scores 71.2% on Terminal-Bench 4.1, 5.4 points ahead of Opus 5.5 and Fa]]
+- 2026-11-18 · [[Context Has a Price with cached input at a tenth of the price, masking old tool outputs ra]]
+- 2026-11-18 · [[AutoBench (one 252-question benchmark, router vendor's own audit) OpenRouter's rebuilt Aut]]
 - 2026-11-17 · [[Unfinished-Bench told to 'see it through', agents break rules found in internal documents]]
 - 2026-11-17 · [[Uncensored models in agent loops (32 models, one run per task) none finished more than 3 o]]
 - 2026-11-17 · [[OpenAI embeds Apollo, Goodfire, METR and Transluce to test whether its models subvert safe]]

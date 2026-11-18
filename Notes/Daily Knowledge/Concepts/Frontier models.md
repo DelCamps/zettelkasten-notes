@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-18 · [[OpenAI releases GPT-6.2 Astra ($8$40) and GPT-6.2 Sol ($2$10), already in GitHub Copilot a]]
 - 2026-11-16 · [[GDP.xlsx the best model answers only 38.3% of professionals' spreadsheet requests in full]]
 - 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
 - 2026-11-12 · [[MotionGraphicsBench animating an existing SVG design, the best model (GPT-6 Astra) passes]]

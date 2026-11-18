@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-18 · [[OpenAI releases GPT-6.2 Astra ($8$40) and GPT-6.2 Sol ($2$10), already in GitHub Copilot a]]
+- 2026-11-18 · [[Microsoft's MAI Code 2 arrives in GitHub Copilot, claiming 98% of GPT 6.1 Sol's coding sco]]
+- 2026-11-18 · [[Claude API Linked billing (beta) apps built on Claude can bill each request to the custome]]
+- 2026-11-18 · [[AutoBench (one 252-question benchmark, router vendor's own audit) OpenRouter's rebuilt Aut]]
 - 2026-11-17 · [[GitHub Copilot removes Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra as of 16 November]]
 - 2026-11-17 · [[Contagious fingerprints an API reseller that swaps in a cheaper model mid-chat evades text]]
 - 2026-11-15 · [[Gemini 4 Hydrogen is generally available in GitHub Copilot on every paid plan, billed at G]]
