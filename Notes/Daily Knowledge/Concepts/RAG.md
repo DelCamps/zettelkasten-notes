@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-19 · [[Rendering untrusted documents as images only partly stops prompt injection Qwen3-VL-8B sti]]
+- 2026-11-19 · [[Local Kafka SRE assistant plain retrieval beat every fine-tuned adapter (+1.48 vs -0.18),]]
 - 2026-11-18 · [[RAG in a Trenchcoat a minimal hybrid-RAG memory matches the best memory systems on LongMem]]
 - 2026-11-18 · [[Microsoft IQ launches at Ignite Work IQ CRMERP grounding and Retrieve go GA, Web IQ opens]]
 - 2026-11-17 · [[Amazon S3 Vectors adds hybrid search vector plus BM25 full text in one query, in all S3 Ve]]

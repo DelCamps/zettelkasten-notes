@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-19 · [[ARISE (Amazon) agents that learn scoped rules from their own failures gain 10.9 points on]]
 - 2026-11-18 · [[RAG in a Trenchcoat a minimal hybrid-RAG memory matches the best memory systems on LongMem]]
 - 2026-11-17 · [[Agents check the clock but ignore it after a long pause, many still tell users to prepare]]
 - 2026-11-16 · [[CarryOn keeping a compact task state plus linked raw evidence lifts long-horizon agent suc]]

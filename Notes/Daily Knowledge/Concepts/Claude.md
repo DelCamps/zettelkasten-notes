@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-19 · [[Claude agents, left running for about six weeks on 22 problems they picked, solved two ope]]
+- 2026-11-19 · [[Claude Code 2.1.327 and 2.1.328 auto mode on Bedrock, Foundry and Google Cloud, blocking M]]
 - 2026-11-18 · [[Claude API Linked billing (beta) apps built on Claude can bill each request to the custome]]
 - 2026-11-17 · [[Claude Code 2.1.326 Code Mode works with agent teams, warnings for half-written tool rules]]
 - 2026-11-15 · [[Claude interactive connectors partner apps open inside Claude and Claude edits them live]]

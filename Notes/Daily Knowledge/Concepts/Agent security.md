@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-19 · [[ViKernel Scanner all 20 open-weight models tested got an F; dangerous tool calls ranged fr]]
+- 2026-11-19 · [[Rendering untrusted documents as images only partly stops prompt injection Qwen3-VL-8B sti]]
+- 2026-11-19 · [[Microsoft's agent-framework package on PyPI was hijacked twice on 17 November to steal Azu]]
+- 2026-11-19 · [[Idempotency is not recovery in 7,513 fault-injected tool calls per OS, retries duplicated]]
+- 2026-11-19 · [[GitHub Copilot agent activity now streams into Microsoft Agent 365 prompts, responses and]]
+- 2026-11-19 · [[GPT-6.2 system card Astra is OpenAI's first public model at 'High' for AI self-improvement]]
+- 2026-11-19 · [[Claude Code 2.1.327 and 2.1.328 auto mode on Bedrock, Foundry and Google Cloud, blocking M]]
+- 2026-11-19 · [[Agent 365 at Ignite Defender runtime protection for local coding agents goes GA on Windows]]
 - 2026-11-18 · [[An agent-assisted red teamer extracted a secret from the system prompts of 296 of 363 Open]]
 - 2026-11-17 · [[Soteria formally verifying an agent's plan before any tool call gave zero policy violation]]
 - 2026-11-17 · [[Google GTIG a criminal 'exploit_agent' turned patches into exploits with no human in the l]]

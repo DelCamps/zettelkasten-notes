@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]
 - 2026-11-18 · [[OpenAI releases GPT-6.2 Astra ($8$40) and GPT-6.2 Sol ($2$10), already in GitHub Copilot a]]
 - 2026-11-18 · [[Microsoft's MAI Code 2 arrives in GitHub Copilot, claiming 98% of GPT 6.1 Sol's coding sco]]
 - 2026-11-18 · [[Claude API Linked billing (beta) apps built on Claude can bill each request to the custome]]

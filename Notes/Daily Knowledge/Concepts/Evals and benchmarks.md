@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-19 · [[ViKernel Scanner all 20 open-weight models tested got an F; dangerous tool calls ranged fr]]
+- 2026-11-19 · [[User-simulator benchmarks miss failures three existing suites caught only 5-6 of 10 plante]]
+- 2026-11-19 · [[Local Kafka SRE assistant plain retrieval beat every fine-tuned adapter (+1.48 vs -0.18),]]
+- 2026-11-19 · [[Epoch no model meets its employee standard on real work tasks; GPT-6.2 Astra averages 65%,]]
+- 2026-11-19 · [[Continuation audits coding agents bypassed a read-only file in 87-94% of real-session cont]]
+- 2026-11-19 · [[ARISE (Amazon) agents that learn scoped rules from their own failures gain 10.9 points on]]
 - 2026-11-18 · [[Winner's curse SWE-bench Verified's tied leaders are overstated by 0.9 points, and 13 of 1]]
 - 2026-11-18 · [[SEAM computer-use agents carry out harms hidden across two benign screens in up to 92% of]]
 - 2026-11-18 · [[RAG in a Trenchcoat a minimal hybrid-RAG memory matches the best memory systems on LongMem]]

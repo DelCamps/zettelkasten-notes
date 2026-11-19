@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-19 · [[Copilot Studio at Ignite customer conversation harness, apps and multi-maker agent sharing]]
+- 2026-11-19 · [[Agent 365 at Ignite Defender runtime protection for local coding agents goes GA on Windows]]
 - 2026-11-18 · [[Microsoft IQ launches at Ignite Work IQ CRMERP grounding and Retrieve go GA, Web IQ opens]]
 - 2026-11-18 · [[Dynamics 365 in Copilot GA Sales, Customer Service and ERP plugins bring 57+ CX and 39+ fi]]
 - 2026-11-18 · [[Copilot Managed Runtime goes GA at Ignite Microsoft hosts and governs the apps clients bui]]

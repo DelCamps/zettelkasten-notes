@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-19 · [[GPT-6.2 system card Astra is OpenAI's first public model at 'High' for AI self-improvement]]
+- 2026-11-19 · [[Continuation audits coding agents bypassed a read-only file in 87-94% of real-session cont]]
 - 2026-11-18 · [[SEAM computer-use agents carry out harms hidden across two benign screens in up to 92% of]]
 - 2026-11-18 · [[Daice Labs (two Claude models, one SAT task) self-improving loops that grade themselves ad]]
 - 2026-11-18 · [[An agent-assisted red teamer extracted a secret from the system prompts of 296 of 363 Open]]

@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]
+- 2026-11-19 · [[GitHub Copilot agent activity now streams into Microsoft Agent 365 prompts, responses and]]
+- 2026-11-19 · [[Continuation audits coding agents bypassed a read-only file in 87-94% of real-session cont]]
+- 2026-11-19 · [[Claude Code 2.1.327 and 2.1.328 auto mode on Bedrock, Foundry and Google Cloud, blocking M]]
+- 2026-11-19 · [[Agent 365 at Ignite Defender runtime protection for local coding agents goes GA on Windows]]
 - 2026-11-18 · [[Microsoft's MAI Code 2 arrives in GitHub Copilot, claiming 98% of GPT 6.1 Sol's coding sco]]
 - 2026-11-18 · [[Copilot Fusion Max scores 71.2% on Terminal-Bench 4.1, 5.4 points ahead of Opus 5.5 and Fa]]
 - 2026-11-18 · [[Context Has a Price with cached input at a tenth of the price, masking old tool outputs ra]]

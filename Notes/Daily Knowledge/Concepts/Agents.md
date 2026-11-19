@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-19 · [[User-simulator benchmarks miss failures three existing suites caught only 5-6 of 10 plante]]
+- 2026-11-19 · [[Microsoft's agent-framework package on PyPI was hijacked twice on 17 November to steal Azu]]
+- 2026-11-19 · [[Idempotency is not recovery in 7,513 fault-injected tool calls per OS, retries duplicated]]
+- 2026-11-19 · [[Epoch no model meets its employee standard on real work tasks; GPT-6.2 Astra averages 65%,]]
+- 2026-11-19 · [[Copilot Studio at Ignite customer conversation harness, apps and multi-maker agent sharing]]
+- 2026-11-19 · [[ARISE (Amazon) agents that learn scoped rules from their own failures gain 10.9 points on]]
 - 2026-11-18 · [[Microsoft IQ launches at Ignite Work IQ CRMERP grounding and Retrieve go GA, Web IQ opens]]
 - 2026-11-18 · [[GitHub Copilot Evals (public preview) repeatable tests for your skills, custom agents and]]
 - 2026-11-18 · [[Dynamics 365 in Copilot GA Sales, Customer Service and ERP plugins bring 57+ CX and 39+ fi]]

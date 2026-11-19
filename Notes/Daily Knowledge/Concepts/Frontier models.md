@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]
+- 2026-11-19 · [[GPT-6.2 system card Astra is OpenAI's first public model at 'High' for AI self-improvement]]
+- 2026-11-19 · [[Epoch no model meets its employee standard on real work tasks; GPT-6.2 Astra averages 65%,]]
 - 2026-11-18 · [[OpenAI releases GPT-6.2 Astra ($8$40) and GPT-6.2 Sol ($2$10), already in GitHub Copilot a]]
 - 2026-11-16 · [[GDP.xlsx the best model answers only 38.3% of professionals' spreadsheet requests in full]]
 - 2026-11-13 · [[Google releases Gemini 4 Hydrogen a fast agentic model at $1.50$7.50 per million tokens th]]
