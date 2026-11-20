@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-20 · [[Microsoft Copilot SDK 2.0 Rust runtime hosts many isolated agent sessions per process, 55]]
+- 2026-11-20 · [[GitHub Copilot team customizations reach GA team maintainers set default plugins for their]]
+- 2026-11-20 · [[Gemini 4 Neon is generally available in GitHub Copilot on Pro+, Max, Business and Enterpri]]
 - 2026-11-19 · [[GitHub Copilot agent activity now streams into Microsoft Agent 365 prompts, responses and]]
 - 2026-11-18 · [[OpenAI releases GPT-6.2 Astra ($8$40) and GPT-6.2 Sol ($2$10), already in GitHub Copilot a]]
 - 2026-11-18 · [[Microsoft's MAI Code 2 arrives in GitHub Copilot, claiming 98% of GPT 6.1 Sol's coding sco]]

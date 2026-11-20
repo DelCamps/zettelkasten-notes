@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-20 · [[Letting models rewrite expert agent skills without feedback makes them worse -14.6 points]]
+- 2026-11-20 · [[IBM's agent memory lessons the right number of learned guidelines depends on the model; gp]]
+- 2026-11-20 · [[Amazon OpenSearch Memory is GA serverless long-term memory for agents, available in Frankf]]
 - 2026-11-19 · [[ARISE (Amazon) agents that learn scoped rules from their own failures gain 10.9 points on]]
 - 2026-11-18 · [[RAG in a Trenchcoat a minimal hybrid-RAG memory matches the best memory systems on LongMem]]
 - 2026-11-17 · [[Agents check the clock but ignore it after a long pause, many still tell users to prepare]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Computer-use agents
 
 ## Linked from the brief
+- 2026-11-20 · [[Foundry Agent Service at Ignite voice agents, A2A, computer use and browser automation, an]]
 - 2026-11-18 · [[SEAM computer-use agents carry out harms hidden across two benign screens in up to 92% of]]
 - 2026-11-17 · [[Amazon WorkSpaces for AI agents adds on-behalf-of sign-in, OIDC identity and session-repla]]
 - 2026-11-16 · [[WebArena-Pro Claude Code with Opus 5.5 and Codex with GPT 6.1 Sol tie at 62.3% on 300 web]]

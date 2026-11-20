@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-20 · [[Living off the local model (Chrome's Gemini Nano only) malware can drive the browser's bui]]
+- 2026-11-20 · [[Claude Code 2.1.329 trust dialog shows where a folder's hooks come from, Code Mode hook er]]
 - 2026-11-19 · [[ViKernel Scanner all 20 open-weight models tested got an F; dangerous tool calls ranged fr]]
 - 2026-11-19 · [[Rendering untrusted documents as images only partly stops prompt injection Qwen3-VL-8B sti]]
 - 2026-11-19 · [[Microsoft's agent-framework package on PyPI was hijacked twice on 17 November to steal Azu]]

@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI for security
 
 ## Linked from the brief
+- 2026-11-20 · [[Microsoft Perception goes GA red, blue and green security agents, with six agents generall]]
+- 2026-11-20 · [[Living off the local model (Chrome's Gemini Nano only) malware can drive the browser's bui]]
 - 2026-11-17 · [[Google GTIG a criminal 'exploit_agent' turned patches into exploits with no human in the l]]
 - 2026-11-12 · [[Railway incident report attackers with abliterated models and an agent harness broke out o]]
 - 2026-11-12 · [[DeepMind's AlphaProof Code Gemini agents wrote over six million lines of Lean to verify Si]]

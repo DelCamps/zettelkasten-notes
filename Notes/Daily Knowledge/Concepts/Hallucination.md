@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Hallucination
 
 ## Linked from the brief
+- 2026-11-20 · [[traceground a model-free grounding checker caught 80% of planted errors on held-out answer]]
+- 2026-11-20 · [[Coding agents' 'done' reports 37.24% of 435 sampled real reports contain at least one fals]]
 - 2026-11-19 · [[Local Kafka SRE assistant plain retrieval beat every fine-tuned adapter (+1.48 vs -0.18),]]
 - 2026-11-15 · [[StateAlign RL that contrasts paired task states teaches small tool agents when to ask, fet]]
 - 2026-11-15 · [[Read and Ignore given open instructions on public-service records, agents read the files i]]

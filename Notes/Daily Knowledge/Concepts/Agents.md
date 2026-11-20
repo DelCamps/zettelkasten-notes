@@ -4,6 +4,16 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-20 · [[traceground a model-free grounding checker caught 80% of planted errors on held-out answer]]
+- 2026-11-20 · [[Microsoft Perception goes GA red, blue and green security agents, with six agents generall]]
+- 2026-11-20 · [[Microsoft Copilot SDK 2.0 Rust runtime hosts many isolated agent sessions per process, 55]]
+- 2026-11-20 · [[Letting models rewrite expert agent skills without feedback makes them worse -14.6 points]]
+- 2026-11-20 · [[IBM's agent memory lessons the right number of learned guidelines depends on the model; gp]]
+- 2026-11-20 · [[GitHub Copilot team customizations reach GA team maintainers set default plugins for their]]
+- 2026-11-20 · [[Gemini API previews tool retrieval deferred tools cost about 26 tokens each until searched]]
+- 2026-11-20 · [[Foundry Agent Service at Ignite voice agents, A2A, computer use and browser automation, an]]
+- 2026-11-20 · [[EverydayBench on 77 live-web everyday tasks, Claude Opus 5.5 and Fable 5.1 in Claude Code]]
+- 2026-11-20 · [[Amazon Connect Resolutions is GA agents work refund, dispute, fraud and claims cases from]]
 - 2026-11-19 · [[User-simulator benchmarks miss failures three existing suites caught only 5-6 of 10 plante]]
 - 2026-11-19 · [[Microsoft's agent-framework package on PyPI was hijacked twice on 17 November to steal Azu]]
 - 2026-11-19 · [[Idempotency is not recovery in 7,513 fault-injected tool calls per OS, retries duplicated]]

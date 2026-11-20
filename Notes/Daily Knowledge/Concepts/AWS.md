@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-20 · [[Amazon OpenSearch Memory is GA serverless long-term memory for agents, available in Frankf]]
+- 2026-11-20 · [[Amazon Connect Resolutions is GA agents work refund, dispute, fraud and claims cases from]]
 - 2026-11-17 · [[Amazon WorkSpaces for AI agents adds on-behalf-of sign-in, OIDC identity and session-repla]]
 - 2026-11-17 · [[Amazon S3 Vectors adds hybrid search vector plus BM25 full text in one query, in all S3 Ve]]
 - 2026-11-16 · [[AWS Quick lets admins restrict which structured data sources users can create, update or s]]

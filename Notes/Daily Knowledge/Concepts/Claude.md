@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-20 · [[EverydayBench on 77 live-web everyday tasks, Claude Opus 5.5 and Fable 5.1 in Claude Code]]
+- 2026-11-20 · [[Claude Code 2.1.329 trust dialog shows where a folder's hooks come from, Code Mode hook er]]
 - 2026-11-19 · [[Claude agents, left running for about six weeks on 22 problems they picked, solved two ope]]
 - 2026-11-19 · [[Claude Code 2.1.327 and 2.1.328 auto mode on Bedrock, Foundry and Google Cloud, blocking M]]
 - 2026-11-18 · [[Claude API Linked billing (beta) apps built on Claude can bill each request to the custome]]

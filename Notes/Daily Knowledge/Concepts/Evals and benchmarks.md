@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-20 · [[traceground a model-free grounding checker caught 80% of planted errors on held-out answer]]
+- 2026-11-20 · [[Letting models rewrite expert agent skills without feedback makes them worse -14.6 points]]
+- 2026-11-20 · [[IBM's agent memory lessons the right number of learned guidelines depends on the model; gp]]
+- 2026-11-20 · [[EverydayBench on 77 live-web everyday tasks, Claude Opus 5.5 and Fable 5.1 in Claude Code]]
+- 2026-11-20 · [[Coding agents' 'done' reports 37.24% of 435 sampled real reports contain at least one fals]]
 - 2026-11-19 · [[ViKernel Scanner all 20 open-weight models tested got an F; dangerous tool calls ranged fr]]
 - 2026-11-19 · [[User-simulator benchmarks miss failures three existing suites caught only 5-6 of 10 plante]]
 - 2026-11-19 · [[Local Kafka SRE assistant plain retrieval beat every fine-tuned adapter (+1.48 vs -0.18),]]

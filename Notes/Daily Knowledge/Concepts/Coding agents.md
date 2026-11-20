@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-20 · [[Coding agents' 'done' reports 37.24% of 435 sampled real reports contain at least one fals]]
+- 2026-11-20 · [[Claude Code 2.1.329 trust dialog shows where a folder's hooks come from, Code Mode hook er]]
 - 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]
 - 2026-11-19 · [[GitHub Copilot agent activity now streams into Microsoft Agent 365 prompts, responses and]]
 - 2026-11-19 · [[Continuation audits coding agents bypassed a read-only file in 87-94% of real-session cont]]

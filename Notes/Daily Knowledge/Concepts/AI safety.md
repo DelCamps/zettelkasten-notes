@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-20 · [[US GAO Claude, ChatGPT, Gemini and Grok all gave covert testers viable attack plans in und]]
 - 2026-11-19 · [[GPT-6.2 system card Astra is OpenAI's first public model at 'High' for AI self-improvement]]
 - 2026-11-19 · [[Continuation audits coding agents bypassed a read-only file in 87-94% of real-session cont]]
 - 2026-11-18 · [[SEAM computer-use agents carry out harms hidden across two benign screens in up to 92% of]]

@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-20 · [[Gemini API previews tool retrieval deferred tools cost about 26 tokens each until searched]]
+- 2026-11-20 · [[FLOP estimates explain little of fine-tuning wall-clock time (R² 0.31 at best); a CatBoost]]
+- 2026-11-20 · [[Atto embeddings a 28M-parameter model reaches 0.5138 nDCG@10 on three BEIR sets, above Min]]
 - 2026-11-18 · [[Context Has a Price with cached input at a tenth of the price, masking old tool outputs ra]]
 - 2026-11-18 · [[AutoBench (one 252-question benchmark, router vendor's own audit) OpenRouter's rebuilt Aut]]
 - 2026-11-16 · [[Meta-analysis of 516 multi-agent setups against budget-matched single agents, they average]]
