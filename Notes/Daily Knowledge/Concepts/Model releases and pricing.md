@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
 - 2026-11-20 · [[Gemini 4 Neon is generally available in GitHub Copilot on Pro+, Max, Business and Enterpri]]
 - 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]
 - 2026-11-18 · [[OpenAI releases GPT-6.2 Astra ($8$40) and GPT-6.2 Sol ($2$10), already in GitHub Copilot a]]

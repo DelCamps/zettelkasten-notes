@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-21 · [[PIPETTE hardening open agent models against prompt injection with more varied red-team att]]
+- 2026-11-21 · [[Harness adapters (Hugging Face, Qwen3.8-27B, three harnesses) RL inside the agent harness]]
 - 2026-11-20 · [[FLOP estimates explain little of fine-tuning wall-clock time (R² 0.31 at best); a CatBoost]]
 - 2026-11-16 · [[ActionProof (one 3.35B model, one environment) an RL reward that reads the database, not t]]
 - 2026-11-15 · [[StateAlign RL that contrasts paired task states teaches small tool agents when to ask, fet]]

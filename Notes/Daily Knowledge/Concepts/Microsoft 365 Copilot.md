@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-21 · [[Fabric IQ MCP is GA any MCP agent can use a client's governed Power BI metrics and ontolog]]
 - 2026-11-19 · [[Copilot Studio at Ignite customer conversation harness, apps and multi-maker agent sharing]]
 - 2026-11-19 · [[Agent 365 at Ignite Defender runtime protection for local coding agents goes GA on Windows]]
 - 2026-11-18 · [[Microsoft IQ launches at Ignite Work IQ CRMERP grounding and Retrieve go GA, Web IQ opens]]

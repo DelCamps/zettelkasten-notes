@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-21 · [[AWS Quick enterprise guardrails (preview) admin-set content filters, PII and prompt-attack]]
 - 2026-11-20 · [[Amazon OpenSearch Memory is GA serverless long-term memory for agents, available in Frankf]]
 - 2026-11-20 · [[Amazon Connect Resolutions is GA agents work refund, dispute, fraud and claims cases from]]
 - 2026-11-17 · [[Amazon WorkSpaces for AI agents adds on-behalf-of sign-in, OIDC identity and session-repla]]

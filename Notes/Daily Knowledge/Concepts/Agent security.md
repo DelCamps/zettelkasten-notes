@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-21 · [[PIPETTE hardening open agent models against prompt injection with more varied red-team att]]
+- 2026-11-21 · [[OpenAI updated safeguards cut red-team extraction of GPT-6.2 Astra's hidden reasoning from]]
+- 2026-11-21 · [[AWS Quick enterprise guardrails (preview) admin-set content filters, PII and prompt-attack]]
 - 2026-11-20 · [[Living off the local model (Chrome's Gemini Nano only) malware can drive the browser's bui]]
 - 2026-11-20 · [[Claude Code 2.1.329 trust dialog shows where a folder's hooks come from, Code Mode hook er]]
 - 2026-11-19 · [[ViKernel Scanner all 20 open-weight models tested got an F; dangerous tool calls ranged fr]]

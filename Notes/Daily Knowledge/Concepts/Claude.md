@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]
+- 2026-11-21 · [[Natural experiment (Claude Code users only) losing Claude Fable 5 for 19 days barely chang]]
+- 2026-11-21 · [[Claude Code 2.1.330 sign-in to Enterprise Admin Console orgs, a built-in chart tool, loop]]
 - 2026-11-20 · [[EverydayBench on 77 live-web everyday tasks, Claude Opus 5.5 and Fable 5.1 in Claude Code]]
 - 2026-11-20 · [[Claude Code 2.1.329 trust dialog shows where a folder's hooks come from, Code Mode hook er]]
 - 2026-11-19 · [[Claude agents, left running for about six weeks on 22 problems they picked, solved two ope]]

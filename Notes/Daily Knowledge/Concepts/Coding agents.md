@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
+- 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]
+- 2026-11-21 · [[Natural experiment (Claude Code users only) losing Claude Fable 5 for 19 days barely chang]]
+- 2026-11-21 · [[Harness adapters (Hugging Face, Qwen3.8-27B, three harnesses) RL inside the agent harness]]
+- 2026-11-21 · [[Fabric Data Warehouse tunes for agent workloads a remote MCP server, Agent Skills, GA cust]]
+- 2026-11-21 · [[Done, But Still Working a 'stop once the same patch passes its tests twice' rule cut codin]]
+- 2026-11-21 · [[Codex CLI 0.171.0 makes GPT-6.2 Sol the default model and turns on the terminal workspace]]
+- 2026-11-21 · [[Claude Code 2.1.330 sign-in to Enterprise Admin Console orgs, a built-in chart tool, loop]]
 - 2026-11-20 · [[Coding agents' 'done' reports 37.24% of 435 sampled real reports contain at least one fals]]
 - 2026-11-20 · [[Claude Code 2.1.329 trust dialog shows where a folder's hooks come from, Code Mode hook er]]
 - 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]

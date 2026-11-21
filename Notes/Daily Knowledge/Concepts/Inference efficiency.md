@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]
+- 2026-11-21 · [[Done, But Still Working a 'stop once the same patch passes its tests twice' rule cut codin]]
 - 2026-11-20 · [[Gemini API previews tool retrieval deferred tools cost about 26 tokens each until searched]]
 - 2026-11-20 · [[FLOP estimates explain little of fine-tuning wall-clock time (R² 0.31 at best); a CatBoost]]
 - 2026-11-20 · [[Atto embeddings a 28M-parameter model reaches 0.5138 nDCG@10 on three BEIR sets, above Min]]

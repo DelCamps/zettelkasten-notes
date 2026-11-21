@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-21 · [[Thinking harder buys confidence, not correctness higher reasoning effort rarely improved p]]
+- 2026-11-21 · [[Power BI Desktop for Apps (preview) describe an app and an agent builds it on a trusted se]]
+- 2026-11-21 · [[Fabric Real-Time Intelligence Operations Agent observability is GA, and agents can now rea]]
+- 2026-11-21 · [[Fabric IQ MCP is GA any MCP agent can use a client's governed Power BI metrics and ontolog]]
+- 2026-11-21 · [[Fabric Data Warehouse tunes for agent workloads a remote MCP server, Agent Skills, GA cust]]
 - 2026-11-20 · [[traceground a model-free grounding checker caught 80% of planted errors on held-out answer]]
 - 2026-11-20 · [[Microsoft Perception goes GA red, blue and green security agents, with six agents generall]]
 - 2026-11-20 · [[Microsoft Copilot SDK 2.0 Rust runtime hosts many isolated agent sessions per process, 55]]

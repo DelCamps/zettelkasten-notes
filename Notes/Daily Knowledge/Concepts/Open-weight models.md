@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
+- 2026-11-21 · [[Harness adapters (Hugging Face, Qwen3.8-27B, three harnesses) RL inside the agent harness]]
 - 2026-11-19 · [[ViKernel Scanner all 20 open-weight models tested got an F; dangerous tool calls ranged fr]]
 - 2026-11-17 · [[XL-Refusal-Bridge (one 3.35B model, ten languages) a 33 KB gated adapter cuts Tiny Aya's a]]
 - 2026-11-17 · [[Uncensored models in agent loops (32 models, one run per task) none finished more than 3 o]]

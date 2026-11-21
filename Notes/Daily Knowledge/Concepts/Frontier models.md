@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-21 · [[Thinking harder buys confidence, not correctness higher reasoning effort rarely improved p]]
+- 2026-11-21 · [[OpenAI updated safeguards cut red-team extraction of GPT-6.2 Astra's hidden reasoning from]]
 - 2026-11-20 · [[US GAO Claude, ChatGPT, Gemini and Grok all gave covert testers viable attack plans in und]]
 - 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]
 - 2026-11-19 · [[GPT-6.2 system card Astra is OpenAI's first public model at 'High' for AI self-improvement]]

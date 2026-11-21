@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-21 · [[Thinking harder buys confidence, not correctness higher reasoning effort rarely improved p]]
+- 2026-11-21 · [[Natural experiment (Claude Code users only) losing Claude Fable 5 for 19 days barely chang]]
+- 2026-11-21 · [[Done, But Still Working a 'stop once the same patch passes its tests twice' rule cut codin]]
+- 2026-11-21 · [[CompAct-Bench after context compaction, agents finish only 56.7% of tasks they had solved]]
+- 2026-11-21 · [[AltRA-Test a statistical check for replacing human annotators with an LLM judge; judges pa]]
 - 2026-11-20 · [[traceground a model-free grounding checker caught 80% of planted errors on held-out answer]]
 - 2026-11-20 · [[Letting models rewrite expert agent skills without feedback makes them worse -14.6 points]]
 - 2026-11-20 · [[IBM's agent memory lessons the right number of learned guidelines depends on the model; gp]]

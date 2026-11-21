@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Power BI and Fabric
 
 ## Linked from the brief
+- 2026-11-21 · [[Power BI Desktop for Apps (preview) describe an app and an agent builds it on a trusted se]]
+- 2026-11-21 · [[Fabric Real-Time Intelligence Operations Agent observability is GA, and agents can now rea]]
+- 2026-11-21 · [[Fabric IQ MCP is GA any MCP agent can use a client's governed Power BI metrics and ontolog]]
+- 2026-11-21 · [[Fabric Data Warehouse tunes for agent workloads a remote MCP server, Agent Skills, GA cust]]
 - 2026-11-18 · [[Rayfin and Fabric apps reach GA full-stack business apps on Fabric data, with more than 10]]
 - 2026-11-13 · [[Microsoft moves data governance into Fabric's OneLake catalog and will retire Purview Data]]
 - 2026-11-12 · [[Copilot connectors update long-running Tasks for Power BI, Fabric and Bloomberg, connector]]
