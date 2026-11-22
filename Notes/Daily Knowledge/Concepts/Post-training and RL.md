@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-22 · [[Blind Spots Travel an LLM judge that rejected 11 correct training answers taught a model t]]
+- 2026-11-22 · [[Act-or-Ask (one hobbyist, 60 test cases) a LoRA-tuned 3.8B Phi-4-mini follows a household]]
 - 2026-11-21 · [[PIPETTE hardening open agent models against prompt injection with more varied red-team att]]
 - 2026-11-21 · [[Harness adapters (Hugging Face, Qwen3.8-27B, three harnesses) RL inside the agent harness]]
 - 2026-11-20 · [[FLOP estimates explain little of fine-tuning wall-clock time (R² 0.31 at best); a CatBoost]]

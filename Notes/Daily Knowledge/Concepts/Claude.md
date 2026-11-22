@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-22 · [[Claude computer use reaches Team and Enterprise plans in beta, off by default, with role l]]
+- 2026-11-22 · [[Anthropic researcher claims a proof of the Riemann hypothesis with Claude 17 million lines]]
 - 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]
 - 2026-11-21 · [[Natural experiment (Claude Code users only) losing Claude Fable 5 for 19 days barely chang]]
 - 2026-11-21 · [[Claude Code 2.1.330 sign-in to Enterprise Admin Console orgs, a built-in chart tool, loop]]

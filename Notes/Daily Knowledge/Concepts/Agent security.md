@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-22 · [[ToolPulse an unprivileged process on the same machine can rebuild Claude Code and Codex to]]
+- 2026-11-22 · [[OpenRouter drops three inference providers and removes 125 endpoints from Zero Data Retent]]
+- 2026-11-22 · [[Claude computer use reaches Team and Enterprise plans in beta, off by default, with role l]]
+- 2026-11-22 · [[Act-or-Ask (one hobbyist, 60 test cases) a LoRA-tuned 3.8B Phi-4-mini follows a household]]
 - 2026-11-21 · [[PIPETTE hardening open agent models against prompt injection with more varied red-team att]]
 - 2026-11-21 · [[OpenAI updated safeguards cut red-team extraction of GPT-6.2 Astra's hidden reasoning from]]
 - 2026-11-21 · [[AWS Quick enterprise guardrails (preview) admin-set content filters, PII and prompt-attack]]

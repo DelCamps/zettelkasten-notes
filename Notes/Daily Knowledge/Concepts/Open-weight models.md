@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-22 · [[Foundry Managed Compute is GA 150+ open models served on dedicated GPUs that Microsoft run]]
 - 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
 - 2026-11-21 · [[Harness adapters (Hugging Face, Qwen3.8-27B, three harnesses) RL inside the agent harness]]
 - 2026-11-19 · [[ViKernel Scanner all 20 open-weight models tested got an F; dangerous tool calls ranged fr]]

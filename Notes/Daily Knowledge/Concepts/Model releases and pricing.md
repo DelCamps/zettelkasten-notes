@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-22 · [[GPT-6.2 Sol rolls out in Microsoft 365 Copilot Chat, Cowork, Studio and Office apps; GPT-6]]
 - 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
 - 2026-11-20 · [[Gemini 4 Neon is generally available in GitHub Copilot on Pro+, Max, Business and Enterpri]]
 - 2026-11-19 · [[Google releases Gemini 4 Neon $3$15 per million tokens, 65.2% on Terminal-Bench 4.1, 1 on]]

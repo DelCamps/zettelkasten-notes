@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # OpenAI enterprise
 
 ## Linked from the brief
+- 2026-11-22 · [[OpenAI launches ChatGPT for Sales a Sales plugin plus 30+ new and expanded partner plugins]]
 - 2026-11-21 · [[Codex CLI 0.171.0 makes GPT-6.2 Sol the default model and turns on the terminal workspace]]
 - 2026-11-14 · [[Codex CLI 0.169.0 side-chat tabs, custom model providers from the terminal, and untrusted]]
 - 2026-11-09 · [[ChatGPT Enterprise gets dots, always-on personal agents that keep working between conversa]]

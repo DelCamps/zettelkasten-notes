@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-22 · [[ToolPulse an unprivileged process on the same machine can rebuild Claude Code and Codex to]]
 - 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
 - 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]
 - 2026-11-21 · [[Natural experiment (Claude Code users only) losing Claude Fable 5 for 19 days barely chang]]

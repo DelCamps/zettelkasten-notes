@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-22 · [[Held While Waiting agent steps on AgentCore compute only 0.2-1.5% of the time, yet each co]]
+- 2026-11-22 · [[AWS Quick adds plugins that bundle agents, skills, connectors and flows (100+ available),]]
 - 2026-11-21 · [[AWS Quick enterprise guardrails (preview) admin-set content filters, PII and prompt-attack]]
 - 2026-11-20 · [[Amazon OpenSearch Memory is GA serverless long-term memory for agents, available in Frankf]]
 - 2026-11-20 · [[Amazon Connect Resolutions is GA agents work refund, dispute, fraud and claims cases from]]

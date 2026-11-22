@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-22 · [[OpenAI launches ChatGPT for Sales a Sales plugin plus 30+ new and expanded partner plugins]]
+- 2026-11-22 · [[Held While Waiting agent steps on AgentCore compute only 0.2-1.5% of the time, yet each co]]
+- 2026-11-22 · [[Copilot Cowork at Ignite Brand Kit, app building, a 19-skill Sales plugin, Planner and Viv]]
+- 2026-11-22 · [[AWS Quick adds plugins that bundle agents, skills, connectors and flows (100+ available),]]
 - 2026-11-21 · [[Thinking harder buys confidence, not correctness higher reasoning effort rarely improved p]]
 - 2026-11-21 · [[Power BI Desktop for Apps (preview) describe an app and an agent builds it on a trusted se]]
 - 2026-11-21 · [[Fabric Real-Time Intelligence Operations Agent observability is GA, and agents can now rea]]

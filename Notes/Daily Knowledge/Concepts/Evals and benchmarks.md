@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-22 · [[Rename '5 = Excellent' to '1 = Excellent' and LLM judges change their verdicts 30 of 35 ju]]
+- 2026-11-22 · [[OpenAI's MedChemBench (OpenAI models only) GPT-6.2 Astra earns 84.5% of the credit on 99 m]]
+- 2026-11-22 · [[Fine-tuning a 1B AI-text detector on RAID lifts it from 27th to 5th (99.20% TPR at 1% FPR)]]
+- 2026-11-22 · [[Blind Spots Travel an LLM judge that rejected 11 correct training answers taught a model t]]
 - 2026-11-21 · [[Thinking harder buys confidence, not correctness higher reasoning effort rarely improved p]]
 - 2026-11-21 · [[Natural experiment (Claude Code users only) losing Claude Fable 5 for 19 days barely chang]]
 - 2026-11-21 · [[Done, But Still Working a 'stop once the same patch passes its tests twice' rule cut codin]]
