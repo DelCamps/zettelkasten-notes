@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-23 · [[GitHub Copilot code review is GA for Azure Repos, billed to the Azure subscription; adapti]]
 - 2026-11-20 · [[Microsoft Copilot SDK 2.0 Rust runtime hosts many isolated agent sessions per process, 55]]
 - 2026-11-20 · [[GitHub Copilot team customizations reach GA team maintainers set default plugins for their]]
 - 2026-11-20 · [[Gemini 4 Neon is generally available in GitHub Copilot on Pro+, Max, Business and Enterpri]]

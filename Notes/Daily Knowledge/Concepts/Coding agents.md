@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-23 · [[Together AI a credential committed by an AI coding agent let an attacker download stored c]]
+- 2026-11-23 · [[SplitBench a trusted grader keeps the expected answers away from the agent, and 180 of 202]]
+- 2026-11-23 · [[GitHub Copilot code review is GA for Azure Repos, billed to the Azure subscription; adapti]]
 - 2026-11-22 · [[ToolPulse an unprivileged process on the same machine can rebuild Claude Code and Codex to]]
 - 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
 - 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]

@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-23 · [[OpenAI proposes perplexity as a shared yardstick for frontier models and publishes its own]]
+- 2026-11-23 · [[One correct release makes a small on-device guard agent leak the next restricted item safe]]
+- 2026-11-23 · [[METR's Q4 update (15 models) AI R&D time horizons double every 3.6 months, but models judg]]
 - 2026-11-21 · [[OpenAI updated safeguards cut red-team extraction of GPT-6.2 Astra's hidden reasoning from]]
 - 2026-11-20 · [[US GAO Claude, ChatGPT, Gemini and Grok all gave covert testers viable attack plans in und]]
 - 2026-11-19 · [[GPT-6.2 system card Astra is OpenAI's first public model at 'High' for AI self-improvement]]

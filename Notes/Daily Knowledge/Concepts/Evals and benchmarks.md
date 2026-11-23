@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-23 · [[aemon-8b fine-tuning Aya Expanse 8B on teacher runs lifts strategy investigations finished]]
+- 2026-11-23 · [[SplitBench a trusted grader keeps the expected answers away from the agent, and 180 of 202]]
+- 2026-11-23 · [[RI-Bench orchestrator agents follow a generic reviewer majority in up to 71% of decisions]]
+- 2026-11-23 · [[OpenMed's four open CPU models for Spanish clinical notes 98.57 character F2 at masking pa]]
+- 2026-11-23 · [[METR's Q4 update (15 models) AI R&D time horizons double every 3.6 months, but models judg]]
 - 2026-11-22 · [[Rename '5 = Excellent' to '1 = Excellent' and LLM judges change their verdicts 30 of 35 ju]]
 - 2026-11-22 · [[OpenAI's MedChemBench (OpenAI models only) GPT-6.2 Astra earns 84.5% of the credit on 99 m]]
 - 2026-11-22 · [[Fine-tuning a 1B AI-text detector on RAID lifts it from 27th to 5th (99.20% TPR at 1% FPR)]]

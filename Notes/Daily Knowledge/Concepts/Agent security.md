@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-23 · [[Together AI a credential committed by an AI coding agent let an attacker download stored c]]
+- 2026-11-23 · [[SplitBench a trusted grader keeps the expected answers away from the agent, and 180 of 202]]
+- 2026-11-23 · [[SkillPrivus 307 of 563 public agent skills that handle personal data flag at least one pri]]
+- 2026-11-23 · [[SNOOP which links a web agent clicks leaks your private context (F1 0.89), and four inject]]
+- 2026-11-23 · [[One correct release makes a small on-device guard agent leak the next restricted item safe]]
 - 2026-11-22 · [[ToolPulse an unprivileged process on the same machine can rebuild Claude Code and Codex to]]
 - 2026-11-22 · [[OpenRouter drops three inference providers and removes 125 endpoints from Zero Data Retent]]
 - 2026-11-22 · [[Claude computer use reaches Team and Enterprise plans in beta, off by default, with role l]]

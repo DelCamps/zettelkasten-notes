@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-23 · [[aemon-8b fine-tuning Aya Expanse 8B on teacher runs lifts strategy investigations finished]]
+- 2026-11-23 · [[SkillPrivus 307 of 563 public agent skills that handle personal data flag at least one pri]]
+- 2026-11-23 · [[SNOOP which links a web agent clicks leaks your private context (F1 0.89), and four inject]]
+- 2026-11-23 · [[One correct release makes a small on-device guard agent leak the next restricted item safe]]
+- 2026-11-23 · [[AWS FinOps Agent gets Data Hub (preview) SQL over 13 months of hourly, resource-level cost]]
 - 2026-11-22 · [[OpenAI launches ChatGPT for Sales a Sales plugin plus 30+ new and expanded partner plugins]]
 - 2026-11-22 · [[Held While Waiting agent steps on AgentCore compute only 0.2-1.5% of the time, yet each co]]
 - 2026-11-22 · [[Copilot Cowork at Ignite Brand Kit, app building, a 19-skill Sales plugin, Planner and Viv]]

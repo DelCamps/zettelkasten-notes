@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-23 · [[AWS FinOps Agent gets Data Hub (preview) SQL over 13 months of hourly, resource-level cost]]
 - 2026-11-22 · [[Held While Waiting agent steps on AgentCore compute only 0.2-1.5% of the time, yet each co]]
 - 2026-11-22 · [[AWS Quick adds plugins that bundle agents, skills, connectors and flows (100+ available),]]
 - 2026-11-21 · [[AWS Quick enterprise guardrails (preview) admin-set content filters, PII and prompt-attack]]

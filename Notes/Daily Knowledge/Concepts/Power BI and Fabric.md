@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Power BI and Fabric
 
 ## Linked from the brief
+- 2026-11-23 · [[Copilotforce Salesforce in Microsoft Copilot (preview) brings 38+ sales skills on live CRM]]
 - 2026-11-21 · [[Power BI Desktop for Apps (preview) describe an app and an agent builds it on a trusted se]]
 - 2026-11-21 · [[Fabric Real-Time Intelligence Operations Agent observability is GA, and agents can now rea]]
 - 2026-11-21 · [[Fabric IQ MCP is GA any MCP agent can use a client's governed Power BI metrics and ontolog]]
