@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-24 · [[Power BI Microsoft Copilot with Fabric IQ comes to Basic-licence users; it switches on by]]
 - 2026-11-23 · [[Copilotforce Salesforce in Microsoft Copilot (preview) brings 38+ sales skills on live CRM]]
 - 2026-11-22 · [[GPT-6.2 Sol rolls out in Microsoft 365 Copilot Chat, Cowork, Studio and Office apps; GPT-6]]
 - 2026-11-22 · [[Copilot Cowork at Ignite Brand Kit, app building, a 19-skill Sales plugin, Planner and Viv]]

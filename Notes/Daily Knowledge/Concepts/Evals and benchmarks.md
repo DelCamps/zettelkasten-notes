@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-24 · [[Small models silently pick a side when a prompt gives two conflicting personas they spot t]]
+- 2026-11-24 · [[Right numbers, wrong story LLM-drafted financial reports add judgments and causes nobody s]]
+- 2026-11-24 · [[Hugging Face guide to building agentic evals validate every task with an oracle, a no-op a]]
+- 2026-11-24 · [[Benchmarks' Last Exam only 29.3% of tasks in six multi-step agent and rubric suites pass a]]
 - 2026-11-23 · [[aemon-8b fine-tuning Aya Expanse 8B on teacher runs lifts strategy investigations finished]]
 - 2026-11-23 · [[SplitBench a trusted grader keeps the expected answers away from the agent, and 180 of 202]]
 - 2026-11-23 · [[RI-Bench orchestrator agents follow a generic reviewer majority in up to 71% of decisions]]

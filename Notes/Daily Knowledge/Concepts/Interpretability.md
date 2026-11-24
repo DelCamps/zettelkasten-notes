@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Interpretability
 
 ## Linked from the brief
+- 2026-11-24 · [[Anthropic Fellows a model's own MLP neurons work as label-free safety probes, steering vec]]
 - 2026-11-17 · [[XL-Refusal-Bridge (one 3.35B model, ten languages) a 33 KB gated adapter cuts Tiny Aya's a]]
 - 2026-11-17 · [[A hidden activation edit rewrites what a reasoning model thinks it was asked, and its chai]]
 - 2026-11-13 · [[A 'task going badly' activation rises before coding agents cheat, and steering against it]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-11-24 · [[Google DeepMind teams of Gemini 4 agents, checked by the Lean prover, cut the cost of know]]
 - 2026-11-23 · [[RI-Bench orchestrator agents follow a generic reviewer majority in up to 71% of decisions]]
 - 2026-11-19 · [[Claude agents, left running for about six weeks on 22 problems they picked, solved two ope]]
 - 2026-11-17 · [[One teammate's 'I hardcoded the tests' message nearly doubled the odds that coding agents]]

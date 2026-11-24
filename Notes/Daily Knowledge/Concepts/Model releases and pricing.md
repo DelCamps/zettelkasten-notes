@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-24 · [[Anthropic deprecates Claude Opus 4.5 it retires from the Claude API on 22 January 2027, an]]
 - 2026-11-22 · [[GPT-6.2 Sol rolls out in Microsoft 365 Copilot Chat, Cowork, Studio and Office apps; GPT-6]]
 - 2026-11-21 · [[Thinking Machines releases Inkling 2 Mini a 26.4B looped open-weight model for laptops tha]]
 - 2026-11-20 · [[Gemini 4 Neon is generally available in GitHub Copilot on Pro+, Max, Business and Enterpri]]

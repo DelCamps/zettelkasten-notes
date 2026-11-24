@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-24 · [[Contexture evicting superseded tool outputs from agent context at serving time lifts throu]]
 - 2026-11-21 · [[CompAct-Bench after context compaction, agents finish only 56.7% of tasks they had solved]]
 - 2026-11-20 · [[Letting models rewrite expert agent skills without feedback makes them worse -14.6 points]]
 - 2026-11-20 · [[IBM's agent memory lessons the right number of learned guidelines depends on the model; gp]]

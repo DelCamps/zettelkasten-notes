@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-24 · [[Contexture evicting superseded tool outputs from agent context at serving time lifts throu]]
 - 2026-11-22 · [[Foundry Managed Compute is GA 150+ open models served on dedicated GPUs that Microsoft run]]
 - 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]
 - 2026-11-21 · [[Done, But Still Working a 'stop once the same patch passes its tests twice' rule cut codin]]

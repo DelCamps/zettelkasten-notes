@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-24 · [[Small models silently pick a side when a prompt gives two conflicting personas they spot t]]
+- 2026-11-24 · [[Anthropic launches Enterprise Frontier Safeguards (beta) zero data retention for its most]]
+- 2026-11-24 · [[Anthropic Fellows a model's own MLP neurons work as label-free safety probes, steering vec]]
+- 2026-11-24 · [[Agent recovery in the wild across 50 harnesses and runtimes, only 19 of 128 real-use repor]]
 - 2026-11-23 · [[OpenAI proposes perplexity as a shared yardstick for frontier models and publishes its own]]
 - 2026-11-23 · [[One correct release makes a small on-device guard agent leak the next restricted item safe]]
 - 2026-11-23 · [[METR's Q4 update (15 models) AI R&D time horizons double every 3.6 months, but models judg]]

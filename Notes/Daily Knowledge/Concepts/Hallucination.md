@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Hallucination
 
 ## Linked from the brief
+- 2026-11-24 · [[Right numbers, wrong story LLM-drafted financial reports add judgments and causes nobody s]]
+- 2026-11-24 · [[Reasoning-style RL makes models memorise their own hallucinations recall of rewarded false]]
 - 2026-11-20 · [[traceground a model-free grounding checker caught 80% of planted errors on held-out answer]]
 - 2026-11-20 · [[Coding agents' 'done' reports 37.24% of 435 sampled real reports contain at least one fals]]
 - 2026-11-19 · [[Local Kafka SRE assistant plain retrieval beat every fine-tuned adapter (+1.48 vs -0.18),]]

@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-24 · [[Hugging Face guide to building agentic evals validate every task with an oracle, a no-op a]]
+- 2026-11-24 · [[Benchmarks' Last Exam only 29.3% of tasks in six multi-step agent and rubric suites pass a]]
+- 2026-11-24 · [[Anthropic study of 58 US companies the biggest AI gains came from reorganising work, not t]]
+- 2026-11-24 · [[Agent recovery in the wild across 50 harnesses and runtimes, only 19 of 128 real-use repor]]
 - 2026-11-23 · [[aemon-8b fine-tuning Aya Expanse 8B on teacher runs lifts strategy investigations finished]]
 - 2026-11-23 · [[SkillPrivus 307 of 563 public agent skills that handle personal data flag at least one pri]]
 - 2026-11-23 · [[SNOOP which links a web agent clicks leaks your private context (F1 0.89), and four inject]]

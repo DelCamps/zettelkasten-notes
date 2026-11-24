@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-24 · [[Claude Code 2.1.331 brings Code Mode to Bedrock, Google Cloud, Foundry and Claude Platform]]
+- 2026-11-24 · [[Anthropic study of 58 US companies the biggest AI gains came from reorganising work, not t]]
+- 2026-11-24 · [[Anthropic launches Enterprise Frontier Safeguards (beta) zero data retention for its most]]
+- 2026-11-24 · [[Anthropic deprecates Claude Opus 4.5 it retires from the Claude API on 22 January 2027, an]]
 - 2026-11-22 · [[Claude computer use reaches Team and Enterprise plans in beta, off by default, with role l]]
 - 2026-11-22 · [[Anthropic researcher claims a proof of the Riemann hypothesis with Claude 17 million lines]]
 - 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]

@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Power BI and Fabric
 
 ## Linked from the brief
+- 2026-11-24 · [[Power BI Microsoft Copilot with Fabric IQ comes to Basic-licence users; it switches on by]]
+- 2026-11-24 · [[Fabric adds on-demand billing and a zero-provisioned F0 capacity (preview) start with no u]]
 - 2026-11-23 · [[Copilotforce Salesforce in Microsoft Copilot (preview) brings 38+ sales skills on live CRM]]
 - 2026-11-21 · [[Power BI Desktop for Apps (preview) describe an app and an agent builds it on a trusted se]]
 - 2026-11-21 · [[Fabric Real-Time Intelligence Operations Agent observability is GA, and agents can now rea]]

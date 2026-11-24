@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-24 · [[OpenAI and Cisco open-source Shirudo signed eBPF 'shields' that block an exploit on a live]]
+- 2026-11-24 · [[AWS WAF AI Security is GA it auto-discovers LLM, MCP and A2A endpoints across an AWS Organ]]
 - 2026-11-23 · [[Together AI a credential committed by an AI coding agent let an attacker download stored c]]
 - 2026-11-23 · [[SplitBench a trusted grader keeps the expected answers away from the agent, and 180 of 202]]
 - 2026-11-23 · [[SkillPrivus 307 of 563 public agent skills that handle personal data flag at least one pri]]

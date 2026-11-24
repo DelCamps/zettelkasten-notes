@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-24 · [[Claude Code 2.1.331 brings Code Mode to Bedrock, Google Cloud, Foundry and Claude Platform]]
+- 2026-11-24 · [[Agent recovery in the wild across 50 harnesses and runtimes, only 19 of 128 real-use repor]]
 - 2026-11-23 · [[Together AI a credential committed by an AI coding agent let an attacker download stored c]]
 - 2026-11-23 · [[SplitBench a trusted grader keeps the expected answers away from the agent, and 180 of 202]]
 - 2026-11-23 · [[GitHub Copilot code review is GA for Azure Repos, billed to the Azure subscription; adapti]]

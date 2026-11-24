@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-24 · [[Reasoning-style RL makes models memorise their own hallucinations recall of rewarded false]]
 - 2026-11-23 · [[aemon-8b fine-tuning Aya Expanse 8B on teacher runs lifts strategy investigations finished]]
 - 2026-11-22 · [[Blind Spots Travel an LLM judge that rejected 11 correct training answers taught a model t]]
 - 2026-11-22 · [[Act-or-Ask (one hobbyist, 60 test cases) a LoRA-tuned 3.8B Phi-4-mini follows a household]]

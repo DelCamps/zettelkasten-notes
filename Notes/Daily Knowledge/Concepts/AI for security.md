@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI for security
 
 ## Linked from the brief
+- 2026-11-24 · [[OpenAI and Cisco open-source Shirudo signed eBPF 'shields' that block an exploit on a live]]
 - 2026-11-22 · [[OpenRouter drops three inference providers and removes 125 endpoints from Zero Data Retent]]
 - 2026-11-20 · [[Microsoft Perception goes GA red, blue and green security agents, with six agents generall]]
 - 2026-11-20 · [[Living off the local model (Chrome's Gemini Nano only) malware can drive the browser's bui]]

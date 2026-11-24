@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AI for science and math
 
 ## Linked from the brief
+- 2026-11-24 · [[Google DeepMind teams of Gemini 4 agents, checked by the Lean prover, cut the cost of know]]
 - 2026-11-22 · [[OpenAI's MedChemBench (OpenAI models only) GPT-6.2 Astra earns 84.5% of the credit on 99 m]]
 - 2026-11-22 · [[Anthropic researcher claims a proof of the Riemann hypothesis with Claude 17 million lines]]
 - 2026-11-19 · [[Claude agents, left running for about six weeks on 22 problems they picked, solved two ope]]
