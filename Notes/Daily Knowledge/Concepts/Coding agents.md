@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-25 · [[ShellBench across 53,100 runs, the model explains 95.7% of the variation in everyday-task]]
+- 2026-11-25 · [[Permission replies can rewrite Claude Code's policy one 'approve' from a remote approver d]]
+- 2026-11-25 · [[Overspecified tests two LLM judges flag 23% of SWE-bench Verified and 35% of SWE-bench Pro]]
+- 2026-11-25 · [[Context compaction defeats request-derived injection defences Claude Code and Codex put th]]
+- 2026-11-25 · [[Claude Code 2.1.332 loads skills from MCP servers (beta), adds a PreSkillShellCommand hook]]
 - 2026-11-24 · [[Claude Code 2.1.331 brings Code Mode to Bedrock, Google Cloud, Foundry and Claude Platform]]
 - 2026-11-24 · [[Agent recovery in the wild across 50 harnesses and runtimes, only 19 of 128 real-use repor]]
 - 2026-11-23 · [[Together AI a credential committed by an AI coding agent let an attacker download stored c]]

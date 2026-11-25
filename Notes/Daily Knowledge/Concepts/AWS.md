@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-25 · [[AWS Quick runs Snowflake and Databricks queries as each signed-in user (3LO), so the sourc]]
 - 2026-11-24 · [[AWS WAF AI Security is GA it auto-discovers LLM, MCP and A2A endpoints across an AWS Organ]]
 - 2026-11-23 · [[AWS FinOps Agent gets Data Hub (preview) SQL over 13 months of hourly, resource-level cost]]
 - 2026-11-22 · [[Held While Waiting agent steps on AgentCore compute only 0.2-1.5% of the time, yet each co]]

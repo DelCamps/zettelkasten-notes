@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-25 · [[SAVIOR 2,234 failure-picked financial pages lift Qwen2.5-VL-7B's layout score from 0.563 t]]
 - 2026-11-24 · [[Reasoning-style RL makes models memorise their own hallucinations recall of rewarded false]]
 - 2026-11-23 · [[aemon-8b fine-tuning Aya Expanse 8B on teacher runs lifts strategy investigations finished]]
 - 2026-11-22 · [[Blind Spots Travel an LLM judge that rejected 11 correct training answers taught a model t]]

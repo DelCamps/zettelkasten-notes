@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-25 · [[Permission replies can rewrite Claude Code's policy one 'approve' from a remote approver d]]
+- 2026-11-25 · [[Claude apps install artifacts as desktop apps on Mac and Windows, and let Claude send file]]
+- 2026-11-25 · [[Claude Code 2.1.332 loads skills from MCP servers (beta), adds a PreSkillShellCommand hook]]
 - 2026-11-24 · [[Claude Code 2.1.331 brings Code Mode to Bedrock, Google Cloud, Foundry and Claude Platform]]
 - 2026-11-24 · [[Anthropic study of 58 US companies the biggest AI gains came from reorganising work, not t]]
 - 2026-11-24 · [[Anthropic launches Enterprise Frontier Safeguards (beta) zero data retention for its most]]

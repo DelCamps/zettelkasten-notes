@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Google Cloud
 
 ## Linked from the brief
+- 2026-11-25 · [[Google Workspace MCP servers and Workspace CLI are GA; from 1 February 2027 AI agents must]]
 - 2026-11-20 · [[Gemini API previews tool retrieval deferred tools cost about 26 tokens each until searched]]
 - 2026-11-17 · [[Google Cloud's new Data Boundary experience 40+ sovereignty control packages, dry-run mode]]
 - 2026-11-16 · [[Google Cloud's Organization Policy MCP server is GA, plus Gemini-written custom guardrails]]

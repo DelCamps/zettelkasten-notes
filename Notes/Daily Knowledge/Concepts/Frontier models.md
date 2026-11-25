@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-25 · [[METR OpenAI's pretraining loss has fallen about 7x faster since February 2026, but benchma]]
+- 2026-11-25 · [[ChatGPT's chat tab moves to a GPT-6.2 Sol-based model image understanding 71.7% vs 47.4% f]]
 - 2026-11-23 · [[OpenAI proposes perplexity as a shared yardstick for frontier models and publishes its own]]
 - 2026-11-23 · [[METR's Q4 update (15 models) AI R&D time horizons double every 3.6 months, but models judg]]
 - 2026-11-21 · [[Thinking harder buys confidence, not correctness higher reasoning effort rarely improved p]]

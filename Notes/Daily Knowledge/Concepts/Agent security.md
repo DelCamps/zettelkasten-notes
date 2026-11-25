@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-25 · [[UK AISI how you generate synthetic attacks swings a monitor's measured miss rate from 0.2%]]
+- 2026-11-25 · [[Permission replies can rewrite Claude Code's policy one 'approve' from a remote approver d]]
+- 2026-11-25 · [[Google Workspace MCP servers and Workspace CLI are GA; from 1 February 2027 AI agents must]]
+- 2026-11-25 · [[Context compaction defeats request-derived injection defences Claude Code and Codex put th]]
+- 2026-11-25 · [[Claude Code 2.1.332 loads skills from MCP servers (beta), adds a PreSkillShellCommand hook]]
 - 2026-11-24 · [[OpenAI and Cisco open-source Shirudo signed eBPF 'shields' that block an exploit on a live]]
 - 2026-11-24 · [[AWS WAF AI Security is GA it auto-discovers LLM, MCP and A2A endpoints across an AWS Organ]]
 - 2026-11-23 · [[Together AI a credential committed by an AI coding agent let an attacker download stored c]]

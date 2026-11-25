@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-25 · [[Loop Behind looped models gain mostly from the KV states extra loops leave for later token]]
 - 2026-11-24 · [[Contexture evicting superseded tool outputs from agent context at serving time lifts throu]]
 - 2026-11-22 · [[Foundry Managed Compute is GA 150+ open models served on dedicated GPUs that Microsoft run]]
 - 2026-11-21 · [[Prompt-cache log study (one operator, 71,393 calls) Claude Code calls go cold at exactly 6]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-25 · [[AWS Quick runs Snowflake and Databricks queries as each signed-in user (3LO), so the sourc]]
 - 2026-11-20 · [[Atto embeddings a 28M-parameter model reaches 0.5138 nDCG@10 on three BEIR sets, above Min]]
 - 2026-11-19 · [[Rendering untrusted documents as images only partly stops prompt injection Qwen3-VL-8B sti]]
 - 2026-11-19 · [[Local Kafka SRE assistant plain retrieval beat every fine-tuned adapter (+1.48 vs -0.18),]]

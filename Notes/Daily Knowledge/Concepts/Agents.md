@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-25 · [[ShellBench across 53,100 runs, the model explains 95.7% of the variation in everyday-task]]
+- 2026-11-25 · [[SecondChance resumed from their own natural mistakes, the best agent completes only 16% of]]
+- 2026-11-25 · [[Microsoft Foundry multi-turn evaluation is GA, a Decision-1 judge costs about $0.12 per 1,]]
+- 2026-11-25 · [[Google Workspace MCP servers and Workspace CLI are GA; from 1 February 2027 AI agents must]]
+- 2026-11-25 · [[Copilot in Excel gets accounting skills (Frontier) reconciliations, journal entries and va]]
+- 2026-11-25 · [[Claude apps install artifacts as desktop apps on Mac and Windows, and let Claude send file]]
 - 2026-11-24 · [[Hugging Face guide to building agentic evals validate every task with an oracle, a no-op a]]
 - 2026-11-24 · [[Benchmarks' Last Exam only 29.3% of tasks in six multi-step agent and rubric suites pass a]]
 - 2026-11-24 · [[Anthropic study of 58 US companies the biggest AI gains came from reorganising work, not t]]

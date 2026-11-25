@@ -4,6 +4,14 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-25 · [[Will LLMs run a 'free item, pay delivery' scam With a plain system prompt, 737 of 1,200 co]]
+- 2026-11-25 · [[UK AISI how you generate synthetic attacks swings a monitor's measured miss rate from 0.2%]]
+- 2026-11-25 · [[ShellBench across 53,100 runs, the model explains 95.7% of the variation in everyday-task]]
+- 2026-11-25 · [[SecondChance resumed from their own natural mistakes, the best agent completes only 16% of]]
+- 2026-11-25 · [[SAVIOR 2,234 failure-picked financial pages lift Qwen2.5-VL-7B's layout score from 0.563 t]]
+- 2026-11-25 · [[Overspecified tests two LLM judges flag 23% of SWE-bench Verified and 35% of SWE-bench Pro]]
+- 2026-11-25 · [[Microsoft Foundry multi-turn evaluation is GA, a Decision-1 judge costs about $0.12 per 1,]]
+- 2026-11-25 · [[METR OpenAI's pretraining loss has fallen about 7x faster since February 2026, but benchma]]
 - 2026-11-24 · [[Small models silently pick a side when a prompt gives two conflicting personas they spot t]]
 - 2026-11-24 · [[Right numbers, wrong story LLM-drafted financial reports add judgments and causes nobody s]]
 - 2026-11-24 · [[Hugging Face guide to building agentic evals validate every task with an oracle, a no-op a]]
