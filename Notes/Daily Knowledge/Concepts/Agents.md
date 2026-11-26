@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-26 · [[Workflow security downgrade when a security check fails, MCPSkill agents find a way around]]
+- 2026-11-26 · [[SkillsBench re-audited no task-level 'skills hurt' result survives statistics, and skill-g]]
+- 2026-11-26 · [[Letting the model compact its own context (NVIDIA's NOOA harness) GPT-6.1 Sol goes from 21]]
+- 2026-11-26 · [[Amazon Transcribe Turbo (preview) for voice agents about 14% fewer word errors in English]]
 - 2026-11-25 · [[ShellBench across 53,100 runs, the model explains 95.7% of the variation in everyday-task]]
 - 2026-11-25 · [[SecondChance resumed from their own natural mistakes, the best agent completes only 16% of]]
 - 2026-11-25 · [[Microsoft Foundry multi-turn evaluation is GA, a Decision-1 judge costs about $0.12 per 1,]]

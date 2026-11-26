@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Open-weight models
 
 ## Linked from the brief
+- 2026-11-26 · [[RL on one MI300X teaches Qwen3.8-27B to write correct AMD HIP kernels (33.5% to 54.0%), bu]]
+- 2026-11-26 · [[Hugging Face let a coding agent tune Inkling 2 Mini serving on one RTX PRO 6000 single-use]]
 - 2026-11-25 · [[SAVIOR 2,234 failure-picked financial pages lift Qwen2.5-VL-7B's layout score from 0.563 t]]
 - 2026-11-25 · [[Loop Behind looped models gain mostly from the KV states extra loops leave for later token]]
 - 2026-11-23 · [[OpenMed's four open CPU models for Spanish clinical notes 98.57 character F2 at masking pa]]

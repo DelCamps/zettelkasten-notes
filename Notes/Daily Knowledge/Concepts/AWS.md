@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-26 · [[Codex CLI 0.172.0 lets app-server clients choose Amazon Bedrock Runtime, sets per-tool app]]
+- 2026-11-26 · [[Amazon Transcribe Turbo (preview) for voice agents about 14% fewer word errors in English]]
+- 2026-11-26 · [[AWS Lambda durable functions can now orchestrate MicroVMs (developer preview) checkpointed]]
 - 2026-11-25 · [[AWS Quick runs Snowflake and Databricks queries as each signed-in user (3LO), so the sourc]]
 - 2026-11-24 · [[AWS WAF AI Security is GA it auto-discovers LLM, MCP and A2A endpoints across an AWS Organ]]
 - 2026-11-23 · [[AWS FinOps Agent gets Data Hub (preview) SQL over 13 months of hourly, resource-level cost]]

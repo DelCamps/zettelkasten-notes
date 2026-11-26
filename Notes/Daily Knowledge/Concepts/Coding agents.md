@@ -4,6 +4,15 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-26 · [[SkillsBench re-audited no task-level 'skills hurt' result survives statistics, and skill-g]]
+- 2026-11-26 · [[RL on one MI300X teaches Qwen3.8-27B to write correct AMD HIP kernels (33.5% to 54.0%), bu]]
+- 2026-11-26 · [[Parallel coding subagents add only 1-5 points at up to 3.8x the cost when building whole r]]
+- 2026-11-26 · [[Hugging Face let a coding agent tune Inkling 2 Mini serving on one RTX PRO 6000 single-use]]
+- 2026-11-26 · [[GitHub Copilot's inline suggestions now come from one model instead of three 58.93% fewer]]
+- 2026-11-26 · [[GitHub Copilot code review will be billed to the organization by default from 30 December,]]
+- 2026-11-26 · [[Do coding agents over-edit Across 7,660 GitHub Copilot CLI patches, agent code is at least]]
+- 2026-11-26 · [[Codex CLI 0.172.0 lets app-server clients choose Amazon Bedrock Runtime, sets per-tool app]]
+- 2026-11-26 · [[AWS Lambda durable functions can now orchestrate MicroVMs (developer preview) checkpointed]]
 - 2026-11-25 · [[ShellBench across 53,100 runs, the model explains 95.7% of the variation in everyday-task]]
 - 2026-11-25 · [[Permission replies can rewrite Claude Code's policy one 'approve' from a remote approver d]]
 - 2026-11-25 · [[Overspecified tests two LLM judges flag 23% of SWE-bench Verified and 35% of SWE-bench Pro]]

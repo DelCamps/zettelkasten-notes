@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-26 · [[RL on one MI300X teaches Qwen3.8-27B to write correct AMD HIP kernels (33.5% to 54.0%), bu]]
+- 2026-11-26 · [[GitHub Copilot's inline suggestions now come from one model instead of three 58.93% fewer]]
 - 2026-11-25 · [[SAVIOR 2,234 failure-picked financial pages lift Qwen2.5-VL-7B's layout score from 0.563 t]]
 - 2026-11-24 · [[Reasoning-style RL makes models memorise their own hallucinations recall of rewarded false]]
 - 2026-11-23 · [[aemon-8b fine-tuning Aya Expanse 8B on teacher runs lifts strategy investigations finished]]

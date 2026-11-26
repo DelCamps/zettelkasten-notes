@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Inference efficiency
 
 ## Linked from the brief
+- 2026-11-26 · [[Letting the model compact its own context (NVIDIA's NOOA harness) GPT-6.1 Sol goes from 21]]
+- 2026-11-26 · [[Hugging Face let a coding agent tune Inkling 2 Mini serving on one RTX PRO 6000 single-use]]
 - 2026-11-25 · [[Loop Behind looped models gain mostly from the KV states extra loops leave for later token]]
 - 2026-11-24 · [[Contexture evicting superseded tool outputs from agent context at serving time lifts throu]]
 - 2026-11-22 · [[Foundry Managed Compute is GA 150+ open models served on dedicated GPUs that Microsoft run]]

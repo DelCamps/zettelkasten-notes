@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-26 · [[OpenAI's AI-generated preprint claims the matrix multiplication exponent is exactly 94, a]]
+- 2026-11-26 · [[OpenAI GPT-6.2 designs protein binders with reasoning and code alone; 35 of 322 lab-tested]]
+- 2026-11-26 · [[DeepMind's Humanity's First Exam models score 96-98% once on easy tasks, but the best gets]]
 - 2026-11-25 · [[METR OpenAI's pretraining loss has fallen about 7x faster since February 2026, but benchma]]
 - 2026-11-25 · [[ChatGPT's chat tab moves to a GPT-6.2 Sol-based model image understanding 71.7% vs 47.4% f]]
 - 2026-11-23 · [[OpenAI proposes perplexity as a shared yardstick for frontier models and publishes its own]]

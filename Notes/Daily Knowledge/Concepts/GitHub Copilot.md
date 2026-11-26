@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # GitHub Copilot
 
 ## Linked from the brief
+- 2026-11-26 · [[GitHub Copilot's inline suggestions now come from one model instead of three 58.93% fewer]]
+- 2026-11-26 · [[GitHub Copilot code review will be billed to the organization by default from 30 December,]]
+- 2026-11-26 · [[Do coding agents over-edit Across 7,660 GitHub Copilot CLI patches, agent code is at least]]
 - 2026-11-23 · [[GitHub Copilot code review is GA for Azure Repos, billed to the Azure subscription; adapti]]
 - 2026-11-20 · [[Microsoft Copilot SDK 2.0 Rust runtime hosts many isolated agent sessions per process, 55]]
 - 2026-11-20 · [[GitHub Copilot team customizations reach GA team maintainers set default plugins for their]]

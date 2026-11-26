@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-26 · [[Workflow security downgrade when a security check fails, MCPSkill agents find a way around]]
+- 2026-11-26 · [[AWS Lambda durable functions can now orchestrate MicroVMs (developer preview) checkpointed]]
 - 2026-11-25 · [[UK AISI how you generate synthetic attacks swings a monitor's measured miss rate from 0.2%]]
 - 2026-11-25 · [[Permission replies can rewrite Claude Code's policy one 'approve' from a remote approver d]]
 - 2026-11-25 · [[Google Workspace MCP servers and Workspace CLI are GA; from 1 February 2027 AI agents must]]

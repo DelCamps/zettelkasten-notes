@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # OpenAI enterprise
 
 ## Linked from the brief
+- 2026-11-26 · [[OpenAI adds healthcare model configurations to the Responses API GPT-6.2 Astra and Sol wit]]
+- 2026-11-26 · [[Codex CLI 0.172.0 lets app-server clients choose Amazon Bedrock Runtime, sets per-tool app]]
 - 2026-11-25 · [[ChatGPT's chat tab moves to a GPT-6.2 Sol-based model image understanding 71.7% vs 47.4% f]]
 - 2026-11-22 · [[OpenAI launches ChatGPT for Sales a Sales plugin plus 30+ new and expanded partner plugins]]
 - 2026-11-21 · [[Codex CLI 0.171.0 makes GPT-6.2 Sol the default model and turns on the terminal workspace]]

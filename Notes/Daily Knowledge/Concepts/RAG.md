@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-26 · [[OpenAI adds healthcare model configurations to the Responses API GPT-6.2 Astra and Sol wit]]
 - 2026-11-25 · [[AWS Quick runs Snowflake and Databricks queries as each signed-in user (3LO), so the sourc]]
 - 2026-11-20 · [[Atto embeddings a 28M-parameter model reaches 0.5138 nDCG@10 on three BEIR sets, above Min]]
 - 2026-11-19 · [[Rendering untrusted documents as images only partly stops prompt injection Qwen3-VL-8B sti]]

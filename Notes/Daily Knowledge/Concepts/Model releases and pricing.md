@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-26 · [[OpenAI adds healthcare model configurations to the Responses API GPT-6.2 Astra and Sol wit]]
+- 2026-11-26 · [[GitHub Copilot code review will be billed to the organization by default from 30 December,]]
 - 2026-11-25 · [[ChatGPT's chat tab moves to a GPT-6.2 Sol-based model image understanding 71.7% vs 47.4% f]]
 - 2026-11-24 · [[Anthropic deprecates Claude Opus 4.5 it retires from the Claude API on 22 January 2027, an]]
 - 2026-11-22 · [[GPT-6.2 Sol rolls out in Microsoft 365 Copilot Chat, Cowork, Studio and Office apps; GPT-6]]

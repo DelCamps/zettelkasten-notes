@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-26 · [[Workflow security downgrade when a security check fails, MCPSkill agents find a way around]]
+- 2026-11-26 · [[SkillsBench re-audited no task-level 'skills hurt' result survives statistics, and skill-g]]
+- 2026-11-26 · [[Parallel coding subagents add only 1-5 points at up to 3.8x the cost when building whole r]]
+- 2026-11-26 · [[Do coding agents over-edit Across 7,660 GitHub Copilot CLI patches, agent code is at least]]
+- 2026-11-26 · [[DeepMind's Humanity's First Exam models score 96-98% once on easy tasks, but the best gets]]
 - 2026-11-25 · [[Will LLMs run a 'free item, pay delivery' scam With a plain system prompt, 737 of 1,200 co]]
 - 2026-11-25 · [[UK AISI how you generate synthetic attacks swings a monitor's measured miss rate from 0.2%]]
 - 2026-11-25 · [[ShellBench across 53,100 runs, the model explains 95.7% of the variation in everyday-task]]

@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-26 · [[Letting the model compact its own context (NVIDIA's NOOA harness) GPT-6.1 Sol goes from 21]]
 - 2026-11-25 · [[Context compaction defeats request-derived injection defences Claude Code and Codex put th]]
 - 2026-11-24 · [[Contexture evicting superseded tool outputs from agent context at serving time lifts throu]]
 - 2026-11-21 · [[CompAct-Bench after context compaction, agents finish only 56.7% of tasks they had solved]]
