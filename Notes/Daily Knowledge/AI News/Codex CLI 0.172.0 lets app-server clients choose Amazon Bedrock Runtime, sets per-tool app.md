@@ -18,8 +18,11 @@ OpenAI's Codex CLI 0.172.0 lets app-server clients pick Amazon Bedrock Runtime d
 
 ## Details
 
-**Problem**
-Enterprise Codex deployments need non-OpenAI hosting options, finer approval control and faster startup with many MCP servers.
+**Caveats**
+Incremental release; the changelog gives no performance numbers.
+
+**For your work**
+Clients that must keep traffic on AWS can now run Codex through Bedrock, and per-tool approvers help meet four-eyes controls.
 
 **Method**
 - Amazon Bedrock Runtime selectable for app-server clients
@@ -27,15 +30,12 @@ Enterprise Codex deployments need non-OpenAI hosting options, finer approval con
 - Lazy start for optional stdio MCP servers with cached tool lists
 - Spend-limit errors now say which limit was hit; interrupting a parent turn keeps queued child-agent replies
 
+**Problem**
+Enterprise Codex deployments need non-OpenAI hosting options, finer approval control and faster startup with many MCP servers.
+
 **Results**
 - Released 24 November 2026; also bundles an openai-docs skill covering migration to GPT-6.2 Astra and Sol
 - Code Mode now uses gRPC for all host connections; the code_mode_host_grpc setting is deprecated
-
-**Caveats**
-Incremental release; the changelog gives no performance numbers.
-
-**For your work**
-Clients that must keep traffic on AWS can now run Codex through Bedrock, and per-tool approvers help meet four-eyes controls.
 
 **Concepts:** [[Coding agents]] · [[OpenAI enterprise]] · [[AWS]]
 **From:** [[2026-11-26]]

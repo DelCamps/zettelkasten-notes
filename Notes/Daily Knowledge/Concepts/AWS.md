@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-27 · [[Amazon Textract Insights is GA describe fields in plain language, extract from mixed packe]]
+- 2026-11-27 · [[Amazon Connect AI agents now fill in contact-centre step-by-step guides during live calls,]]
 - 2026-11-26 · [[Codex CLI 0.172.0 lets app-server clients choose Amazon Bedrock Runtime, sets per-tool app]]
 - 2026-11-26 · [[Amazon Transcribe Turbo (preview) for voice agents about 14% fewer word errors in English]]
 - 2026-11-26 · [[AWS Lambda durable functions can now orchestrate MicroVMs (developer preview) checkpointed]]

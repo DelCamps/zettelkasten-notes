@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Structured outputs
 
 ## Linked from the brief
+- 2026-11-27 · [[Text-to-SQL RL rewards checked on one database pay for hacks; hidden database copies cut p]]
+- 2026-11-27 · [[Amazon Textract Insights is GA describe fields in plain language, extract from mixed packe]]
 - 2026-11-13 · [[IBM's LLMON markup separates instructions from data with special tokens, and its own 3B8B]]
 - 2026-11-12 · [[Google releases Gemini Decision 1 and a Decisions API calibrated yesno, choice and score a]]
 - 2026-11-12 · [[Azure Content Understanding adds GPT-5.6, GPT-6 and GPT-6.1; GPT-6.1 Sol is the recommende]]

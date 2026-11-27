@@ -18,8 +18,11 @@ A new extension to the AWS Durable Execution SDK lets one durable Lambda functio
 
 ## Details
 
-**What it is**
-Durable operations for Lambda MicroVMs: the durable function manages the MicroVM lifecycle, runs each task as a checkpointed durable operation, retries failed tasks and refreshes MicroVM tokens. SQS or EventBridge can trigger it. An optional worker library in the MicroVM image receives tasks, sends heartbeats and reports results. Tasks can run alone or in a shared session that shares files and memory.
+**Availability and price**
+Developer preview from 25 November 2026, TypeScript and Python SDKs, in all Regions that support both Lambda durable functions and Lambda MicroVMs (Regions not listed). Pricing not stated on the page.
+
+**Caveats**
+AWS says developer preview features may change and should not be used for production workloads.
 
 **Client use cases**
 - Sandboxed execution for coding agents that write and run code
@@ -33,11 +36,8 @@ Durable operations for Lambda MicroVMs: the durable function manages the MicroVM
 **Pitch**
 AWS is giving agents a serverless, crash-safe sandbox for running the code they write, which addresses a common security objection to coding agents.
 
-**Availability and price**
-Developer preview from 25 November 2026, TypeScript and Python SDKs, in all Regions that support both Lambda durable functions and Lambda MicroVMs (Regions not listed). Pricing not stated on the page.
-
-**Caveats**
-AWS says developer preview features may change and should not be used for production workloads.
+**What it is**
+Durable operations for Lambda MicroVMs: the durable function manages the MicroVM lifecycle, runs each task as a checkpointed durable operation, retries failed tasks and refreshes MicroVM tokens. SQS or EventBridge can trigger it. An optional worker library in the MicroVM image receives tasks, sends heartbeats and reports results. Tasks can run alone or in a shared session that shares files and memory.
 
 **Concepts:** [[AWS]] · [[Agent security]] · [[Coding agents]]
 **From:** [[2026-11-26]]

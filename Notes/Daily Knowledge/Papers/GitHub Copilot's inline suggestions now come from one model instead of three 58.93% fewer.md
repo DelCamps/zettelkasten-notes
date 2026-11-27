@@ -18,24 +18,24 @@ Microsoft's CodeAI and VS Code teams describe merging Copilot's separate complet
 
 ## Details
 
-**Problem**
-The old system called three models in a fixed order. It could not express one intent spanning distant locations, sometimes needed several sequential calls per suggestion, and favoured completion even when a correction was better.
+**Caveats**
+Industry report on one proprietary model. The phase comparisons use different controls and cannot be multiplied into a total effect. The base model is not named.
+
+**For your work**
+Useful as a real-world playbook: offline evals did not fully predict online results, so they tuned model and client together and gated on A/B guardrail metrics. That is relevant when clients ask how Copilot suggestions are evaluated.
 
 **Method**
 - One output space: a sequence of anchored diff patches (location, deleted lines, added lines), allowing multiple edits per response.
 - Multi-edit training data synthesised from single-edit data by model pseudolabelling and edit-history playback.
 - RL with a binary LLM-graded reward, a shared patch-validity taxonomy, and 'grader boosting' for targeted failure modes. Phase 2 adds code completion and client changes.
 
+**Problem**
+The old system called three models in a fixed order. It could not express one intent spanning distant locations, sometimes needed several sequential calls per suggestion, and favoured completion even when a correction was better.
+
 **Results**
 - Phase 1 (2-in-1) vs the three-model system: time to display -6.77%, output tokens -58.93%, with no significant regression in accepted or retained characters.
 - Phase 2 (3-in-1 with client changes): dismissed suggestions per user -10.06%, not significant after Bonferroni correction.
 - In Phase 2, output tokens rise 20.98%, and accepted and retained characters have negative (non-significant) point estimates.
-
-**Caveats**
-Industry report on one proprietary model. The phase comparisons use different controls and cannot be multiplied into a total effect. The base model is not named.
-
-**For your work**
-Useful as a real-world playbook: offline evals did not fully predict online results, so they tuned model and client together and gated on A/B guardrail metrics. That is relevant when clients ask how Copilot suggestions are evaluated.
 
 **Concepts:** [[GitHub Copilot]] · [[Post-training and RL]] · [[Coding agents]]
 **From:** [[2026-11-26]]

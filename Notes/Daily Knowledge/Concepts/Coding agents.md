@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-27 · [[OpenAI fixes a GPT-6.2 metering error Astra users now hit ChatGPT and Codex limits about 4]]
 - 2026-11-26 · [[SkillsBench re-audited no task-level 'skills hurt' result survives statistics, and skill-g]]
 - 2026-11-26 · [[RL on one MI300X teaches Qwen3.8-27B to write correct AMD HIP kernels (33.5% to 54.0%), bu]]
 - 2026-11-26 · [[Parallel coding subagents add only 1-5 points at up to 3.8x the cost when building whole r]]

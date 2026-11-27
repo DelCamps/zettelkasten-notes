@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Computer-use agents
 
 ## Linked from the brief
+- 2026-11-27 · [[OS-Omni on 300 long computer-use tasks across six platforms, Claude Opus 5.5 leads at 68.5]]
 - 2026-11-22 · [[Claude computer use reaches Team and Enterprise plans in beta, off by default, with role l]]
 - 2026-11-20 · [[Foundry Agent Service at Ignite voice agents, A2A, computer use and browser automation, an]]
 - 2026-11-18 · [[SEAM computer-use agents carry out harms hidden across two benign screens in up to 92% of]]

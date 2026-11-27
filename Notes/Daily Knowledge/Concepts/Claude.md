@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-27 · [[OS-Omni on 300 long computer-use tasks across six platforms, Claude Opus 5.5 leads at 68.5]]
 - 2026-11-25 · [[Permission replies can rewrite Claude Code's policy one 'approve' from a remote approver d]]
 - 2026-11-25 · [[Claude apps install artifacts as desktop apps on Mac and Windows, and let Claude send file]]
 - 2026-11-25 · [[Claude Code 2.1.332 loads skills from MCP servers (beta), adds a PreSkillShellCommand hook]]

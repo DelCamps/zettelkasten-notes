@@ -18,25 +18,25 @@ A source-level audit and reanalysis of 7,554 public SkillsBench trials finds tha
 
 ## Details
 
-**Problem**
-SkillsBench reports that curated agent skills add about 16.6 points on average but hurt some tasks, and later work gates or drops skills based on those per-task numbers.
+**Caveats**
+Re-uses public logs only, with no new runs. Held-out tests use single trial pairs per cell.
+
+**For your work**
+Don't retire or gate client skills on 1-3 runs. Check whether a skill is just leaking grader conventions, and run shuffled-label checks before trusting a 'skill hurts' result.
 
 **Method**
 - Source-code audit of prompts, graders and skill packages.
 - Pooled per-cell reanalysis with multiple-testing correction.
 - Gating policies were tested against label-shuffled null runs and on held-out trials.
 
+**Problem**
+SkillsBench reports that curated agent skills add about 16.6 points on average but hurt some tasks, and later work gates or drops skills based on those per-task numbers.
+
 **Results**
 - Overall lift is 18.7 points. Three tasks had grading conventions or definitions found only in the skill text.
 - Four tasks contained placeholder skill directories. In 155 of 184 with-skill OpenHands prompts, 48 built-in skills were listed first.
 - Gating by the skill-free score looks 2-3 points better than always loading skills, but shuffled labels give 4-7 points. On held-out runs there is no significant gain.
 - The 'risk forest' gate's AUC of 0.878 is mostly from a trivial indicator (0.829 alone).
-
-**Caveats**
-Re-uses public logs only, with no new runs. Held-out tests use single trial pairs per cell.
-
-**For your work**
-Don't retire or gate client skills on 1-3 runs. Check whether a skill is just leaking grader conventions, and run shuffled-label checks before trusting a 'skill hurts' result.
 
 **Concepts:** [[Evals and benchmarks]] · [[Coding agents]] · [[Agents]]
 **From:** [[2026-11-26]]

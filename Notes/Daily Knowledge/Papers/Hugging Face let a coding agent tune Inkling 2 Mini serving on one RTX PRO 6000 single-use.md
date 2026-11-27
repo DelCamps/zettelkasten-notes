@@ -18,25 +18,25 @@ Hugging Face gave a coding agent an inference-optimisation skill (change one var
 
 ## Details
 
-**Problem**
-The published serving recipes for Inkling 2 Mini target B200 and GB300 GPUs. How fast can it run on a single RTX PRO 6000 96 GB ($2.75/h endpoint)?
+**Caveats**
+One model, one GPU and nightly engine builds. Speedups are specific to this looped MoE and its drafter.
+
+**For your work**
+A reusable pattern: give an agent a strict benchmarking protocol (bracketing controls, a ledger, acceptance gates) to tune client inference endpoints instead of hand-tuning flags.
 
 **Method**
 - The agent measured hardware ceilings first (1,469 GB/s copy bandwidth) and computed a theoretical decode limit.
 - Changes were kept only if they beat both surrounding control runs without regressing other metrics.
 - Before deploying, the config had to pass long-context retrieval, a concurrency soak and greedy-equivalence checks.
 
+**Problem**
+The published serving recipes for Inkling 2 Mini target B200 and GB300 GPUs. How fast can it run on a single RTX PRO 6000 96 GB ($2.75/h endpoint)?
+
 **Results**
 - Single-user decode: SGLang baseline 134-139 tok/s, vLLM 157.0, vLLM + DSpark 190.6. 8-user aggregate went from about 570 to 716 tok/s (+26%).
 - Speculative verification touches about 40% of each layer's experts instead of 6%, so the ceiling drops to about 201 tok/s. 190.6 is about 95% of that.
 - Needle retrieval passed 3/3 at 249,970 tokens. Greedy decoding with DSpark was byte-identical in 6/6 prompts.
 - Some apparent wins were noise: an SGLang flag showed +4% once and did not reproduce. SGLang varied ±4.5% between runs vs 0.4% for vLLM.
-
-**Caveats**
-One model, one GPU and nightly engine builds. Speedups are specific to this looped MoE and its drafter.
-
-**For your work**
-A reusable pattern: give an agent a strict benchmarking protocol (bracketing controls, a ledger, acceptance gates) to tune client inference endpoints instead of hand-tuning flags.
 
 **Concepts:** [[Inference efficiency]] · [[Open-weight models]] · [[Coding agents]]
 **From:** [[2026-11-26]]

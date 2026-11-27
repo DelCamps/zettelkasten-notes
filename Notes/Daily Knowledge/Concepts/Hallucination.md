@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Hallucination
 
 ## Linked from the brief
+- 2026-11-27 · [[Amazon Textract Insights is GA describe fields in plain language, extract from mixed packe]]
 - 2026-11-24 · [[Right numbers, wrong story LLM-drafted financial reports add judgments and causes nobody s]]
 - 2026-11-24 · [[Reasoning-style RL makes models memorise their own hallucinations recall of rewarded false]]
 - 2026-11-20 · [[traceground a model-free grounding checker caught 80% of planted errors on held-out answer]]

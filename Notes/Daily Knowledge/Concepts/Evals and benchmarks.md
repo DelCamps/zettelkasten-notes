@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-27 · [[Text-to-SQL RL rewards checked on one database pay for hacks; hidden database copies cut p]]
+- 2026-11-27 · [[Router and guardrail models lose accuracy in every non-English language but stay confident]]
+- 2026-11-27 · [[OS-Omni on 300 long computer-use tasks across six platforms, Claude Opus 5.5 leads at 68.5]]
+- 2026-11-27 · [[DRBench Pro scores deep research reports by how much of a knowledge tree they cover; the b]]
 - 2026-11-26 · [[Workflow security downgrade when a security check fails, MCPSkill agents find a way around]]
 - 2026-11-26 · [[SkillsBench re-audited no task-level 'skills hurt' result survives statistics, and skill-g]]
 - 2026-11-26 · [[Parallel coding subagents add only 1-5 points at up to 3.8x the cost when building whole r]]

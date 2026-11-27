@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-27 · [[When an agent breaks a production database, the engine's undo features and permissions dec]]
 - 2026-11-26 · [[Workflow security downgrade when a security check fails, MCPSkill agents find a way around]]
 - 2026-11-26 · [[AWS Lambda durable functions can now orchestrate MicroVMs (developer preview) checkpointed]]
 - 2026-11-25 · [[UK AISI how you generate synthetic attacks swings a monitor's measured miss rate from 0.2%]]

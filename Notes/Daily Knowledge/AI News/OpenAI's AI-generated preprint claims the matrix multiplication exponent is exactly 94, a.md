@@ -18,23 +18,23 @@ A 111-page preprint in OpenAI's math repository, dated 24 November and written b
 
 ## Details
 
-**Problem**
-Researchers have long conjectured that matrices can be multiplied in close to n^2 operations (ω = 2); the best bounds came down slowly for decades, to 9/4 in OpenAI's October preprints.
+**Caveats**
+Not peer reviewed; the paper does not say whether this result is Lean-formalised, and the repo warns unformalised results may have issues. The scope is formal arithmetic circuits. A result this large needs independent checking before anyone relies on it.
+
+**For your work**
+Mostly a capability signal: if it holds, AI-generated research mathematics has moved from new bounds to settling a major open question, which strengthens the case for AI-for-science offerings.
 
 **Method**
 - Proves a matching lower bound for formal arithmetic circuits: at least ⌈n^(9/4)/2⌉ nonscalar multiplication or division gates for every n ≥ 2
 - Argument: a faster algorithm would compress tensor networks enough to break a lower bound for testing whether entries in several independent lists are distinct
 - Relies on two companion OpenAI preprints from the same day (tensor geometry; circuit lower bounds for Hamiltonian cycle and the permanent)
 
+**Problem**
+Researchers have long conjectured that matrices can be multiplied in close to n^2 operations (ω = 2); the best bounds came down slowly for decades, to 9/4 in OpenAI's October preprints.
+
 **Results**
 - Theorem: ω = 9/4 over every field; geometric border rank of the n×n tensor is at least n^(9/4)
 - Corollary: for rectangular products, 1/2 ≤ α ≤ 2/3
-
-**Caveats**
-Not peer reviewed; the paper does not say whether this result is Lean-formalised, and the repo warns unformalised results may have issues. The scope is formal arithmetic circuits. A result this large needs independent checking before anyone relies on it.
-
-**For your work**
-Mostly a capability signal: if it holds, AI-generated research mathematics has moved from new bounds to settling a major open question, which strengthens the case for AI-for-science offerings.
 
 **Concepts:** [[AI for science and math]] · [[Frontier models]]
 **From:** [[2026-11-26]]

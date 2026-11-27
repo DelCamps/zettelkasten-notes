@@ -18,8 +18,11 @@ OpenAI released healthcare configurations of GPT-6.2 Astra, GPT-6.2 Sol, GPT-6 A
 
 ## Details
 
-**What it is**
-New model IDs in the Responses API: gpt-6.2-astra-healthcare, gpt-6.2-sol-healthcare, gpt-6-astra-healthcare and gpt-6.1-sol-healthcare. Each combines an existing OpenAI model with a harness built for clinical questions. When these configurations call web search, they search a dedicated index of medical sources instead of the open web.
+**Availability and price**
+Released in November 2026 in the Responses API (API changelog). Standard prices per million tokens (input/output): gpt-6.2-astra-healthcare $8/$40, gpt-6.2-sol-healthcare $2/$10, gpt-6-astra-healthcare $10/$50, gpt-6.1-sol-healthcare $2/$10. These match the listed prices for the corresponding general GPT-6.2 models. Regional processing (data residency) endpoints cost extra.
+
+**Caveats**
+The changelog gives no benchmarks, regions or HIPAA/BAA terms for these configurations, and the harness is not described in detail. It is not a medical device; outputs still need clinical review.
 
 **Client use cases**
 - Clinical-guideline and drug-information assistants for hospitals and insurers, with answers grounded in medical sources
@@ -34,11 +37,8 @@ New model IDs in the Responses API: gpt-6.2-astra-healthcare, gpt-6.2-sol-health
 **Pitch**
 OpenAI now sells clinically tuned GPT-6.2 at the same price as the general model, so a healthcare client can test grounded medical answers without building a medical search index first. We can run the side-by-side evaluation and the governance.
 
-**Availability and price**
-Released in November 2026 in the Responses API (API changelog). Standard prices per million tokens (input/output): gpt-6.2-astra-healthcare $8/$40, gpt-6.2-sol-healthcare $2/$10, gpt-6-astra-healthcare $10/$50, gpt-6.1-sol-healthcare $2/$10. These match the listed prices for the corresponding general GPT-6.2 models. Regional processing (data residency) endpoints cost extra.
-
-**Caveats**
-The changelog gives no benchmarks, regions or HIPAA/BAA terms for these configurations, and the harness is not described in detail. It is not a medical device; outputs still need clinical review.
+**What it is**
+New model IDs in the Responses API: gpt-6.2-astra-healthcare, gpt-6.2-sol-healthcare, gpt-6-astra-healthcare and gpt-6.1-sol-healthcare. Each combines an existing OpenAI model with a harness built for clinical questions. When these configurations call web search, they search a dedicated index of medical sources instead of the open web.
 
 **Concepts:** [[OpenAI enterprise]] · [[Model releases and pricing]] · [[RAG]]
 **From:** [[2026-11-26]]

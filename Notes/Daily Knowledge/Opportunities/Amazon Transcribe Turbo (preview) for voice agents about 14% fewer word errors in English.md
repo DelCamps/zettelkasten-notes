@@ -18,8 +18,11 @@ AWS previewed Transcribe Turbo, a new speech-to-text model for batch and streami
 
 ## Details
 
-**What it is**
-A next-generation Amazon Transcribe model. The base model needs no API or code changes. Two new streaming features for voice agents: semantic turn-taking, which decides a caller has finished from what they said and their prosody rather than silence; and runtime ASR hints, where the client sends expected menu options, names and entity types (date, phone, currency) before each turn. It also formats numbers, dates, currency, phone numbers and addresses by locale.
+**Availability and price**
+Public preview from 25 November 2026 for batch and streaming in US East (Ohio). English batch Turbo is GA in most AWS Regions; batch Portuguese, French, Italian, German, Spanish, Chinese, Japanese, Korean and Arabic are in preview. Turn-taking and hints are English-only at launch, other languages by end of December 2026. Turn-taking and hints carry no additional charge; base pricing is not stated. No EU region is mentioned.
+
+**Caveats**
+Preview only, in one US region, so EU-resident data is a blocker for now. Accuracy figures are AWS's own; the 87% to 97% routing result is on English customer-service data.
 
 **Client use cases**
 - Contact-centre voice agents (Amazon Connect or custom) for Spanish banks, insurers and utilities
@@ -34,11 +37,8 @@ A next-generation Amazon Transcribe model. The base model needs no API or code c
 **Pitch**
 AWS's new speech model cuts transcription errors and makes voice agents interrupt callers less, with Spanish streaming supported at launch. It is a cheap upgrade for any client already running voice bots on AWS.
 
-**Availability and price**
-Public preview from 25 November 2026 for batch and streaming in US East (Ohio). English batch Turbo is GA in most AWS Regions; batch Portuguese, French, Italian, German, Spanish, Chinese, Japanese, Korean and Arabic are in preview. Turn-taking and hints are English-only at launch, other languages by end of December 2026. Turn-taking and hints carry no additional charge; base pricing is not stated. No EU region is mentioned.
-
-**Caveats**
-Preview only, in one US region, so EU-resident data is a blocker for now. Accuracy figures are AWS's own; the 87% to 97% routing result is on English customer-service data.
+**What it is**
+A next-generation Amazon Transcribe model. The base model needs no API or code changes. Two new streaming features for voice agents: semantic turn-taking, which decides a caller has finished from what they said and their prosody rather than silence; and runtime ASR hints, where the client sends expected menu options, names and entity types (date, phone, currency) before each turn. It also formats numbers, dates, currency, phone numbers and addresses by locale.
 
 **Concepts:** [[AWS]] · [[Agents]]
 **From:** [[2026-11-26]]

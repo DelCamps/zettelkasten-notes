@@ -18,25 +18,25 @@ Microsoft researchers traced every block of 7,660 resolved Copilot CLI patches b
 
 ## Details
 
-**Problem**
-Agent patches are larger than human ones, which is widely read as over-editing. But size alone doesn't show whether the extra edits are needed, what they are, or where they come from.
+**Caveats**
+One harness only (Copilot CLI). Necessity is judged by the benchmark's own tests, so code those tests don't exercise can be misjudged. On DeepSWE, models that resolve more tasks leave more unneeded code (Spearman -0.59).
+
+**For your work**
+When clients complain about bloated agent PRs, separate test and doc additions from code. A revert-and-retest pruning pass is a practical harness step, but review what it removes.
 
 **Method**
 - Delta Residue Attribution: replay each trajectory, split the final patch into revertible units and trace each one to the step that wrote it.
 - Revert each unit and rerun the task tests. Unneeded verdicts are checked with behavioural probes.
 - Developer patches are graded the same way.
 
+**Problem**
+Agent patches are larger than human ones, which is widely read as over-editing. But size alone doesn't show whether the extra edits are needed, what they are, or where they come from.
+
 **Results**
 - Code-necessity score: 0.887 for agents vs 0.864 for developers on SWE-bench Verified; 0.797 vs 0.785 on DeepSWE.
 - On DeepSWE, 58% of the extra edits are code.
 - About 11% of an agent patch's code units on SWE-bench Verified are still unneeded, and 89% of those change behaviour. Three Gemini Flash models leave significantly more than developers.
 - Automated pruning finds 67% of unneeded code at 46% precision, and 89% of pruned patches still pass. Asking the agent to audit its own diff is more precise (66%) but finds less (36%).
-
-**Caveats**
-One harness only (Copilot CLI). Necessity is judged by the benchmark's own tests, so code those tests don't exercise can be misjudged. On DeepSWE, models that resolve more tasks leave more unneeded code (Spearman -0.59).
-
-**For your work**
-When clients complain about bloated agent PRs, separate test and doc additions from code. A revert-and-retest pruning pass is a practical harness step, but review what it removes.
 
 **Concepts:** [[Coding agents]] · [[GitHub Copilot]] · [[Evals and benchmarks]]
 **From:** [[2026-11-26]]

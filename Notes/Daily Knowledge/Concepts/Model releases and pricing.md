@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Model releases and pricing
 
 ## Linked from the brief
+- 2026-11-27 · [[OpenAI fixes a GPT-6.2 metering error Astra users now hit ChatGPT and Codex limits about 4]]
 - 2026-11-26 · [[OpenAI adds healthcare model configurations to the Responses API GPT-6.2 Astra and Sol wit]]
 - 2026-11-26 · [[GitHub Copilot code review will be billed to the organization by default from 30 December,]]
 - 2026-11-25 · [[ChatGPT's chat tab moves to a GPT-6.2 Sol-based model image understanding 71.7% vs 47.4% f]]

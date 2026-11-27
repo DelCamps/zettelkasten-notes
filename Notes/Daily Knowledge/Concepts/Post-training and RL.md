@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Post-training and RL
 
 ## Linked from the brief
+- 2026-11-27 · [[Text-to-SQL RL rewards checked on one database pay for hacks; hidden database copies cut p]]
+- 2026-11-27 · [[NVIDIA opens the data and fine-tuning recipe behind Nemotron 3.5 Parse GRPO cuts looping p]]
+- 2026-11-27 · [[Hugging Face trains a four-agent team to communicate with shared-policy RL one Qwen3-0.6B,]]
 - 2026-11-26 · [[RL on one MI300X teaches Qwen3.8-27B to write correct AMD HIP kernels (33.5% to 54.0%), bu]]
 - 2026-11-26 · [[GitHub Copilot's inline suggestions now come from one model instead of three 58.93% fewer]]
 - 2026-11-25 · [[SAVIOR 2,234 failure-picked financial pages lift Qwen2.5-VL-7B's layout score from 0.563 t]]

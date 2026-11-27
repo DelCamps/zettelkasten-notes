@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Microsoft 365 Copilot
 
 ## Linked from the brief
+- 2026-11-27 · [[Copilot UX components now work in Copilot Cowork and plain Copilot chat as plugins custom]]
 - 2026-11-25 · [[Copilot in Excel gets accounting skills (Frontier) reconciliations, journal entries and va]]
 - 2026-11-24 · [[Power BI Microsoft Copilot with Fabric IQ comes to Basic-licence users; it switches on by]]
 - 2026-11-23 · [[Copilotforce Salesforce in Microsoft Copilot (preview) brings 38+ sales skills on live CRM]]

@@ -4,6 +4,11 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-27 · [[When an agent breaks a production database, the engine's undo features and permissions dec]]
+- 2026-11-27 · [[Layby predicting when an idle agent session returns halves time-to-first-token on a 320B M]]
+- 2026-11-27 · [[DRBench Pro scores deep research reports by how much of a knowledge tree they cover; the b]]
+- 2026-11-27 · [[Copilot UX components now work in Copilot Cowork and plain Copilot chat as plugins custom]]
+- 2026-11-27 · [[Amazon Connect AI agents now fill in contact-centre step-by-step guides during live calls,]]
 - 2026-11-26 · [[Workflow security downgrade when a security check fails, MCPSkill agents find a way around]]
 - 2026-11-26 · [[SkillsBench re-audited no task-level 'skills hurt' result survives statistics, and skill-g]]
 - 2026-11-26 · [[Letting the model compact its own context (NVIDIA's NOOA harness) GPT-6.1 Sol goes from 21]]
