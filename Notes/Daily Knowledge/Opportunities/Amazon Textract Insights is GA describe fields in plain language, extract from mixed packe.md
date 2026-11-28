@@ -18,8 +18,11 @@ AWS made Amazon Textract Insights generally available, a generative AI API that 
 
 ## Details
 
-**What it is**
-A new Amazon Textract API (StartDocumentInsights). Blueprints are JSON Schemas whose fields have natural-language descriptions and are either read verbatim or inferred. You can start from AWS public blueprints (W-2, Form 1040, passport and more) or write your own. With splitting on, it separates a mixed packet, matches each part to a blueprint and writes the results to S3. No training is needed.
+**Availability and price**
+Generally available. Priced per page, no minimum commitment (rates not given). Accepts PDF, PNG, JPEG and TIFF. Inference is routed within the caller's geography. The supported Regions are not listed, and the post says Insights is not yet in Tokyo or Zurich.
+
+**Caveats**
+EU availability for Insights is not stated, so check it before offering this to Spanish clients. Only six languages are supported, confidence thresholds must be tuned on each client's own documents, and AWS gives no accuracy figures.
 
 **Client use cases**
 - Mortgage and loan files: payslips, bank statements and handwritten notes in one scan
@@ -35,11 +38,8 @@ A new Amazon Textract API (StartDocumentInsights). Blueprints are JSON Schemas w
 **Pitch**
 AWS now sells auditable document extraction as one managed API: every value comes back with a confidence score and the page it came from. We can replace clients' hand-built OCR-plus-LLM pipelines and push straight-through processing further in lending, claims and onboarding.
 
-**Availability and price**
-Generally available. Priced per page, no minimum commitment (rates not given). Accepts PDF, PNG, JPEG and TIFF. Inference is routed within the caller's geography. The supported Regions are not listed, and the post says Insights is not yet in Tokyo or Zurich.
-
-**Caveats**
-EU availability for Insights is not stated, so check it before offering this to Spanish clients. Only six languages are supported, confidence thresholds must be tuned on each client's own documents, and AWS gives no accuracy figures.
+**What it is**
+A new Amazon Textract API (StartDocumentInsights). Blueprints are JSON Schemas whose fields have natural-language descriptions and are either read verbatim or inferred. You can start from AWS public blueprints (W-2, Form 1040, passport and more) or write your own. With splitting on, it separates a mixed packet, matches each part to a blueprint and writes the results to S3. No training is needed.
 
 **Concepts:** [[AWS]] · [[Structured outputs]] · [[Hallucination]]
 **From:** [[2026-11-27]]

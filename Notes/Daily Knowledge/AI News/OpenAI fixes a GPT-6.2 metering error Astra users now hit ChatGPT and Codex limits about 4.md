@@ -18,24 +18,24 @@ OpenAI's Thibault Sottiaux said on 26 November that a billing error had undercou
 
 ## Details
 
-**Problem**
-Since GPT-6.2 Astra and Sol launched on 17 November, each task drew less from users' allowances than intended, so limits seemed generous.
+**Caveats**
+Announced in an X post by Sottiaux that could not be fetched directly; OpenAI's help pages do not yet mention the fix. The Decoder reports the same 40% and 25% figures.
+
+**For your work**
+If your team runs Codex or ChatGPT seats on GPT-6.2 Astra, expect earlier limit hits from this week; use Sol and Standard speed for routine work, and plan for Codex and ChatGPT sharing one budget from December.
 
 **Method**
 - OpenAI corrected how much each task consumes from the existing allowance; subscription prices and total allowances are unchanged.
 - Compensation: one complimentary banked reset for Go, Plus, Pro and Business plans, redeemable in Settings > Usage (web) or Usage & billing (desktop) once an eligible allowance is below 80% remaining.
 - Speed settings keep their multipliers: Standard 1x, Fast 2x, Ultrafast 6x.
 
+**Problem**
+Since GPT-6.2 Astra and Sol launched on 17 November, each task drew less from users' allowances than intended, so limits seemed generous.
+
 **Results**
 - Limits now reached 40% faster on GPT-6.2 Astra and 25% faster on Sol versus last week.
 - OpenAI says both models are still more usage-efficient than their predecessors; no retroactive charges; other models unaffected.
 - December: shared token-based allowance across ChatGPT and Codex for Plus, Pro and Business, with Instant chat outside it.
-
-**Caveats**
-Announced in an X post by Sottiaux that could not be fetched directly; OpenAI's help pages do not yet mention the fix. The Decoder reports the same 40% and 25% figures.
-
-**For your work**
-If your team runs Codex or ChatGPT seats on GPT-6.2 Astra, expect earlier limit hits from this week; use Sol and Standard speed for routine work, and plan for Codex and ChatGPT sharing one budget from December.
 
 **Concepts:** [[Model releases and pricing]] · [[OpenAI enterprise]] · [[Coding agents]]
 **From:** [[2026-11-27]]

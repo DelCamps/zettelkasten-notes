@@ -18,25 +18,25 @@ A community study replaces recency-based KV-cache tiering with a 33.8M-parameter
 
 ## Details
 
-**Problem**
-Agent sessions sit idle during tool calls, tests or human pauses, and their large KV caches are either dropped (forcing a full prefill) or written to disk by recency, which on slow or shared disks clogs the write queue with sessions that won't return soon.
+**Caveats**
+Single author, own hardware; baselines in several cells ran once; on fast quiet disks plain recency is near-optimal; mis-sized sliding-window KV on Inkling 2 Mini.
+
+**For your work**
+If you self-host agents with long idle gaps (vLLM or SGLang with a CPU/disk KV tier), the idea of predicting session return instead of LRU is worth testing before buying more GPU memory.
 
 **Method**
 - Layby-Dwell: a 33.8M-parameter survival model (32M Ettin text encoder plus telemetry tower) reads tool calls, recent messages, token counts and timing and estimates return probability over 15 horizons from 0.5 s to 30 min; runs on CPU in about 11-19 ms.
 - A cost rule multiplies that probability by runtime-measured costs (link speed, queue wait, prefill speed, eviction rate) to choose one of four actions per finished turn, with no per-workload threshold.
 - About 412 lines of Python inside vLLM 0.34 and SGLang 0.5.23; GPU eviction stays with the engine's LRU.
 
+**Problem**
+Agent sessions sit idle during tool calls, tests or human pauses, and their large KV caches are either dropped (forcing a full prefill) or written to disk by recency, which on slow or shared disks clogs the write queue with sessions that won't return soon.
+
 **Results**
 - GLM-5.3-Flash (320B MoE, 4x RTX PRO 6000): mean TTFT 21.51 s vs 42.23 s LMCache ARC, 91.57 s no disk tier, 167.91 s Continuum; 148.9 GB written vs 222.3 GB.
 - Slow 141 MB/s disk, Qwen3-8B: 2.06 s mean and 13.57 s p99 with 0 GB written, vs 10.53 s mean and 274.3 s p99 for write-through.
 - DGX Spark, Inkling 2 Mini: 8.17 s vs 23.10 s without a disk tier, but plain write-through won there (6.18 s).
 - Simulator: worst cell about 4% worse than no disk tier.
-
-**Caveats**
-Single author, own hardware; baselines in several cells ran once; on fast quiet disks plain recency is near-optimal; mis-sized sliding-window KV on Inkling 2 Mini.
-
-**For your work**
-If you self-host agents with long idle gaps (vLLM or SGLang with a CPU/disk KV tier), the idea of predicting session return instead of LRU is worth testing before buying more GPU memory.
 
 **Concepts:** [[Inference efficiency]] · [[Agents]]
 **From:** [[2026-11-27]]

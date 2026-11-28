@@ -18,25 +18,25 @@ NVIDIA released three synthetic datasets (9.98M charts, 1M tables, 7.9M multilin
 
 ## Details
 
-**Problem**
-Document parsers for RAG and agent pipelines must turn page images into reading-order text, tables and charts reliably and cheaply; small models tend to loop or run to the token cap.
+**Caveats**
+Self-reported by the vendor; RL comparison uses development checkpoints, not the released model; Parse 2.0 throughput from single trials; no absolute baseline ParseBench scores. The model itself shipped on 17 October under the OpenMDW licence (commercial use allowed); the new parts are the data, recipe and draft model.
+
+**For your work**
+A cheap, commercially usable parser plus a recipe to fine-tune it on a client's own forms (insurance, invoices) for document RAG pipelines.
 
 **Method**
 - SFT on text, layout, tables, charts and multilingual pages, then RLVR with GRPO whose rewards check extraction quality, chart values, usable structure, completion and no looping.
 - Architecture changes from Parse 2.0: dynamic NaViT image inputs, visual tokens as a causal prefix instead of cross-attention, GQA-8.
 - DFlash2 draft model for speculative decoding; optional double or triple pass that re-parses hard regions.
 
+**Problem**
+Document parsers for RAG and agent pipelines must turn page images into reading-order text, tables and charts reliably and cheaply; small models tend to loop or run to the token cap.
+
 **Results**
 - GRPO vs SFT: loop-flagged pages 126 to 29, outputs hitting the 9,000-token cap 185 to 35, score 66.24 to 71.38 (+5.18 tables, +4.15 charts).
 - One H200, concurrency 512: 13.48 pages/s without speculation, 20.44 with DFlash2, vs 2.98 for Parse 2.0.
 - Double and triple pass add 2.18 and 2.46 ParseBench points.
 - Synthetic dental-form adaptation: pass@1 0.00% to 95.85% after SFT and 96.58% after RLVR.
-
-**Caveats**
-Self-reported by the vendor; RL comparison uses development checkpoints, not the released model; Parse 2.0 throughput from single trials; no absolute baseline ParseBench scores. The model itself shipped on 17 October under the OpenMDW licence (commercial use allowed); the new parts are the data, recipe and draft model.
-
-**For your work**
-A cheap, commercially usable parser plus a recipe to fine-tune it on a client's own forms (insurance, invoices) for document RAG pipelines.
 
 **Concepts:** [[RAG]] · [[Post-training and RL]] · [[Open-weight models]]
 **From:** [[2026-11-27]]

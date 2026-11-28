@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AWS
 
 ## Linked from the brief
+- 2026-11-28 · [[Amazon Neptune Graph Sessions (GA) per-agent graphs that scale to zero after 15 minutes id]]
+- 2026-11-28 · [[Amazon Bedrock trusted access program API is GA, and Enterprise Frontier Safeguards and En]]
 - 2026-11-27 · [[Amazon Textract Insights is GA describe fields in plain language, extract from mixed packe]]
 - 2026-11-27 · [[Amazon Connect AI agents now fill in contact-centre step-by-step guides during live calls,]]
 - 2026-11-26 · [[Codex CLI 0.172.0 lets app-server clients choose Amazon Bedrock Runtime, sets per-tool app]]

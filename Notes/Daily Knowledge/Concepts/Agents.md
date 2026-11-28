@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Agents
 
 ## Linked from the brief
+- 2026-11-28 · [[Tool-call smuggling a guard approves one JSON tool call while the executor runs another; 1]]
+- 2026-11-28 · [[ContextLure prompt injections that cite the user's own earlier chat reach 87.3% attack suc]]
+- 2026-11-28 · [[Automatic context engineering (GEPA, ACE, TF-GRPO) does not reliably beat chain-of-thought]]
+- 2026-11-28 · [[A 9-line tail anchor keeps a system persona alive in long skill files full passes rise fro]]
 - 2026-11-27 · [[When an agent breaks a production database, the engine's undo features and permissions dec]]
 - 2026-11-27 · [[Layby predicting when an idle agent session returns halves time-to-first-token on a 320B M]]
 - 2026-11-27 · [[DRBench Pro scores deep research reports by how much of a knowledge tree they cover; the b]]

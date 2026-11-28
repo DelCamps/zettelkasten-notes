@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Agent memory
 
 ## Linked from the brief
+- 2026-11-28 · [[Amazon Neptune Graph Sessions (GA) per-agent graphs that scale to zero after 15 minutes id]]
 - 2026-11-26 · [[Letting the model compact its own context (NVIDIA's NOOA harness) GPT-6.1 Sol goes from 21]]
 - 2026-11-25 · [[Context compaction defeats request-derived injection defences Claude Code and Codex put th]]
 - 2026-11-24 · [[Contexture evicting superseded tool outputs from agent context at serving time lifts throu]]

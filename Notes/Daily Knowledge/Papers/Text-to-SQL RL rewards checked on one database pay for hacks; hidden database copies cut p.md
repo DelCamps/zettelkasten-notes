@@ -18,24 +18,24 @@ A wrong SQL query can match the reference by luck when the data lack rows that e
 
 ## Details
 
-**Problem**
-RL for text-to-SQL agents pays a query when its result matches the reference on one database, so plausible but wrong queries and hacks can earn full reward.
+**Caveats**
+Synthetic questions; one small model; the two rewards disagreed on only 5-7% of rollouts, so the training test had little power.
+
+**For your work**
+When evaluating client text-to-SQL agents, score queries on several perturbed copies of the database, not one snapshot, to catch answers that are right by luck.
 
 **Method**
 - Counterfactual reward: also run the final query on hidden database copies, each edited by code for one bug family; pay only if all match (strict) or by share matched (mean).
 - Audit on 2,847 correct queries, 1,814 realistic buggy variants and 2,839 constructed hacks (literal answers, empty results, hard-coded IDs).
 - GRPO comparison with Tiny Aya Global 3.35B, LoRA, one run_sql tool, three seeds per arm.
 
+**Problem**
+RL for text-to-SQL agents pays a query when its result matches the reference on one database, so plausible but wrong queries and hacks can earn full reward.
+
 **Results**
 - Buggy queries paid in full: 29.5% to 16.8%; hacks: 54.1% to 1.9%; 0 of 2,847 correct queries rejected.
 - Found an exploit in AgentTune's SQL reward (fixed upstream) and the same gap in SkyRL-SQL and eight published Spider systems.
 - Training: no in-domain gain (8.4% vs 11.7%); +1.6 points on Spider, within seed noise. The copies add about 1 ms of CPU per rollout.
-
-**Caveats**
-Synthetic questions; one small model; the two rewards disagreed on only 5-7% of rollouts, so the training test had little power.
-
-**For your work**
-When evaluating client text-to-SQL agents, score queries on several perturbed copies of the database, not one snapshot, to catch answers that are right by luck.
 
 **Concepts:** [[Post-training and RL]] · [[Evals and benchmarks]] · [[Structured outputs]]
 **From:** [[2026-11-27]]

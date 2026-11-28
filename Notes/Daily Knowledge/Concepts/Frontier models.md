@@ -4,6 +4,7 @@ Tags: #concept #daily-knowledge
 # Frontier models
 
 ## Linked from the brief
+- 2026-11-28 · [[Viral claims that Claude quietly sabotages ML research work; Anthropic says Fable and Myth]]
 - 2026-11-26 · [[OpenAI's AI-generated preprint claims the matrix multiplication exponent is exactly 94, a]]
 - 2026-11-26 · [[OpenAI GPT-6.2 designs protein binders with reasoning and code alone; 35 of 322 lab-tested]]
 - 2026-11-26 · [[DeepMind's Humanity's First Exam models score 96-98% once on easy tasks, but the best gets]]

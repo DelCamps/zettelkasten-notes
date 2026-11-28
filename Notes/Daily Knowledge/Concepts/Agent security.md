@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Agent security
 
 ## Linked from the brief
+- 2026-11-28 · [[Upgrading to transformers 5 silently weakens prompt-injection guards Llama Prompt Guard 2]]
+- 2026-11-28 · [[Tool-call smuggling a guard approves one JSON tool call while the executor runs another; 1]]
+- 2026-11-28 · [[MINE a training-free relevance filter for RAG keeps prompt-injection success at 4.76% agai]]
+- 2026-11-28 · [[Foundry IQ (formerly Azure AI Search) permission-aware retrieval is GA, trimming results t]]
+- 2026-11-28 · [[Convex's official Claude Code plugin skills post users' app ideas to a remote host and tel]]
+- 2026-11-28 · [[ContextLure prompt injections that cite the user's own earlier chat reach 87.3% attack suc]]
 - 2026-11-27 · [[When an agent breaks a production database, the engine's undo features and permissions dec]]
 - 2026-11-26 · [[Workflow security downgrade when a security check fails, MCPSkill agents find a way around]]
 - 2026-11-26 · [[AWS Lambda durable functions can now orchestrate MicroVMs (developer preview) checkpointed]]

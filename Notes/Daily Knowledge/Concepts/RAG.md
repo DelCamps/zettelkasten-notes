@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # RAG
 
 ## Linked from the brief
+- 2026-11-28 · [[MINE a training-free relevance filter for RAG keeps prompt-injection success at 4.76% agai]]
+- 2026-11-28 · [[Foundry IQ (formerly Azure AI Search) permission-aware retrieval is GA, trimming results t]]
 - 2026-11-27 · [[NVIDIA opens the data and fine-tuning recipe behind Nemotron 3.5 Parse GRPO cuts looping p]]
 - 2026-11-26 · [[OpenAI adds healthcare model configurations to the Responses API GPT-6.2 Astra and Sol wit]]
 - 2026-11-25 · [[AWS Quick runs Snowflake and Databricks queries as each signed-in user (3LO), so the sourc]]

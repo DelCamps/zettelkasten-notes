@@ -4,6 +4,10 @@ Tags: #concept #daily-knowledge
 # Coding agents
 
 ## Linked from the brief
+- 2026-11-28 · [[Delegent handing Claude Code subagent work to a local 27B model cuts frontier cost by 67%]]
+- 2026-11-28 · [[Convex's official Claude Code plugin skills post users' app ideas to a remote host and tel]]
+- 2026-11-28 · [[Anthropic ports its Messages API from Python to Rust with Claude agents and shadow traffic]]
+- 2026-11-28 · [[Anthropic launches Claude Ship GA Code Review plus beta PR Steward and policy-based Claude]]
 - 2026-11-27 · [[OpenAI fixes a GPT-6.2 metering error Astra users now hit ChatGPT and Codex limits about 4]]
 - 2026-11-26 · [[SkillsBench re-audited no task-level 'skills hurt' result survives statistics, and skill-g]]
 - 2026-11-26 · [[RL on one MI300X teaches Qwen3.8-27B to write correct AMD HIP kernels (33.5% to 54.0%), bu]]

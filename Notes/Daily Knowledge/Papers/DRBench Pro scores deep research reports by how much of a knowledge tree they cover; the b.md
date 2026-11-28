@@ -18,24 +18,24 @@ DRBench Pro builds knowledge trees from Wikipedia and turns each relation into a
 
 ## Details
 
-**Problem**
-Deep research benchmarks score report quality but not which research directions a report covers and how deeply it follows them.
+**Caveats**
+Tasks and rubrics were built with Claude Opus 4.8, which may favour Claude; the swap to Kimi K2.6 was checked on only 10 cases. Wikipedia-based knowledge only.
+
+**For your work**
+Little direct use; the breadth vs depth split is a useful way to grade client deep-research or report-writing agents.
 
 **Method**
 - Automated pipeline builds local knowledge trees from Wikipedia; sampled subgraphs generate queries and evidence-grounded rubrics, one per relation.
 - Breadth and depth scores, combined by geometric mean into overall coverage.
 - Gemini 2.5 Pro judges all 2,304 report-case evaluations; ten PhD-level annotators label 3,695 report-rubric pairs.
 
+**Problem**
+Deep research benchmarks score report quality but not which research directions a report covers and how deeply it follows them.
+
 **Results**
 - Best agent Claude Opus 5 at 57.04% overall coverage; Grok 4.5 second at 50.98%.
 - Judge agrees with human labels at Macro-F1 0.893; rankings stable under metric perturbations.
 - One case: breadth 27.33 and depth 55.19 for one agent vs 54.48 and 29.82 for Grok 4.5, giving similar totals.
-
-**Caveats**
-Tasks and rubrics were built with Claude Opus 4.8, which may favour Claude; the swap to Kimi K2.6 was checked on only 10 cases. Wikipedia-based knowledge only.
-
-**For your work**
-Little direct use; the breadth vs depth split is a useful way to grade client deep-research or report-writing agents.
 
 **Concepts:** [[Evals and benchmarks]] · [[Agents]]
 **From:** [[2026-11-27]]

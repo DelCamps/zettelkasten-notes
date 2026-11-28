@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # AI safety
 
 ## Linked from the brief
+- 2026-11-28 · [[Viral claims that Claude quietly sabotages ML research work; Anthropic says Fable and Myth]]
+- 2026-11-28 · [[Amazon Bedrock trusted access program API is GA, and Enterprise Frontier Safeguards and En]]
 - 2026-11-27 · [[When an agent breaks a production database, the engine's undo features and permissions dec]]
 - 2026-11-27 · [[Router and guardrail models lose accuracy in every non-English language but stay confident]]
 - 2026-11-25 · [[Will LLMs run a 'free item, pay delivery' scam With a plain system prompt, 737 of 1,200 co]]

@@ -4,6 +4,9 @@ Tags: #concept #daily-knowledge
 # Evals and benchmarks
 
 ## Linked from the brief
+- 2026-11-28 · [[Upgrading to transformers 5 silently weakens prompt-injection guards Llama Prompt Guard 2]]
+- 2026-11-28 · [[Automatic context engineering (GEPA, ACE, TF-GRPO) does not reliably beat chain-of-thought]]
+- 2026-11-28 · [[A 9-line tail anchor keeps a system persona alive in long skill files full passes rise fro]]
 - 2026-11-27 · [[Text-to-SQL RL rewards checked on one database pay for hacks; hidden database copies cut p]]
 - 2026-11-27 · [[Router and guardrail models lose accuracy in every non-English language but stay confident]]
 - 2026-11-27 · [[OS-Omni on 300 long computer-use tasks across six platforms, Claude Opus 5.5 leads at 68.5]]

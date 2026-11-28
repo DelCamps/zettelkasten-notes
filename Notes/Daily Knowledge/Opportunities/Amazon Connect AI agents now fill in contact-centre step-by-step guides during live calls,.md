@@ -18,8 +18,11 @@ AI agents in Amazon Connect Customer can now populate the forms in step-by-step 
 
 ## Details
 
-**What it is**
-Step-by-step guides are manager-designed forms and interfaces for common contact-centre workflows. Connect's AI agents now fill their fields from the conversation context and keep suggesting updates as the call goes on, while the human agent reviews everything before it is submitted.
+**Availability and price**
+Available in US East (N. Virginia), US West (Oregon), Asia Pacific (Seoul, Singapore, Sydney, Tokyo), Canada (Central), Europe (Frankfurt) and Europe (London). The announcement does not mention pricing.
+
+**Caveats**
+Only useful for clients already on Amazon Connect. No accuracy or time-saving figures are given, and the release status is not stated.
 
 **Client use cases**
 - Airline or travel rebooking
@@ -33,11 +36,8 @@ Step-by-step guides are manager-designed forms and interfaces for common contact
 **Pitch**
 Existing Amazon Connect clients can cut after-call data entry by letting AI pre-fill case forms during the call while agents keep the final say. It is a low-risk human-in-the-loop starting point for contact-centre AI.
 
-**Availability and price**
-Available in US East (N. Virginia), US West (Oregon), Asia Pacific (Seoul, Singapore, Sydney, Tokyo), Canada (Central), Europe (Frankfurt) and Europe (London). The announcement does not mention pricing.
-
-**Caveats**
-Only useful for clients already on Amazon Connect. No accuracy or time-saving figures are given, and the release status is not stated.
+**What it is**
+Step-by-step guides are manager-designed forms and interfaces for common contact-centre workflows. Connect's AI agents now fill their fields from the conversation context and keep suggesting updates as the call goes on, while the human agent reviews everything before it is submitted.
 
 **Concepts:** [[AWS]] · [[Agents]]
 **From:** [[2026-11-27]]

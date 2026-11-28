@@ -4,6 +4,8 @@ Tags: #concept #daily-knowledge
 # Multi-agent systems
 
 ## Linked from the brief
+- 2026-11-28 · [[Delegent handing Claude Code subagent work to a local 27B model cuts frontier cost by 67%]]
+- 2026-11-28 · [[Anthropic ports its Messages API from Python to Rust with Claude agents and shadow traffic]]
 - 2026-11-27 · [[Hugging Face trains a four-agent team to communicate with shared-policy RL one Qwen3-0.6B,]]
 - 2026-11-26 · [[Parallel coding subagents add only 1-5 points at up to 3.8x the cost when building whole r]]
 - 2026-11-24 · [[Google DeepMind teams of Gemini 4 agents, checked by the Lean prover, cut the cost of know]]

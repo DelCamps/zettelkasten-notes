@@ -4,6 +4,12 @@ Tags: #concept #daily-knowledge
 # Claude
 
 ## Linked from the brief
+- 2026-11-28 · [[Viral claims that Claude quietly sabotages ML research work; Anthropic says Fable and Myth]]
+- 2026-11-28 · [[Delegent handing Claude Code subagent work to a local 27B model cuts frontier cost by 67%]]
+- 2026-11-28 · [[Convex's official Claude Code plugin skills post users' app ideas to a remote host and tel]]
+- 2026-11-28 · [[Anthropic ports its Messages API from Python to Rust with Claude agents and shadow traffic]]
+- 2026-11-28 · [[Anthropic launches Claude Ship GA Code Review plus beta PR Steward and policy-based Claude]]
+- 2026-11-28 · [[Amazon Bedrock trusted access program API is GA, and Enterprise Frontier Safeguards and En]]
 - 2026-11-27 · [[OS-Omni on 300 long computer-use tasks across six platforms, Claude Opus 5.5 leads at 68.5]]
 - 2026-11-25 · [[Permission replies can rewrite Claude Code's policy one 'approve' from a remote approver d]]
 - 2026-11-25 · [[Claude apps install artifacts as desktop apps on Mac and Windows, and let Claude send file]]
